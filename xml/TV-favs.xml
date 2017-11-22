@@ -1,0 +1,69 @@
+#####################################################################################################################################
+<poster>LaffinAtcha</poster>
+<thumbnail></thumbnail>
+<fanart></fanart>
+#####################################################################################################################################
+
+<dir>
+        <title>The Walking Dead</title>
+        <meta>
+                <content>tvshow</content>
+                <imdb>tt1520211</imdb>
+                <tvdb>153021</tvdb>
+                <tvshowtitle>The Walking Dead</tvshowtitle>
+                <year>2010</year>
+        </meta>
+        <link>https://raw.githubusercontent.com/Tikkes/darkside-repo/master/xml/TheWalkingDead.xml</link>
+        <animated_thumbnail></animated_thumbnail>
+        <thumbnail>https://www.thetvdb.com/banners/posters/153021-63.jpg</thumbnail>
+        <animated_fanart></animated_fanart>
+        <fanart>https://www.thetvdb.com/banners/_cache/posters/153021-63.jpg</fanart>
+</dir>
+
+<dir>
+        <title>Fear The Walking Dead</title>
+        <meta>
+                <content>tvshow</content>
+                <imdb>tt3743822</imdb>
+                <tvdb>290853</tvdb>
+                <tvshowtitle>Fear The Walking Dead</tvshowtitle>
+                <year>2015</year>
+        </meta>
+        <link>https://raw.githubusercontent.com/Tikkes/darkside-repo/master/xml/fearthewalkingdead.xml</link>
+        <animated_thumbnail></animated_thumbnail>
+        <thumbnail>https://www.thetvdb.com/banners/_cache/posters/290853-5.jpg</thumbnail>
+        <animated_fanart></animated_fanart>
+        <fanart>https://www.thetvdb.com/banners/fanart/original/290853-24.jpg</fanart>
+</dir>
+
+<dir>
+        <title>The Punisher</title>
+        <meta>
+                <content>tvshow</content>
+                <imdb>tt5675620</imdb>
+                <tvdb>331980</tvdb>
+                <tvshowtitle>The Punisher</tvshowtitle>
+                <year>2017</year>
+        </meta>
+        <link>https://raw.githubusercontent.com/Tikkes/darkside-repo/master/xml/Punisher.xml</link>
+        <animated_thumbnail></animated_thumbnail>
+        <thumbnail>https://www.thetvdb.com/banners/posters/331980-11.jpg</thumbnail>
+        <animated_fanart></animated_fanart>
+        <fanart>https://www.thetvdb.com/banners/fanart/original/331980-4.jpg</fanart>
+</dir>
+
+<dir>
+        <title></title>
+        <meta>
+                <content>tvshow</content>
+                <imdb></imdb>
+                <tvdb></tvdb>
+                <tvshowtitle></tvshowtitle>
+                <year></year>
+        </meta>
+        <link></link>
+        <animated_thumbnail></animated_thumbnail>
+        <thumbnail></thumbnail>
+        <animated_fanart></animated_fanart>
+        <fanart></fanart>
+</dir>

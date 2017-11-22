@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="repository.darkside" name="The Dark Side Repository" version="0.0.1" provider-name="laffinatcha - tikkes">
+	<extension point="xbmc.addon.repository" name="The Dark Side Repository">
+		<dir>
+			<info compressed="false">https://raw.githubusercontent.com/noobsandnerds/modules4all/master/zips/addons.xml</info>
+			<checksum>https://raw.githubusercontent.com/noobsandnerds/modules4all/master/zips/addons.xml.md5</checksum>
+			<datadir zip="true">https://raw.githubusercontent.com/noobsandnerds/modules4all/master/zips/</datadir>
+		</dir>
+		<info compressed="false">https://raw.githubusercontent.com/Tikkes/laffinatcha-repo/master/zips/addons.xml</info>
+		<checksum>https://raw.githubusercontent.com/Tikkes/laffinatcha-repo/master/zips/addons.xml.md5</checksum>
+		<datadir zip="true">https://raw.githubusercontent.com/Tikkes/laffinatcha-repo/master/zips/</datadir>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary lang="en">The Dark Side Repository</summary>
+		<description lang="en">Home of the Death Star Addon</description>
+		<genre>movies,tvshows</genre>
+	</extension>
+</addon>

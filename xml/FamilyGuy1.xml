@@ -27,3 +27,25 @@
         <animated_fanart></animated_fanart>
         <fanart></fanart>
 </item>
+<item>
+        <title>Family Guy S01E01 - Death has a Shadow</title>
+        <meta>
+                <content>episode</content>
+                <imdb>tt5009240</imdb>
+                <tvdb>372790</tvdb>
+                <tvshowtitle>Family Guy</tvshowtitle>
+                <year>1999</year>
+                <title>Death has a Shadow</title>
+                <premiered>1999-01-31</premiered>
+                <season>1</season>
+                <episode>1</episode>
+        </meta>
+        <link>
+                <sublink>search</sublink>
+                <sublink>searchsd</sublink>
+        </link>
+        <animated_thumbnail></animated_thumbnail>
+        <thumbnail></thumbnail>
+        <animated_fanart></animated_fanart>
+        <fanart></fanart>
+</item>

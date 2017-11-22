@@ -1,0 +1,39 @@
+##################################################################################################################################
+<poster>nDeavor</poster>
+<thumbnail></thumbnail>
+<fanart>https://www.thetvdb.com/banners/fanart/original/75978-31.jpg</fanart>
+##################################################################################################################################
+
+<dir>
+        <name>Family Guy Season 1</name>
+        <meta>
+                <content>season</content>
+                <imdb>tt0182576</imdb>
+                <tvdb>75978</tvdb>
+                <tvshowtitle>Family Guy</tvshowtitle>
+                <year>1999</year>
+                <season>1</season>
+        </meta>
+        <link>https://raw.githubusercontent.com/Tikkes/darkside-repo/master/xml/FamilyGuy1.xml</link>
+        <animated_thumbnail></animated_thumbnail>
+        <thumbnail>https://www.thetvdb.com/banners/seasons/153021-1-20.jpg</thumbnail>
+        <animated_fanart></animated_fanart>
+        <fanart></fanart>
+</dir>
+
+<dir>
+        <name>Family Guy Season 2</name>
+        <meta>
+                <content>season</content>
+                <imdb>tt0182576</imdb>
+                <tvdb>75978</tvdb>
+                <tvshowtitle>Family Guy</tvshowtitle>
+                <year>2000</year>
+                <season>2</season>
+        </meta>
+        <link>https://raw.githubusercontent.com/Tikkes/darkside-repo/master/xml/FamilyGuy2.xml</link>
+        <animated_thumbnail></animated_thumbnail>
+        <thumbnail></thumbnail>
+        <animated_fanart></animated_fanart>
+        <fanart></fanart>
+</dir>

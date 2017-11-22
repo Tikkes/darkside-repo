@@ -1,14 +1,14 @@
-<?xml version="1.0" ?>
-<root>
-	<poster>Tikkes</poster>
-	<cache>10800</cache>
-	<thumbnail> </thumbnail>
-	<fanart>add URL here</fanart>
-	<item>
-		<title>Title: Family Guy S00E01 - Stewie Griffin: The Untold Story</title>
-		<meta>
-			<content>episode</content>
-			<imdb>tt0182576</imdb>
+################################################################################################################################
+<poster>Tikkes</poster>
+<cache>10800</cache>
+<thumbnail> </thumbnail>
+<fanart>add URL here</fanart>
+################################################################################################################################
+<item>
+	<title>Title: Family Guy S00E01 - Stewie Griffin: The Untold Story</title>
+	<meta>
+		<content>episode</content>
+		<imdb>tt0182576</imdb>
 			<tvdb>181165</tvdb>
 			<tvshowtitle>Family Guy</tvshowtitle>
 			<year>2006</year>
@@ -488,4 +488,3 @@
 		<animated_fanart> </animated_fanart>
 		<fanart> </fanart>
 	</item>
-</root>

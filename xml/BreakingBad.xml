@@ -1,90 +1,103 @@
-##################################################################################################################################
+
+################################################################################################################################
 <poster>Tikkes</poster>
 <thumbnail></thumbnail>
-<fanart>https://www.thetvdb.com/banners/fanart/original/75978-31.jpg</fanart>
-##################################################################################################################################
+<fanart></fanart>
+################################################################################################################################
 
 <dir>
-        <name>Breaking Bad Season 1</name>
-        <meta>
-                <content>season</content>
-                <imdb>tt0903747</imdb>
-                <tvdb>81189</tvdb>
-                <tvshowtitle>Breaking Bad</tvshowtitle>
-                <year>1999</year>
-                <season>1</season>
-        </meta>
-        <link>https://raw.githubusercontent.com/Tikkes/darkside-repo/master/xml/BreakingBad01.xml</link>
-        <animated_thumbnail></animated_thumbnail>
-        <thumbnail>https://www.thetvdb.com/banners/seasons/153021-1-20.jpg</thumbnail>
-        <animated_fanart></animated_fanart>
-        <fanart></fanart>
+    <name>Breaking Bad Season 0</name>
+    <meta>
+        <content>season</content>
+        <imdb>tt0903747</imdb>
+        <tvdb>81189</tvdb>
+        <tvshowtitle>Breaking Bad</tvshowtitle>
+        <year>2008</year>
+        <season>0</season>
+    </meta>
+    <link>https://raw.githubusercontent.com/Tikkes/darkside-repo/master/xml/BreakingBad00.xml</link>
+    <animated_thumbnail></animated_thumbnail>
+    <thumbnail></thumbnail>
+    <animated_fanart></animated_fanart>
+    <fanart></fanart>
 </dir>
-
 <dir>
-        <name>Breaking Bad Season 2</name>
-        <meta>
-                <content>season</content>
-                <imdb>tt0903747</imdb>
-                <tvdb>81189</tvdb>
-                <tvshowtitle>Breaking Bad</tvshowtitle>
-                <year>1999</year>
-                <season>1</season>
-        </meta>
-        <link>https://raw.githubusercontent.com/Tikkes/darkside-repo/master/xml/BreakingBad02.xml</link>
-        <animated_thumbnail></animated_thumbnail>
-        <thumbnail>https://www.thetvdb.com/banners/seasons/153021-1-20.jpg</thumbnail>
-        <animated_fanart></animated_fanart>
-        <fanart></fanart>
+    <name>Breaking Bad Season 1</name>
+    <meta>
+        <content>season</content>
+        <imdb>tt0903747</imdb>
+        <tvdb>81189</tvdb>
+        <tvshowtitle>Breaking Bad</tvshowtitle>
+        <year>2008</year>
+        <season>1</season>
+    </meta>
+    <link>https://raw.githubusercontent.com/Tikkes/darkside-repo/master/xml/BreakingBad01.xml</link>
+    <animated_thumbnail></animated_thumbnail>
+    <thumbnail></thumbnail>
+    <animated_fanart></animated_fanart>
+    <fanart></fanart>
 </dir>
-
 <dir>
-        <name>Breaking Bad Season 3</name>
-        <meta>
-                <content>season</content>
-                <imdb>tt0903747</imdb>
-                <tvdb>81189</tvdb>
-                <tvshowtitle>Breaking Bad</tvshowtitle>
-                <year>1999</year>
-                <season>1</season>
-        </meta>
-        <link>https://raw.githubusercontent.com/Tikkes/darkside-repo/master/xml/BreakingBad03.xml</link>
-        <animated_thumbnail></animated_thumbnail>
-        <thumbnail>https://www.thetvdb.com/banners/seasons/153021-1-20.jpg</thumbnail>
-        <animated_fanart></animated_fanart>
-        <fanart></fanart>
+    <name>Breaking Bad Season 2</name>
+    <meta>
+        <content>season</content>
+        <imdb>tt0903747</imdb>
+        <tvdb>81189</tvdb>
+        <tvshowtitle>Breaking Bad</tvshowtitle>
+        <year>2008</year>
+        <season>2</season>
+    </meta>
+    <link>https://raw.githubusercontent.com/Tikkes/darkside-repo/master/xml/BreakingBad02.xml</link>
+    <animated_thumbnail></animated_thumbnail>
+    <thumbnail></thumbnail>
+    <animated_fanart></animated_fanart>
+    <fanart></fanart>
 </dir>
-
 <dir>
-        <name>Breaking Bad Season 4</name>
-        <meta>
-                <content>season</content>
-                <imdb>tt0903747</imdb>
-                <tvdb>81189</tvdb>
-                <tvshowtitle>Breaking Bad</tvshowtitle>
-                <year>1999</year>
-                <season>1</season>
-        </meta>
-        <link>https://raw.githubusercontent.com/Tikkes/darkside-repo/master/xml/BreakingBad04.xml</link>
-        <animated_thumbnail></animated_thumbnail>
-        <thumbnail>https://www.thetvdb.com/banners/seasons/153021-1-20.jpg</thumbnail>
-        <animated_fanart></animated_fanart>
-        <fanart></fanart>
+    <name>Breaking Bad Season 3</name>
+    <meta>
+        <content>season</content>
+        <imdb>tt0903747</imdb>
+        <tvdb>81189</tvdb>
+        <tvshowtitle>Breaking Bad</tvshowtitle>
+        <year>2008</year>
+        <season>3</season>
+    </meta>
+    <link>https://raw.githubusercontent.com/Tikkes/darkside-repo/master/xml/BreakingBad03.xml</link>
+    <animated_thumbnail></animated_thumbnail>
+    <thumbnail></thumbnail>
+    <animated_fanart></animated_fanart>
+    <fanart></fanart>
 </dir>
-
 <dir>
-        <name>Breaking Bad Season 5</name>
-        <meta>
-                <content>season</content>
-                <imdb>tt0903747</imdb>
-                <tvdb>81189</tvdb>
-                <tvshowtitle>Breaking Bad</tvshowtitle>
-                <year>1999</year>
-                <season>1</season>
-        </meta>
-        <link>https://raw.githubusercontent.com/Tikkes/darkside-repo/master/xml/BreakingBad05.xml</link>
-        <animated_thumbnail></animated_thumbnail>
-        <thumbnail>https://www.thetvdb.com/banners/seasons/153021-1-20.jpg</thumbnail>
-        <animated_fanart></animated_fanart>
-        <fanart></fanart>
+    <name>Breaking Bad Season 4</name>
+    <meta>
+        <content>season</content>
+        <imdb>tt0903747</imdb>
+        <tvdb>81189</tvdb>
+        <tvshowtitle>Breaking Bad</tvshowtitle>
+        <year>2008</year>
+        <season>4</season>
+    </meta>
+    <link>https://raw.githubusercontent.com/Tikkes/darkside-repo/master/xml/BreakingBad04.xml</link>
+    <animated_thumbnail></animated_thumbnail>
+    <thumbnail></thumbnail>
+    <animated_fanart></animated_fanart>
+    <fanart></fanart>
+</dir>
+<dir>
+    <name>Breaking Bad Season 5</name>
+    <meta>
+        <content>season</content>
+        <imdb>tt0903747</imdb>
+        <tvdb>81189</tvdb>
+        <tvshowtitle>Breaking Bad</tvshowtitle>
+        <year>2008</year>
+        <season>5</season>
+    </meta>
+    <link>https://raw.githubusercontent.com/Tikkes/darkside-repo/master/xml/BreakingBad05.xml</link>
+    <animated_thumbnail></animated_thumbnail>
+    <thumbnail></thumbnail>
+    <animated_fanart></animated_fanart>
+    <fanart></fanart>
 </dir>

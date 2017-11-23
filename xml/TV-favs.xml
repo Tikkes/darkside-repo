@@ -348,3 +348,153 @@
         <animated_fanart></animated_fanart>
         <fanart>https://www.thetvdb.com/banners/fanart/original/161511-8.jpg</fanart>
 </dir>
+<dir>
+        <title>Brooklyn Nine-Nine</title>
+        <meta>
+                <content>tvshow</content>
+				<imdb>tt2467372</imdb>
+				<tvdb>269586</tvdb>
+				<tvshowtitle>Brooklyn Nine-Nine</tvshowtitle>
+				<year>2013</year>
+        </meta>
+        <liink>https://raw.githubusercontent.com/Tikkes/darkside-repo/master/xml/BrooklynNine-Nine.xml</link>
+        <animated_thumbnail></animated_thumbnail>
+        <thumbnail>https://www.thetvdb.com/banners/posters/269586-12.jpg</thumbnail>
+        <animated_fanart></animated_fanart>
+        <fanart>https://www.thetvdb.com/banners/fanart/original/269586-15.jpg</fanart>
+</dir>
+<dir>
+        <title>DC's Legends of Tomorrow</title>
+        <meta>
+                <content>tvshow</content>
+				<imdb>tt4532368</imdb>
+				<tvdb>295760</tvdb>
+				<tvshowtitle>DC's Legends of Tomorrow</tvshowtitle>
+				<year>2016</year>
+        </meta>
+        <link>https://raw.githubusercontent.com/Tikkes/darkside-repo/master/xml/DC'sLegendsofTomorrow.xml</link>
+        <animated_thumbnail></animated_thumbnail>
+        <thumbnail>https://www.thetvdb.com/banners/posters/295760-15.jpg</thumbnail>
+        <animated_fanart></animated_fanart>
+        <fanart>https://www.thetvdb.com/banners/fanart/original/295760-8.jpg</fanart>
+</dir>
+<dir>
+        <title>Lethal Weapon</title>
+        <meta>
+                <content>tvshow</content>
+				<imdb>tt5164196</imdb>
+				<tvdb>311790</tvdb>
+				<tvshowtitle>Lethal Weapon</tvshowtitle>
+				<year>2016</year>
+        </meta>
+        <lilink>https://raw.githubusercontent.com/Tikkes/darkside-repo/master/xml/LethalWeapon.xml</link>
+        <animated_thumbnail></animated_thumbnail>
+        <thumbnail>https://www.thetvdb.com/banners/posters/311790-2.jpg</thumbnail>
+        <animated_fanart></animated_fanart>
+        <fanart>https://www.thetvdb.com/banners/fanart/original/311790-10.jpg</fanart>
+</dir>
+<dir>
+        <title>Lucifer</title>
+        <meta>
+                <content>tvshow</content>
+				<imdb>tt4052886</imdb>
+				<tvdb>295685</tvdb>
+				<tvshowtitle>Lucifer</tvshowtitle>
+				<year>2016</year>
+        </meta>
+        <link>https://raw.githubusercontent.com/Tikkes/darkside-repo/master/xml/Lucifer.xml</link>
+        <animated_thumbnail></animated_thumbnail>
+        <thumbnail>https://www.thetvdb.com/banners/posters/295685-9.jpg</thumbnail>
+        <animated_fanart></animated_fanart>
+        <fanart>https://www.thetvdb.com/banners/fanart/original/295685-11.jpg</fanart>
+</dir>
+<dir>
+        <title>Mr. Robot</title>
+        <meta>
+                <content>tvshow</content>
+				<imdb>tt4158110</imdb>
+				<tvdb>289590</tvdb>
+				<tvshowtitle>Mr. Robot</tvshowtitle>
+				<year>2015</year>
+        </meta>
+        <link>https://raw.githubusercontent.com/Tikkes/darkside-repo/master/xml/Mr.Robot.xml</link>
+        <animated_thumbnail></animated_thumbnail>
+        <thumbnail>https://www.thetvdb.com/banners/posters/289590-12.jpg</thumbnail>
+        <animated_fanart></animated_fanart>
+        <fanart>https://www.thetvdb.com/banners/fanart/original/289590-19.jpg</fanart>
+</dir>
+<dir>
+        <title>Orphan Black</title>
+        <meta>
+                <content>tvshow</content>
+				<imdb>tt2234222</imdb>
+				<tvdb>260315</tvdb>
+				<tvshowtitle>Orphan Black</tvshowtitle>
+				<year>2013</year>
+        </meta>
+        <link>https://raw.githubusercontent.com/Tikkes/darkside-repo/master/xml/OrphanBlack.xml</link>
+        <animated_thumbnail></animated_thumbnail>
+        <thumbnail>https://www.thetvdb.com/banners/posters/260315-14.jpg</thumbnail>
+        <animated_fanart></animated_fanart>
+        <fanart>https://www.thetvdb.com/banners/fanart/original/260315-16.jpg</fanart>
+</dir>
+<dir>
+        <title>Peaky Blinders</title>
+        <meta>
+                <content>tvshow</content>
+				<imdb>tt2442560</imdb>
+				<tvdb>270915</tvdb>
+				<tvshowtitle>Peaky Blinders</tvshowtitle>
+				<year>2013</year>
+        </meta>
+        <link>https://raw.githubusercontent.com/Tikkes/darkside-repo/master/xml/PeakyBlinders.xml</link>
+        <animated_thumbnail></animated_thumbnail>
+        <thumbnail>https://www.thetvdb.com/banners/posters/270915-20.jpg</thumbnail>
+        <animated_fanart></animated_fanart>
+        <fanart>https://www.thetvdb.com/banners/fanart/original/270915-10.jpgb  </fanart>
+</dir>
+<dir>
+        <title>The Big Bang Theory</title>
+        <meta>
+                <content>tvshow</content>
+				<imdb>tt0898266</imdb>
+				<tvdb>80379</tvdb>
+				<tvshowtitle>The Big Bang Theory</tvshowtitle>
+				<year>2007</year>
+        </meta>
+        <link>https://raw.githubusercontent.com/Tikkes/darkside-repo/master/xml/TheBigBangTheory.xml</link>
+        <animated_thumbnail></animated_thumbnail>
+        <thumbnail>https://www.thetvdb.com/banners/posters/80379-49.jpg</thumbnail>
+        <animated_fanart></animated_fanart>
+        <fanart>https://www.thetvdb.com/banners/fanart/original/80379-34.jpg</fanart>
+</dir>
+<dir>
+        <title>The Gifted</title>
+        <meta>
+                <content>tvshow</content>
+				<imdb>tt4396630</imdb>
+				<tvdb>328552</tvdb>
+				<tvshowtitle>The Gifted</tvshowtitle>
+				<year>2017</year>
+        </meta>
+        <link>https://raw.githubusercontent.com/Tikkes/darkside-repo/master/xml/TheGifted.xml</link>
+        <animated_thumbnail></animated_thumbnail>
+        <thumbnail>https://www.thetvdb.com/banners/posters/328552-2.jpg</thumbnail>
+        <animated_fanart></animated_fanart>
+        <fanart>https://www.thetvdb.com/banners/fanart/original/328552-5.jpg</fanart>
+</dir>
+<dir>
+        <title>The Shannara Chronicles</title>
+        <meta>
+                <content>tvshow</content>
+				<imdb>tt1051220</imdb>
+				<tvdb>289096</tvdb>
+				<tvshowtitle>The Shannara Chronicles</tvshowtitle>
+				<year>2016</year>
+        </meta>
+        <link>https://raw.githubusercontent.com/Tikkes/darkside-repo/master/xml/TheShannaraChronicles.xml</link>
+        <animated_thumbnail></animated_thumbnail>
+        <thumbnail>https://www.thetvdb.com/banners/posters/289096-11.jpg</thumbnail>
+        <animated_fanart></animated_fanart>
+        <fanart>https://www.thetvdb.com/banners/fanart/original/289096-6.jpg</fanart>
+</dir>

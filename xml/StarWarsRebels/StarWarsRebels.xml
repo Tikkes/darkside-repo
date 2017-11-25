@@ -1,0 +1,87 @@
+
+################################################################################
+<poster>Tikkes</poster>
+<thumbnail></thumbnail>
+<fanart></fanart>
+################################################################################
+
+<dir>
+    <name>Star Wars Rebels Season 0</name>
+    <meta>
+        <content>season</content>
+        <imdb>tt2930604</imdb>
+        <tvdb>283468</tvdb>
+        <tvshowtitle>Star Wars Rebels</tvshowtitle>
+        <year>2014</year>
+        <season>0</season>
+    </meta>
+    <link>https://raw.githubusercontent.com/Tikkes/darkside-repo/master/xml/StarWarsRebels/StarWarsRebels00.xml</link>
+    <animated_thumbnail></animated_thumbnail>
+    <thumbnail></thumbnail>
+    <animated_fanart></animated_fanart>
+    <fanart></fanart>
+</dir>
+<dir>
+    <name>Star Wars Rebels Season 1</name>
+    <meta>
+        <content>season</content>
+        <imdb>tt2930604</imdb>
+        <tvdb>283468</tvdb>
+        <tvshowtitle>Star Wars Rebels</tvshowtitle>
+        <year>2014</year>
+        <season>1</season>
+    </meta>
+    <link>https://raw.githubusercontent.com/Tikkes/darkside-repo/master/xml/StarWarsRebels/StarWarsRebels01.xml</link>
+    <animated_thumbnail></animated_thumbnail>
+    <thumbnail></thumbnail>
+    <animated_fanart></animated_fanart>
+    <fanart></fanart>
+</dir>
+<dir>
+    <name>Star Wars Rebels Season 2</name>
+    <meta>
+        <content>season</content>
+        <imdb>tt2930604</imdb>
+        <tvdb>283468</tvdb>
+        <tvshowtitle>Star Wars Rebels</tvshowtitle>
+        <year>2014</year>
+        <season>2</season>
+    </meta>
+    <link>https://raw.githubusercontent.com/Tikkes/darkside-repo/master/xml/StarWarsRebels/StarWarsRebels02.xml</link>
+    <animated_thumbnail></animated_thumbnail>
+    <thumbnail></thumbnail>
+    <animated_fanart></animated_fanart>
+    <fanart></fanart>
+</dir>
+<dir>
+    <name>Star Wars Rebels Season 3</name>
+    <meta>
+        <content>season</content>
+        <imdb>tt2930604</imdb>
+        <tvdb>283468</tvdb>
+        <tvshowtitle>Star Wars Rebels</tvshowtitle>
+        <year>2014</year>
+        <season>3</season>
+    </meta>
+    <link>https://raw.githubusercontent.com/Tikkes/darkside-repo/master/xml/StarWarsRebels/StarWarsRebels03.xml</link>
+    <animated_thumbnail></animated_thumbnail>
+    <thumbnail></thumbnail>
+    <animated_fanart></animated_fanart>
+    <fanart></fanart>
+</dir>
+<dir>
+    <name>Star Wars Rebels Season 4</name>
+    <meta>
+        <content>season</content>
+        <imdb>tt2930604</imdb>
+        <tvdb>283468</tvdb>
+        <tvshowtitle>Star Wars Rebels</tvshowtitle>
+        <year>2014</year>
+        <season>4</season>
+    </meta>
+    <link>https://raw.githubusercontent.com/Tikkes/darkside-repo/master/xml/StarWarsRebels/StarWarsRebels04.xml</link>
+    <animated_thumbnail></animated_thumbnail>
+    <thumbnail></thumbnail>
+    <animated_fanart></animated_fanart>
+    <fanart></fanart>
+</dir>

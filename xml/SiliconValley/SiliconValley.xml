@@ -1,0 +1,87 @@
+
+################################################################################
+<poster>Tikkes</poster>
+<thumbnail></thumbnail>
+<fanart></fanart>
+################################################################################
+
+<dir>
+    <name>Silicon Valley Season 0</name>
+    <meta>
+        <content>season</content>
+        <imdb>tt2575988</imdb>
+        <tvdb>277165</tvdb>
+        <tvshowtitle>Silicon Valley</tvshowtitle>
+        <year>2014</year>
+        <season>0</season>
+    </meta>
+    <link>https://raw.githubusercontent.com/Tikkes/darkside-repo/master/xml/SiliconValley/SiliconValley00.xml</link>
+    <animated_thumbnail></animated_thumbnail>
+    <thumbnail></thumbnail>
+    <animated_fanart></animated_fanart>
+    <fanart></fanart>
+</dir>
+<dir>
+    <name>Silicon Valley Season 1</name>
+    <meta>
+        <content>season</content>
+        <imdb>tt2575988</imdb>
+        <tvdb>277165</tvdb>
+        <tvshowtitle>Silicon Valley</tvshowtitle>
+        <year>2014</year>
+        <season>1</season>
+    </meta>
+    <link>https://raw.githubusercontent.com/Tikkes/darkside-repo/master/xml/SiliconValley/SiliconValley01.xml</link>
+    <animated_thumbnail></animated_thumbnail>
+    <thumbnail></thumbnail>
+    <animated_fanart></animated_fanart>
+    <fanart></fanart>
+</dir>
+<dir>
+    <name>Silicon Valley Season 2</name>
+    <meta>
+        <content>season</content>
+        <imdb>tt2575988</imdb>
+        <tvdb>277165</tvdb>
+        <tvshowtitle>Silicon Valley</tvshowtitle>
+        <year>2014</year>
+        <season>2</season>
+    </meta>
+    <link>https://raw.githubusercontent.com/Tikkes/darkside-repo/master/xml/SiliconValley/SiliconValley02.xml</link>
+    <animated_thumbnail></animated_thumbnail>
+    <thumbnail></thumbnail>
+    <animated_fanart></animated_fanart>
+    <fanart></fanart>
+</dir>
+<dir>
+    <name>Silicon Valley Season 3</name>
+    <meta>
+        <content>season</content>
+        <imdb>tt2575988</imdb>
+        <tvdb>277165</tvdb>
+        <tvshowtitle>Silicon Valley</tvshowtitle>
+        <year>2014</year>
+        <season>3</season>
+    </meta>
+    <link>https://raw.githubusercontent.com/Tikkes/darkside-repo/master/xml/SiliconValley/SiliconValley03.xml</link>
+    <animated_thumbnail></animated_thumbnail>
+    <thumbnail></thumbnail>
+    <animated_fanart></animated_fanart>
+    <fanart></fanart>
+</dir>
+<dir>
+    <name>Silicon Valley Season 4</name>
+    <meta>
+        <content>season</content>
+        <imdb>tt2575988</imdb>
+        <tvdb>277165</tvdb>
+        <tvshowtitle>Silicon Valley</tvshowtitle>
+        <year>2014</year>
+        <season>4</season>
+    </meta>
+    <link>https://raw.githubusercontent.com/Tikkes/darkside-repo/master/xml/SiliconValley/SiliconValley04.xml</link>
+    <animated_thumbnail></animated_thumbnail>
+    <thumbnail></thumbnail>
+    <animated_fanart></animated_fanart>
+    <fanart></fanart>
+</dir>

@@ -279,8 +279,8 @@
                 <content>tvshow</content>
                 <imdb>tt0413573</imdb>
                 <tvdb>73762</tvdb>
-				<tvshowtitle>Grey's Anatomy</tvshowtitle>
-				<year>2005</year>
+		<tvshowtitle>Grey's Anatomy</tvshowtitle>
+		<year>2005</year>
         </meta>
         <link>https://raw.githubusercontent.com/Tikkes/darkside-repo/master/xml/Grey'sAnatomy.xml</link>
         <animated_thumbnail></animated_thumbnail>
@@ -292,10 +292,10 @@
         <title>Married... with Children</title>
         <meta>
                 <content>tvshow</content>
-				<imdb>tt0092400</imdb>
-				<tvdb>76385</tvdb>
-				<tvshowtitle>Married... with Children</tvshowtitle>
-				<year>1987</year>
+		<imdb>tt0092400</imdb>
+		<tvdb>76385</tvdb>
+		<tvshowtitle>Married... with Children</tvshowtitle>
+		<year>1987</year>
         </meta>
         <link>https://raw.githubusercontent.com/Tikkes/darkside-repo/master/xml/Married...withChildren.xml</link>
         <animated_thumbnail></animated_thumbnail>
@@ -307,10 +307,10 @@
         <title>Shameless</title>
         <meta>
                 <content>tvshow</content>
-				<imdb>tt0377260</imdb>
-				<tvdb>78846</tvdb>
-				<tvshowtitle>Shameless</tvshowtitle>
-				<year>2004</year> 
+		<imdb>tt0377260</imdb>
+		<tvdb>78846</tvdb>
+		<tvshowtitle>Shameless</tvshowtitle>
+		<year>2004</year> 
         </meta>
         <link>https://raw.githubusercontent.com/Tikkes/darkside-repo/master/xml/Shameless.xml</link>
         <animated_thumbnail></animated_thumbnail>
@@ -322,10 +322,10 @@
         <title>Sons of Anarchy</title>
         <meta>
                 <content>tvshow</content>
-				<imdb>tt1124373</imdb>
-				<tvdb>82696</tvdb>
-				<tvshowtitle>Sons of Anarchy</tvshowtitle>
-				<year>2008</year>
+		<imdb>tt1124373</imdb>
+		<tvdb>82696</tvdb>
+		<tvshowtitle>Sons of Anarchy</tvshowtitle>
+		<year>2008</year>
         </meta>
         <link>https://raw.githubusercontent.com/Tikkes/darkside-repo/master/xml/SonsofAnarchy.xml</link>
         <animated_thumbnail></animated_thumbnail>
@@ -337,10 +337,10 @@
         <title>Shameless (US)</title>
         <meta>
                 <content>tvshow</content>
-				<imdb>tt1586680</imdb>
-				<tvdb>161511</tvdb>
-				<tvshowtitle>Shameless (US)</tvshowtitle>
-				<year>2011</year>
+		<imdb>tt1586680</imdb>
+		<tvdb>161511</tvdb>
+		<tvshowtitle>Shameless (US)</tvshowtitle>
+		<year>2011</year>
         </meta>
         <link>https://raw.githubusercontent.com/Tikkes/darkside-repo/master/xml/Shameless(US).xml</link>
         <animated_thumbnail></animated_thumbnail>
@@ -352,10 +352,10 @@
         <title>Brooklyn Nine-Nine</title>
         <meta>
                 <content>tvshow</content>
-				<imdb>tt2467372</imdb>
-				<tvdb>269586</tvdb>
-				<tvshowtitle>Brooklyn Nine-Nine</tvshowtitle>
-				<year>2013</year>
+		<imdb>tt2467372</imdb>
+		<tvdb>269586</tvdb>
+		<tvshowtitle>Brooklyn Nine-Nine</tvshowtitle>
+		<year>2013</year>
         </meta>
         <liink>https://raw.githubusercontent.com/Tikkes/darkside-repo/master/xml/Brooklyn Nine-Nine/BrooklynNine-Nine.xml</link>
         <animated_thumbnail></animated_thumbnail>
@@ -367,10 +367,10 @@
         <title>DC's Legends of Tomorrow</title>
         <meta>
                 <content>tvshow</content>
-				<imdb>tt4532368</imdb>
-				<tvdb>295760</tvdb>
-				<tvshowtitle>DC's Legends of Tomorrow</tvshowtitle>
-				<year>2016</year>
+		<imdb>tt4532368</imdb>
+		<tvdb>295760</tvdb>
+		<tvshowtitle>DC's Legends of Tomorrow</tvshowtitle>
+		<year>2016</year>
         </meta>
         <link>https://raw.githubusercontent.com/Tikkes/darkside-repo/master/xml/DC's Legends of Tomorrow/DC'sLegendsofTomorrow.xml</link>
         <animated_thumbnail></animated_thumbnail>
@@ -382,10 +382,10 @@
         <title>Lethal Weapon</title>
         <meta>
                 <content>tvshow</content>
-				<imdb>tt5164196</imdb>
-				<tvdb>311790</tvdb>
-				<tvshowtitle>Lethal Weapon</tvshowtitle>
-				<year>2016</year>
+		<imdb>tt5164196</imdb>
+		<tvdb>311790</tvdb>
+		<tvshowtitle>Lethal Weapon</tvshowtitle>
+		<year>2016</year>
         </meta>
         <lilink>https://raw.githubusercontent.com/Tikkes/darkside-repo/master/xml/Lethal Weapon/LethalWeapon.xml</link>
         <animated_thumbnail></animated_thumbnail>
@@ -397,10 +397,10 @@
         <title>Lucifer</title>
         <meta>
                 <content>tvshow</content>
-				<imdb>tt4052886</imdb>
-				<tvdb>295685</tvdb>
-				<tvshowtitle>Lucifer</tvshowtitle>
-				<year>2016</year>
+		<imdb>tt4052886</imdb>
+		<tvdb>295685</tvdb>
+		<tvshowtitle>Lucifer</tvshowtitle>
+		<year>2016</year>
         </meta>
         <link>https://raw.githubusercontent.com/Tikkes/darkside-repo/master/xml/Lucifer/Lucifer.xml</link>
         <animated_thumbnail></animated_thumbnail>
@@ -412,10 +412,10 @@
         <title>Mr. Robot</title>
         <meta>
                 <content>tvshow</content>
-				<imdb>tt4158110</imdb>
-				<tvdb>289590</tvdb>
-				<tvshowtitle>Mr. Robot</tvshowtitle>
-				<year>2015</year>
+		<imdb>tt4158110</imdb>
+		<tvdb>289590</tvdb>
+		<tvshowtitle>Mr. Robot</tvshowtitle>
+		<year>2015</year>
         </meta>
         <link>https://raw.githubusercontent.com/Tikkes/darkside-repo/master/xml/Mr. Robot/Mr.Robot.xml</link>
         <animated_thumbnail></animated_thumbnail>
@@ -427,10 +427,10 @@
         <title>Orphan Black</title>
         <meta>
                 <content>tvshow</content>
-				<imdb>tt2234222</imdb>
-				<tvdb>260315</tvdb>
-				<tvshowtitle>Orphan Black</tvshowtitle>
-				<year>2013</year>
+		<imdb>tt2234222</imdb>
+		<tvdb>260315</tvdb>
+		<tvshowtitle>Orphan Black</tvshowtitle>
+		<year>2013</year>
         </meta>
         <link>https://raw.githubusercontent.com/Tikkes/darkside-repo/master/xml/Orphan Black/OrphanBlack.xml</link>
         <animated_thumbnail></animated_thumbnail>
@@ -442,10 +442,10 @@
         <title>Peaky Blinders</title>
         <meta>
                 <content>tvshow</content>
-				<imdb>tt2442560</imdb>
-				<tvdb>270915</tvdb>
-				<tvshowtitle>Peaky Blinders</tvshowtitle>
-				<year>2013</year>
+		<imdb>tt2442560</imdb>
+		<tvdb>270915</tvdb>
+		<tvshowtitle>Peaky Blinders</tvshowtitle>
+		<year>2013</year>
         </meta>
         <link>https://raw.githubusercontent.com/Tikkes/darkside-repo/master/xml/Peaky Blinders/PeakyBlinders.xml</link>
         <animated_thumbnail></animated_thumbnail>
@@ -457,10 +457,10 @@
         <title>The Big Bang Theory</title>
         <meta>
                 <content>tvshow</content>
-				<imdb>tt0898266</imdb>
-				<tvdb>80379</tvdb>
-				<tvshowtitle>The Big Bang Theory</tvshowtitle>
-				<year>2007</year>
+		<imdb>tt0898266</imdb>
+		<tvdb>80379</tvdb>
+		<tvshowtitle>The Big Bang Theory</tvshowtitle>
+		<year>2007</year>
         </meta>
         <link>https://raw.githubusercontent.com/Tikkes/darkside-repo/master/xml/The Big Bang Theory/TheBigBangTheory.xml</link>
         <animated_thumbnail></animated_thumbnail>
@@ -472,10 +472,10 @@
         <title>The Gifted</title>
         <meta>
                 <content>tvshow</content>
-				<imdb>tt4396630</imdb>
-				<tvdb>328552</tvdb>
-				<tvshowtitle>The Gifted</tvshowtitle>
-				<year>2017</year>
+		<imdb>tt4396630</imdb>
+		<tvdb>328552</tvdb>
+		<tvshowtitle>The Gifted</tvshowtitle>
+		<year>2017</year>
         </meta>
         <link>https://raw.githubusercontent.com/Tikkes/darkside-repo/master/xml/The Gifted/TheGifted.xml</link>
         <animated_thumbnail></animated_thumbnail>
@@ -487,10 +487,10 @@
         <title>The Shannara Chronicles</title>
         <meta>
                 <content>tvshow</content>
-				<imdb>tt1051220</imdb>
-				<tvdb>289096</tvdb>
-				<tvshowtitle>The Shannara Chronicles</tvshowtitle>
-				<year>2016</year>
+		<imdb>tt1051220</imdb>
+		<tvdb>289096</tvdb>
+		<tvshowtitle>The Shannara Chronicles</tvshowtitle>
+		<year>2016</year>
         </meta>
         <link>https://raw.githubusercontent.com/Tikkes/darkside-repo/master/xml/The Shannara Chronicles/TheShannaraChronicles.xml</link>
         <animated_thumbnail></animated_thumbnail>
@@ -498,3 +498,107 @@
         <animated_fanart></animated_fanart>
         <fanart>https://www.thetvdb.com/banners/fanart/original/289096-6.jpg</fanart>
 </dir>
+<dir>
+        <title>Ballers</title>
+        <meta>
+                <content>tvshow</content>
+		<imdb>tt2891574</imdb>
+		<tvdb>281714</tvdb>
+		<tvshowtitle>Ballers</tvshowtitle>
+		<year>2015</year>
+        </meta>
+        <link>https://raw.githubusercontent.com/Tikkes/darkside-repo/master/xml/Ballers/Ballers.xml</link>
+        <animated_thumbnail></animated_thumbnail>
+        <thumbnail>https://www.thetvdb.com/banners/posters/281714-4.jpg</thumbnail>
+        <animated_fanart></animated_fanart>
+        <fanart>https://www.thetvdb.com/banners/fanart/original/281714-4.jpg</fanart>
+</dir>
+<dir>
+        <title>black-ish</title>
+        <meta>
+                <content>tvshow</content>
+		<imdb>tt3487356</imdb>
+		<tvdb>281511</tvdb>
+		<tvshowtitle>black-ish</tvshowtitle>
+		<year>2014</year>
+        </meta>
+        <link>https://raw.githubusercontent.com/Tikkes/darkside-repo/master/xml/black-ish/black-ish.xml</link>
+        <animated_thumbnail></animated_thumbnail>
+        <thumbnail>https://www.thetvdb.com/banners/posters/281511-4.jpg</thumbnail>
+        <animated_fanart></animated_fanart>
+        <fanart>https://www.thetvdb.com/banners/fanart/original/281511-6.jpg</fanart>
+</dir>
+<dir>
+        <title>Boardwalk Empire</title>
+        <meta>
+                <content>tvshow</content>
+		<imdb>tt0979432</imdb>
+		<tvdb>84947</tvdb>
+		<tvshowtitle>Boardwalk Empire</tvshowtitle>
+		<year>2010</year>
+        </meta>
+        <link>https://raw.githubusercontent.com/Tikkes/darkside-repo/master/xml/Boardwalk Empire/BoardwalkEmpire.xml</link>
+        <animated_thumbnail></animated_thumbnail>
+        <thumbnail>https://www.thetvdb.com/banners/posters/84947-6.jpg</thumbnail>
+        <animated_fanart></animated_fanart>
+        <fanart>https://www.thetvdb.com/banners/fanart/original/84947-10.jpg</fanart>
+</dir>
+<dir>
+        <title>Chicago Med</title>
+        <meta>
+                <content>tvshow</content>
+		<imdb>tt4655480</imdb>
+		<tvdb>295640</tvdb>
+		<tvshowtitle>Chicago Med</tvshowtitle>
+		<year>2015</year>
+        </meta>
+        <link>https://raw.githubusercontent.com/Tikkes/darkside-repo/master/xml/Chicago Med/ChicagoMed.xml</link>
+        <animated_thumbnail></animated_thumbnail>
+        <thumbnail>https://www.thetvdb.com/banners/posters/295640-7.jpg</thumbnail>
+        <animated_fanart></animated_fanart>
+        <fanart>https://www.thetvdb.com/banners/fanart/original/295640-19.jpg</fanart>
+</dir>
+<dir>
+        <title>Chicago P.D.</title>
+        <meta>
+                <content>tvshow</content>
+		<imdb>tt2805096</imdb>
+		<tvdb>269641</tvdb>
+		<tvshowtitle>Chicago P.D.</tvshowtitle>
+		<year>2014</year>
+        </meta>
+        <link>https://raw.githubusercontent.com/Tikkes/darkside-repo/master/xml/Chicago P.D./ChicagoP.D.xml</link>
+        <animated_thumbnail></animated_thumbnail>
+        <thumbnail>https://www.thetvdb.com/banners/posters/269641-6.jpg</thumbnail>
+        <animated_fanart></animated_fanart>
+        <fanart>https://www.thetvdb.com/banners/fanart/original/269641-11.jpg</fanart>
+</dir>
+<dir>
+        <title>Doctor Who (2005)</title>
+        <meta>
+                <content>tvshow</content>
+		<imdb>tt0436992</imdb>
+		<tvdb>78804</tvdb>
+		<tvshowtitle>Doctor Who (2005)</tvshowtitle>
+		<year>2005</year>
+        </meta>
+        <link>https://raw.githubusercontent.com/Tikkes/darkside-repo/master/xml/Doctor Who (2005)/DoctorWho(2005).xml</link>
+        <animated_thumbnail></animated_thumbnail>
+        <thumbnail>https://www.thetvdb.com/banners/posters/78804-27.jpg</thumbnail>
+        <animated_fanart></animated_fanart>
+        <fanart>https://www.thetvdb.com/banners/fanart/original/78804-100.jpg</fanart>
+</dir>
+<dir>
+        <title>Fresh Off the Boat</title>
+        <meta>
+                <content>tvshow</content>
+               <imdb>tt3551096</imdb>
+		<tvdb>281618</tvdb>
+		<tvshowtitle>Fresh Off the Boat</tvshowtitle>
+		<year>2015</year>
+        </meta>
+        <link>https://raw.githubusercontent.com/Tikkes/darkside-repo/master/xml/Fresh Off the Boat/FreshOfftheBoat.xml</link>
+        <animated_thumbnail></animated_thumbnail>
+        <thumbnail>https://www.thetvdb.com/banners/posters/281618-8.jpg</thumbnail>
+        <animated_fanart></animated_fanart>
+        <fanart>https://www.thetvdb.com/banners/fanart/original/281618-3.jpg</fanart>

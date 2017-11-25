@@ -4,156 +4,6 @@
 <fanart></fanart>
 #####################################################################################################################################
 <dir>
-        <title>Breaking Bad</title>
-        <meta>
-                <content>tvshow</content>
-                <imdb>tt0903747</imdb>
-                <tvdb>81189</tvdb>
-                <tvshowtitle>Breaking Bad</tvshowtitle>
-                <year>2008</year>
-        </meta>
-        <link>https://raw.githubusercontent.com/Tikkes/darkside-repo/master/xml/BreakingBad.xml</link>
-        <animated_thumbnail></animated_thumbnail>
-        <thumbnail>https://www.thetvdb.com/banners/posters/81189-22.jpg</thumbnail>
-        <animated_fanart></animated_fanart>
-        <fanart>thttps://www.thetvdb.com/banners/fanart/original/81189-21.jpg</fanart>
-</dir>
-<dir>
-        <title>Family Guy</title>
-        <meta>
-                <content>tvshow</content>
-                <imdb>tt0182576</imdb>
-                <tvdb>75978</tvdb>
-                <tvshowtitle>Family Guy</tvshowtitle>
-                <year>1999</year>
-        </meta>
-        <link>https://raw.githubusercontent.com/Tikkes/darkside-repo/master/xml/FamilyGuy.xml</link>
-        <animated_thumbnail></animated_thumbnail>
-        <thumbnail>https://www.thetvdb.com/banners/posters/75978-23.jpg</thumbnail>
-        <animated_fanart></animated_fanart>
-        <fanart>https://www.thetvdb.com/banners/fanart/original/75978-31.jpg</fanart>
-</dir>
-<dir>
-        <title>Game of Thrones</title>
-        <meta>
-                <content>tvshow</content>
-                <imdb>tt0944947</imdb>
-                <tvdb>121361</tvdb>
-                <tvshowtitle>Game of Thrones</tvshowtitle>
-                <year>2011</year>
-        </meta>
-        <link>https://raw.githubusercontent.com/Tikkes/darkside-repo/master/xml/GameofThrones.xml</link>
-        <animated_thumbnail></animated_thumbnail>
-        <thumbnail>https://www.thetvdb.com/banners/posters/121361-57.jpg</thumbnail>
-        <animated_fanart></animated_fanart>
-        <fanart>https://www.thetvdb.com/banners/fanart/original/121361-83.jpg</fanart>
-</dir>
-<dir>
-        <title>Last Week Tonight with John Oliver</title>
-        <meta>
-                <content>tvshow</content>
-                <imdb>tt3530232</imdb>
-                <tvdb>278518</tvdb>
-                <tvshowtitle>Last Week Tonight with John Oliver</tvshowtitle>
-                <year>2014</year>
-        </meta>
-        <link>https://raw.githubusercontent.com/Tikkes/darkside-repo/master/xml/LastWeekTonightwithJohnOliver.xml</link>
-        <animated_thumbnail></animated_thumbnail>
-        <thumbnail>https://www.thetvdb.com/banners/posters/278518-6.jpg</thumbnail>
-        <animated_fanart></animated_fanart>
-        <fanart>https://www.thetvdb.com/banners/fanart/original/278518-7.jpg</fanart>
-</dir>
-<dir>
-        <title>Marvel's The Punisher</title>
-        <meta>
-                <content>tvshow</content>
-                <imdb>tt5675620</imdb>
-                <tvdb>331980</tvdb>
-                <tvshowtitle>Marvel's The Punisher</tvshowtitle>
-                <year>2017</year>
-        </meta>
-        <link>https://raw.githubusercontent.com/Tikkes/darkside-repo/master/xml/MarvelsThePunisher.xml</link>
-        <animated_thumbnail></animated_thumbnail>
-        <thumbnail>https://www.thetvdb.com/banners/posters/331980-12.jpg</thumbnail>
-        <animated_fanart></animated_fanart>
-        <fanart>https://www.thetvdb.com/banners/fanart/original/331980-6.jpg</fanart>
-</dir>
-<dir>
-        <title>Rick and Morty</title>
-        <meta>
-                <content>tvshow</content>
-                <imdb>tt2861424</imdb>
-                <tvdb>275274</tvdb>
-                <tvshowtitle>Rick and Morty</tvshowtitle>
-                <year>2013</year>
-        </meta>
-        <link>https://raw.githubusercontent.com/Tikkes/darkside-repo/master/xml/RickandMorty.xml</link>
-        <animated_thumbnail></animated_thumbnail>
-        <thumbnail>https://www.thetvdb.com/banners/posters/275274-4.jpg</thumbnail>
-        <animated_fanart></animated_fanart>
-        <fanart>https://www.thetvdb.com/banners/fanart/original/275274-10.jpg</fanart>
-</dir>
-<dir>
-        <title>Stranger Things</title>
-        <meta>
-                <content>tvshow</content>
-                <imdb>tt4574334</imdb>
-                <tvdb>305288</tvdb>
-                <tvshowtitle>StrangerThings</tvshowtitle>
-                <year>2016</year>
-        </meta>
-        <link>https://raw.githubusercontent.com/Tikkes/darkside-repo/master/xml/StrangerThings.xml</link>
-        <animated_thumbnail></animated_thumbnail>
-        <thumbnail>https://www.thetvdb.com/banners/posters/305288-49.jpg</thumbnail>
-        <animated_fanart></animated_fanart>
-        <fanart>https://www.thetvdb.com/banners/fanart/original/305288-19.jpg</fanart>
-</dir>
-<dir>
-        <title>The Walking Dead</title>
-        <meta>
-                <content>tvshow</content>
-                <imdb>tt1520211</imdb>
-                <tvdb>153021</tvdb>
-                <tvshowtitle>The Walking Dead</tvshowtitle>
-                <year>2010</year>
-        </meta>
-        <link>https://raw.githubusercontent.com/Tikkes/darkside-repo/master/xml/TheWalkingDead.xml</link>
-        <animated_thumbnail></animated_thumbnail>
-        <thumbnail>https://www.thetvdb.com/banners/posters/153021-6.jpg</thumbnail>
-        <animated_fanart></animated_fanart>
-        <fanart>https://www.thetvdb.com/banners/fanart/original/153021-96.jpg</fanart>
-</dir>
-<dir>
-        <title>The Wire</title>
-        <meta>
-                <content>tvshow</content>
-                <imdb>tt0306414</imdb>
-                <tvdb>79126</tvdb>
-                <tvshowtitle>The Wire</tvshowtitle>
-                <year>2002</year>
-        </meta>
-        <link>https://raw.githubusercontent.com/Tikkes/darkside-repo/master/xml/TheWire.xml</link>
-        <animated_thumbnail></animated_thumbnail>
-        <thumbnail>https://www.thetvdb.com/banners/posters/79126-2.jpg</thumbnail>
-        <animated_fanart></animated_fanart>
-        <fanart>https://www.thetvdb.com/banners/fanart/original/79126-2.jpg</fanart>
-</dir>
-<dir>
-        <title>Westworld</title>
-        <meta>
-                <content>tvshow</content>
-                <imdb>tt0475784</imdb>
-                <tvdb>296762</tvdb>
-                <tvshowtitle>Westworld</tvshowtitle>
-                <year>2016</year>
-        </meta>
-        <link>https://raw.githubusercontent.com/Tikkes/darkside-repo/master/xml/Westworld.xml</link>
-        <animated_thumbnail></animated_thumbnail>
-        <thumbnail>https://www.thetvdb.com/banners/posters/296762-3.jpg</thumbnail>
-        <animated_fanart></animated_fanart>
-        <fanart>https://www.thetvdb.com/banners/fanart/original/296762-7.jpg</fanart>
-</dir>
-<dir>
         <title>American Horror Story</title>
         <meta>
                 <content>tvshow</content>
@@ -162,11 +12,116 @@
                 <tvshowtitle>American Horror Story</tvshowtitle>
                 <year>2011</year>
         </meta>
-        <link>https://raw.githubusercontent.com/Tikkes/darkside-repo/master/xml/AmericanHorrorStory.xml</link>
+        <link>https://raw.githubusercontent.com/Tikkes/darkside-repo/master/xml/AmericanHorrorStory/AmericanHorrorStory.xml</link>
         <animated_thumbnail></animated_thumbnail>
         <thumbnail>https://www.thetvdb.com/banners/posters/250487-5.jpg</thumbnail>
         <animated_fanart></animated_fanart>
         <fanart>https://www.thetvdb.com/banners/fanart/original/250487-72.jpg</fanart>
+</dir>
+<dir>
+        <title>Ballers</title>
+        <meta>
+                <content>tvshow</content>
+                <imdb>tt2891574</imdb>
+                <tvdb>281714</tvdb>
+                <tvshowtitle>Ballers</tvshowtitle>
+                <year>2015</year>
+        </meta>
+        <link>https://raw.githubusercontent.com/Tikkes/darkside-repo/master/xml/Ballers/Ballers.xml</link>
+        <animated_thumbnail></animated_thumbnail>
+        <thumbnail>https://www.thetvdb.com/banners/posters/281714-4.jpg</thumbnail>
+        <animated_fanart></animated_fanart>
+        <fanart>https://www.thetvdb.com/banners/fanart/original/281714-4.jpg</fanart>
+</dir>
+<dir>
+        <title>black-ish</title>
+        <meta>
+                <content>tvshow</content>
+                <imdb>tt3487356</imdb>
+                <tvdb>281511</tvdb>
+                <tvshowtitle>black-ish</tvshowtitle>
+                <year>2014</year>
+        </meta>
+        <link>https://raw.githubusercontent.com/Tikkes/darkside-repo/master/xml/blackish/blackish.xml</link>
+        <animated_thumbnail></animated_thumbnail>
+        <thumbnail>https://www.thetvdb.com/banners/posters/281511-4.jpg</thumbnail>
+        <animated_fanart></animated_fanart>
+        <fanart>https://www.thetvdb.com/banners/fanart/original/281511-6.jpg</fanart>
+</dir>
+<dir>
+        <title>Boardwalk Empire</title>
+        <meta>
+                <content>tvshow</content>
+                <imdb>tt0979432</imdb>
+                <tvdb>84947</tvdb>
+                <tvshowtitle>Boardwalk Empire</tvshowtitle>
+                <year>2010</year>
+        </meta>
+        <link>https://raw.githubusercontent.com/Tikkes/darkside-repo/master/xml/BoardwalkEmpire/BoardwalkEmpire.xml</link>
+        <animated_thumbnail></animated_thumbnail>
+        <thumbnail>https://www.thetvdb.com/banners/posters/84947-6.jpg</thumbnail>
+        <animated_fanart></animated_fanart>
+        <fanart>https://www.thetvdb.com/banners/fanart/original/84947-10.jpg</fanart>
+</dir>
+<dir>
+        <title>Breaking Bad</title>
+        <meta>
+                <content>tvshow</content>
+                <imdb>tt0903747</imdb>
+                <tvdb>81189</tvdb>
+                <tvshowtitle>Breaking Bad</tvshowtitle>
+                <year>2008</year>
+        </meta>
+        <link>https://raw.githubusercontent.com/Tikkes/darkside-repo/master/xml/BreakingBad/BreakingBad.xml</link>
+        <animated_thumbnail></animated_thumbnail>
+        <thumbnail>https://www.thetvdb.com/banners/posters/81189-22.jpg</thumbnail>
+        <animated_fanart></animated_fanart>
+        <fanart>thttps://www.thetvdb.com/banners/fanart/original/81189-21.jpg</fanart>
+</dir>
+<dir>
+        <title>Brooklyn Nine-Nine</title>
+        <meta>
+                <content>tvshow</content>
+                <imdb>tt2467372</imdb>
+                <tvdb>269586</tvdb>
+                <tvshowtitle>Brooklyn Nine-Nine</tvshowtitle>
+                <year>2013</year>
+        </meta>
+        <link>https://raw.githubusercontent.com/Tikkes/darkside-repo/master/xml/BrooklynNineNine/BrooklynNineNine.xml</link>
+        <animated_thumbnail></animated_thumbnail>
+        <thumbnail>https://www.thetvdb.com/banners/posters/269586-12.jpg</thumbnail>
+        <animated_fanart></animated_fanart>
+        <fanart>https://www.thetvdb.com/banners/fanart/original/269586-15.jpg</fanart>
+</dir>
+<dir>
+        <title>Chicago Med</title>
+        <meta>
+                <content>tvshow</content>
+                <imdb>tt4655480</imdb>
+                <tvdb>295640</tvdb>
+                <tvshowtitle>Chicago Med</tvshowtitle>
+                <year>2015</year>
+        </meta>
+        <link>https://raw.githubusercontent.com/Tikkes/darkside-repo/master/xml/ChicagoMed/ChicagoMed.xml</link>
+        <animated_thumbnail></animated_thumbnail>
+        <thumbnail>https://www.thetvdb.com/banners/posters/295640-7.jpg</thumbnail>
+        <animated_fanart></animated_fanart>
+        <fanart>https://www.thetvdb.com/banners/fanart/original/295640-19.jpg</fanart>
+</dir>
+<dir>
+        <title>Chicago P.D.</title>
+        <meta>
+                <content>tvshow</content>
+                <imdb>tt2805096</imdb>
+                <tvdb>269641</tvdb>
+                <tvshowtitle>Chicago P.D.</tvshowtitle>
+                <year>2014</year>
+        </meta>
+        <link>https://raw.githubusercontent.com/Tikkes/darkside-repo/master/xml/ChicagoPD/ChicagoPD.xml</link>
+        <animated_thumbnail></animated_thumbnail>
+        <thumbnail>https://www.thetvdb.com/banners/posters/269641-6.jpg</thumbnail>
+        <animated_fanart></animated_fanart>
+        <fanart>https://www.thetvdb.com/banners/fanart/original/269641-11.jpg</fanart>
 </dir>
 <dir>
         <title>Criminal Minds</title>
@@ -177,11 +132,26 @@
                 <tvshowtitle>Criminal Minds</tvshowtitle>
                 <year>2005</year>
         </meta>
-        <link>https://raw.githubusercontent.com/Tikkes/darkside-repo/master/xml/CriminalMinds.xml</link>
+        <link>https://raw.githubusercontent.com/Tikkes/darkside-repo/master/xml/CriminalMinds/CriminalMinds.xml</link>
         <animated_thumbnail></animated_thumbnail>
         <thumbnail>https://www.thetvdb.com/banners/posters/75710-5.jpg</thumbnail>
         <animated_fanart></animated_fanart>
         <fanart>https://www.thetvdb.com/banners/fanart/original/75710-16.jpg</fanart>
+</dir>
+<dir>
+        <title>DC's Legends of Tomorrow</title>
+        <meta>
+                <content>tvshow</content>
+                <imdb>tt4532368</imdb>
+                <tvdb>295760</tvdb>
+                <tvshowtitle>DC's Legends of Tomorrow</tvshowtitle>
+                <year>2016</year>
+        </meta>
+        <link>https://raw.githubusercontent.com/Tikkes/darkside-repo/master/xml/DCsLegendsofTomorrow/DCsLegendsofTomorrow.xml</link>
+        <animated_thumbnail></animated_thumbnail>
+        <thumbnail>https://www.thetvdb.com/banners/posters/295760-15.jpg</thumbnail>
+        <animated_fanart></animated_fanart>
+        <fanart>https://www.thetvdb.com/banners/fanart/original/295760-8.jpg</fanart>
 </dir>
 <dir>
         <title>Dexter</title>
@@ -192,11 +162,56 @@
                 <tvshowtitle>Dexter</tvshowtitle>
                 <year>2006</year>
         </meta>
-        <link>https://raw.githubusercontent.com/Tikkes/darkside-repo/master/xml/Dexter00.xml</link>
+        <link>https://raw.githubusercontent.com/Tikkes/darkside-repo/master/xml/Dexter/Dexter.xml</link>
         <animated_thumbnail></animated_thumbnail>
         <thumbnail>https://www.thetvdb.com/banners/posters/79349-24.jpg</thumbnail>
         <animated_fanart></animated_fanart>
         <fanart>https://www.thetvdb.com/banners/fanart/original/79349-28.jpg</fanart>
+</dir>
+<dir>
+        <title>Doctor Who (2005)</title>
+        <meta>
+                <content>tvshow</content>
+                <imdb>tt0436992</imdb>
+                <tvdb>78804</tvdb>
+                <tvshowtitle>Doctor Who (2005)</tvshowtitle>
+                <year>2005</year>
+        </meta>
+        <link>https://raw.githubusercontent.com/Tikkes/darkside-repo/master/xml/DoctorWho2005/DoctorWho2005.xml</link>
+        <animated_thumbnail></animated_thumbnail>
+        <thumbnail>https://www.thetvdb.com/banners/posters/78804-27.jpg</thumbnail>
+        <animated_fanart></animated_fanart>
+        <fanart>https://www.thetvdb.com/banners/fanart/original/78804-100.jpg</fanart>
+</dir>
+<dir>
+        <title>Doctor Who</title>
+        <meta>
+                <content>tvshow</content>
+                <imdb>tt0436992</imdb>
+                <tvdb>78804</tvdb>
+                <tvshowtitle>Doctor Who</tvshowtitle>
+                <year>2005</year>
+        </meta>
+        <link>https://raw.githubusercontent.com/Tikkes/darkside-repo/master/xml/DoctorWho/DoctorWho.xml</link>
+        <animated_thumbnail></animated_thumbnail>
+        <thumbnail>https://www.thetvdb.com/banners/posters/78804-27.jpg</thumbnail>
+        <animated_fanart></animated_fanart>
+        <fanart>https://www.thetvdb.com/banners/fanart/original/78804-100.jpg</fanart>
+</dir>
+<dir>
+        <title>Family Guy</title>
+        <meta>
+                <content>tvshow</content>
+                <imdb>tt0182576</imdb>
+                <tvdb>75978</tvdb>
+                <tvshowtitle>Family Guy</tvshowtitle>
+                <year>1999</year>
+        </meta>
+        <link>https://raw.githubusercontent.com/Tikkes/darkside-repo/master/xml/FamilyGuy/FamilyGuy.xml</link>
+        <animated_thumbnail></animated_thumbnail>
+        <thumbnail>https://www.thetvdb.com/banners/posters/75978-23.jpg</thumbnail>
+        <animated_fanart></animated_fanart>
+        <fanart>https://www.thetvdb.com/banners/fanart/original/75978-31.jpg</fanart>
 </dir>
 <dir>
         <title>Fear The Walking Dead</title>
@@ -207,11 +222,26 @@
                 <tvshowtitle>Fear the Walking Dead</tvshowtitle>
                 <year>2015</year>
         </meta>
-        <link>https://raw.githubusercontent.com/Tikkes/darkside-repo/master/xml/FeartheWalkingDead.xml</link>
+        <link>https://raw.githubusercontent.com/Tikkes/darkside-repo/master/xml/FeartheWalkingDead/FeartheWalkingDead.xml</link>
         <animated_thumbnail></animated_thumbnail>
         <thumbnail>https://www.thetvdb.com/banners/posters/290853-12.jpg</thumbnail>
         <animated_fanart></animated_fanart>
         <fanart>https://www.thetvdb.com/banners/fanart/original/290853-24.jpg</fanart>
+</dir>
+<dir>
+        <title>Fresh Off the Boat</title>
+        <meta>
+                <content>tvshow</content>
+               <imdb>tt3551096</imdb>
+                <tvdb>281618</tvdb>
+                <tvshowtitle>Fresh Off the Boat</tvshowtitle>
+                <year>2015</year>
+        </meta>
+        <link>https://raw.githubusercontent.com/Tikkes/darkside-repo/master/xml/FreshOfftheBoat/FreshOfftheBoat.xml</link>
+        <animated_thumbnail></animated_thumbnail>
+        <thumbnail>https://www.thetvdb.com/banners/posters/281618-8.jpg</thumbnail>
+        <animated_fanart></animated_fanart>
+        <fanart>https://www.thetvdb.com/banners/fanart/original/281618-3.jpg</fanart>
 </dir>
 <dir>
         <title>Friends</title>
@@ -222,7 +252,7 @@
                 <tvshowtitle>Friends</tvshowtitle>
                 <year>1994</year>
         </meta>
-        <link>https://raw.githubusercontent.com/Tikkes/darkside-repo/master/xml/Friends00.xml</link>
+        <link>https://raw.githubusercontent.com/Tikkes/darkside-repo/master/xml/Friends/Friends.xml</link>
         <animated_thumbnail></animated_thumbnail>
         <thumbnail>https://www.thetvdb.com/banners/posters/79168-23.jpg</thumbnail>
         <animated_fanart></animated_fanart>
@@ -237,26 +267,26 @@
                 <tvshowtitle>Futurama</tvshowtitle>
                 <year>1999</year>
         </meta>
-        <link>https://raw.githubusercontent.com/Tikkes/darkside-repo/master/xml/Futurama.xml</link>
+        <link>https://raw.githubusercontent.com/Tikkes/darkside-repo/master/xml/Futurama/Futurama.xml</link>
         <animated_thumbnail></animated_thumbnail>
         <thumbnail>https://www.thetvdb.com/banners/posters/73871-15.jpg</thumbnail>
         <animated_fanart></animated_fanart>
         <fanart></fanart>
 </dir>
 <dir>
-        <title></title>
+        <title>Game of Thrones</title>
         <meta>
                 <content>tvshow</content>
-                <imdb></imdb>
-                <tvdb></tvdb>
-                <tvshowtitle></tvshowtitle>
-                <year></year>
+                <imdb>tt0944947</imdb>
+                <tvdb>121361</tvdb>
+                <tvshowtitle>Game of Thrones</tvshowtitle>
+                <year>2011</year>
         </meta>
-        <link>https://raw.githubusercontent.com/Tikkes/darkside-repo/master/xml/Futurama.xml</link>
+        <link>https://raw.githubusercontent.com/Tikkes/darkside-repo/master/xml/GameofThrones/GameofThrones.xml</link>
         <animated_thumbnail></animated_thumbnail>
-        <thumbnail></thumbnail>
+        <thumbnail>https://www.thetvdb.com/banners/posters/121361-57.jpg</thumbnail>
         <animated_fanart></animated_fanart>
-        <fanart>https://www.thetvdb.com/banners/fanart/original/73871-35.jpg</fanart>
+        <fanart>https://www.thetvdb.com/banners/fanart/original/121361-83.jpg</fanart>
 </dir>
 <dir>
         <title>Gossip Girl</title>
@@ -267,7 +297,7 @@
                 <tvshowtitle>Gossip Girl</tvshowtitle>
                 <year>2007</year>
         </meta>
-        <link>https://raw.githubusercontent.com/Tikkes/darkside-repo/master/xml/GossipGirl.xml</link>
+        <link>https://raw.githubusercontent.com/Tikkes/darkside-repo/master/xmlGossipGirl/GossipGirl.xml</link>
         <animated_thumbnail></animated_thumbnail>
         <thumbnail>https://www.thetvdb.com/banners/posters/80547-15.jpg</thumbnail>
         <animated_fanart></animated_fanart>
@@ -279,115 +309,40 @@
                 <content>tvshow</content>
                 <imdb>tt0413573</imdb>
                 <tvdb>73762</tvdb>
-		<tvshowtitle>Grey's Anatomy</tvshowtitle>
-		<year>2005</year>
+                <tvshowtitle>Grey's Anatomy</tvshowtitle>
+                <year>2005</year>
         </meta>
-        <link>https://raw.githubusercontent.com/Tikkes/darkside-repo/master/xml/Grey'sAnatomy.xml</link>
+        <link>https://raw.githubusercontent.com/Tikkes/darkside-repo/master/xml/GreysAnatomy/GreysAnatomy.xml</link>
         <animated_thumbnail></animated_thumbnail>
         <thumbnail>https://www.thetvdb.com/banners/posters/73762-18.jpg</thumbnail>
         <animated_fanart></animated_fanart>
         <fanart>https://www.thetvdb.com/banners/fanart/original/73762-50.jpg</fanart>
 </dir>
 <dir>
-        <title>Married... with Children</title>
+        <title>Last Week Tonight with John Oliver</title>
         <meta>
                 <content>tvshow</content>
-		<imdb>tt0092400</imdb>
-		<tvdb>76385</tvdb>
-		<tvshowtitle>Married... with Children</tvshowtitle>
-		<year>1987</year>
+                <imdb>tt3530232</imdb>
+                <tvdb>278518</tvdb>
+                <tvshowtitle>Last Week Tonight with John Oliver</tvshowtitle>
+                <year>2014</year>
         </meta>
-        <link>https://raw.githubusercontent.com/Tikkes/darkside-repo/master/xml/Married...withChildren.xml</link>
+        <link>https://raw.githubusercontent.com/Tikkes/darkside-repo/master/xml/LastWeekTonightwithJohnOliver/LastWeekTonightwithJohnOliver.xml</link>
         <animated_thumbnail></animated_thumbnail>
-        <thumbnail>https://www.thetvdb.com/banners/posters/76385-10.jpg</thumbnail>
+        <thumbnail>https://www.thetvdb.com/banners/posters/278518-6.jpg</thumbnail>
         <animated_fanart></animated_fanart>
-        <fanart>https://www.thetvdb.com/banners/fanart/original/76385-17.jpg</fanart>
-</dir>
-<dir>
-        <title>Shameless</title>
-        <meta>
-                <content>tvshow</content>
-		<imdb>tt0377260</imdb>
-		<tvdb>78846</tvdb>
-		<tvshowtitle>Shameless</tvshowtitle>
-		<year>2004</year> 
-        </meta>
-        <link>https://raw.githubusercontent.com/Tikkes/darkside-repo/master/xml/Shameless.xml</link>
-        <animated_thumbnail></animated_thumbnail>
-        <thumbnail>https://www.thetvdb.com/banners/posters/78846-2.jpg</thumbnail>
-        <animated_fanart></animated_fanart>
-        <fanart>https://www.thetvdb.com/banners/fanart/original/78846-3.jpg</fanart>
-</dir>
-<dir>
-        <title>Sons of Anarchy</title>
-        <meta>
-                <content>tvshow</content>
-		<imdb>tt1124373</imdb>
-		<tvdb>82696</tvdb>
-		<tvshowtitle>Sons of Anarchy</tvshowtitle>
-		<year>2008</year>
-        </meta>
-        <link>https://raw.githubusercontent.com/Tikkes/darkside-repo/master/xml/SonsofAnarchy.xml</link>
-        <animated_thumbnail></animated_thumbnail>
-        <thumbnail>https://www.thetvdb.com/banners/posters/82696-19.jpg</thumbnail>
-        <animated_fanart></animated_fanart>
-        <fanart>https://www.thetvdb.com/banners/fanart/original/82696-66.jpg</fanart>
-</dir>
-<dir>
-        <title>Shameless (US)</title>
-        <meta>
-                <content>tvshow</content>
-		<imdb>tt1586680</imdb>
-		<tvdb>161511</tvdb>
-		<tvshowtitle>Shameless (US)</tvshowtitle>
-		<year>2011</year>
-        </meta>
-        <link>https://raw.githubusercontent.com/Tikkes/darkside-repo/master/xml/Shameless(US).xml</link>
-        <animated_thumbnail></animated_thumbnail>
-        <thumbnail>https://www.thetvdb.com/banners/posters/161511-20.jpg</thumbnail>
-        <animated_fanart></animated_fanart>
-        <fanart>https://www.thetvdb.com/banners/fanart/original/161511-8.jpg</fanart>
-</dir>
-<dir>
-        <title>Brooklyn Nine-Nine</title>
-        <meta>
-                <content>tvshow</content>
-		<imdb>tt2467372</imdb>
-		<tvdb>269586</tvdb>
-		<tvshowtitle>Brooklyn Nine-Nine</tvshowtitle>
-		<year>2013</year>
-        </meta>
-        <link>https://raw.githubusercontent.com/Tikkes/darkside-repo/master/xml/BrooklynNineNine/BrooklynNineNine.xml</link>
-        <animated_thumbnail></animated_thumbnail>
-        <thumbnail>https://www.thetvdb.com/banners/posters/269586-12.jpg</thumbnail>
-        <animated_fanart></animated_fanart>
-        <fanart>https://www.thetvdb.com/banners/fanart/original/269586-15.jpg</fanart>
-</dir>
-<dir>
-        <title>DC's Legends of Tomorrow</title>
-        <meta>
-                <content>tvshow</content>
-		<imdb>tt4532368</imdb>
-		<tvdb>295760</tvdb>
-		<tvshowtitle>DC's Legends of Tomorrow</tvshowtitle>
-		<year>2016</year>
-        </meta>
-        <link>https://raw.githubusercontent.com/Tikkes/darkside-repo/master/xml/DC's Legends of Tomorrow/DC'sLegendsofTomorrow.xml</link>
-        <animated_thumbnail></animated_thumbnail>
-        <thumbnail>https://www.thetvdb.com/banners/posters/295760-15.jpg</thumbnail>
-        <animated_fanart></animated_fanart>
-        <fanart>https://www.thetvdb.com/banners/fanart/original/295760-8.jpg</fanart>
+        <fanart>https://www.thetvdb.com/banners/fanart/original/278518-7.jpg</fanart>
 </dir>
 <dir>
         <title>Lethal Weapon</title>
         <meta>
                 <content>tvshow</content>
-		<imdb>tt5164196</imdb>
-		<tvdb>311790</tvdb>
-		<tvshowtitle>Lethal Weapon</tvshowtitle>
-		<year>2016</year>
+                <imdb>tt5164196</imdb>
+                <tvdb>311790</tvdb>
+                <tvshowtitle>Lethal Weapon</tvshowtitle>
+                <year>2016</year>
         </meta>
-        <lilink>https://raw.githubusercontent.com/Tikkes/darkside-repo/master/xml/Lethal Weapon/LethalWeapon.xml</link>
+        <lilink>https://raw.githubusercontent.com/Tikkes/darkside-repo/master/xml/LethalWeapon/LethalWeapon.xml</link>
         <animated_thumbnail></animated_thumbnail>
         <thumbnail>https://www.thetvdb.com/banners/posters/311790-2.jpg</thumbnail>
         <animated_fanart></animated_fanart>
@@ -397,10 +352,10 @@
         <title>Lucifer</title>
         <meta>
                 <content>tvshow</content>
-		<imdb>tt4052886</imdb>
-		<tvdb>295685</tvdb>
-		<tvshowtitle>Lucifer</tvshowtitle>
-		<year>2016</year>
+                <imdb>tt4052886</imdb>
+                <tvdb>295685</tvdb>
+                <tvshowtitle>Lucifer</tvshowtitle>
+                <year>2016</year>
         </meta>
         <link>https://raw.githubusercontent.com/Tikkes/darkside-repo/master/xml/Lucifer/Lucifer.xml</link>
         <animated_thumbnail></animated_thumbnail>
@@ -409,15 +364,45 @@
         <fanart>https://www.thetvdb.com/banners/fanart/original/295685-11.jpg</fanart>
 </dir>
 <dir>
+        <title>Married... with Children</title>
+        <meta>
+                <content>tvshow</content>
+                <imdb>tt0092400</imdb>
+                <tvdb>76385</tvdb>
+                <tvshowtitle>Married... with Children</tvshowtitle>
+                <year>1987</year>
+        </meta>
+        <link>https://raw.githubusercontent.com/Tikkes/darkside-repo/master/xml/MarriedwithChildren/MarriedwithChildren.xml</link>
+        <animated_thumbnail></animated_thumbnail>
+        <thumbnail>https://www.thetvdb.com/banners/posters/76385-10.jpg</thumbnail>
+        <animated_fanart></animated_fanart>
+        <fanart>https://www.thetvdb.com/banners/fanart/original/76385-17.jpg</fanart>
+</dir>
+<dir>
+        <title>Marvel's The Punisher</title>
+        <meta>
+                <content>tvshow</content>
+                <imdb>tt5675620</imdb>
+                <tvdb>331980</tvdb>
+                <tvshowtitle>Marvel's The Punisher</tvshowtitle>
+                <year>2017</year>
+        </meta>
+        <link>https://raw.githubusercontent.com/Tikkes/darkside-repo/master/xml/MarvelsThePunisher/MarvelsThePunisher.xml</link>
+        <animated_thumbnail></animated_thumbnail>
+        <thumbnail>https://www.thetvdb.com/banners/posters/331980-12.jpg</thumbnail>
+        <animated_fanart></animated_fanart>
+        <fanart>https://www.thetvdb.com/banners/fanart/original/331980-6.jpg</fanart>
+</dir>
+<dir>
         <title>Mr. Robot</title>
         <meta>
                 <content>tvshow</content>
-		<imdb>tt4158110</imdb>
-		<tvdb>289590</tvdb>
-		<tvshowtitle>Mr. Robot</tvshowtitle>
-		<year>2015</year>
+                <imdb>tt4158110</imdb>
+                <tvdb>289590</tvdb>
+                <tvshowtitle>Mr. Robot</tvshowtitle>
+                <year>2015</year>
         </meta>
-        <link>https://raw.githubusercontent.com/Tikkes/darkside-repo/master/xml/Mr. Robot/Mr.Robot.xml</link>
+        <link>https://raw.githubusercontent.com/Tikkes/darkside-repo/master/xml/MrRobot/MrRobot.xml</link>
         <animated_thumbnail></animated_thumbnail>
         <thumbnail>https://www.thetvdb.com/banners/posters/289590-12.jpg</thumbnail>
         <animated_fanart></animated_fanart>
@@ -427,12 +412,12 @@
         <title>Orphan Black</title>
         <meta>
                 <content>tvshow</content>
-		<imdb>tt2234222</imdb>
-		<tvdb>260315</tvdb>
-		<tvshowtitle>Orphan Black</tvshowtitle>
-		<year>2013</year>
+                <imdb>tt2234222</imdb>
+                <tvdb>260315</tvdb>
+                <tvshowtitle>Orphan Black</tvshowtitle>
+                <year>2013</year>
         </meta>
-        <link>https://raw.githubusercontent.com/Tikkes/darkside-repo/master/xml/Orphan Black/OrphanBlack.xml</link>
+        <link>https://raw.githubusercontent.com/Tikkes/darkside-repo/master/xml/OrphanBlack/OrphanBlack.xml</link>
         <animated_thumbnail></animated_thumbnail>
         <thumbnail>https://www.thetvdb.com/banners/posters/260315-14.jpg</thumbnail>
         <animated_fanart></animated_fanart>
@@ -442,27 +427,132 @@
         <title>Peaky Blinders</title>
         <meta>
                 <content>tvshow</content>
-		<imdb>tt2442560</imdb>
-		<tvdb>270915</tvdb>
-		<tvshowtitle>Peaky Blinders</tvshowtitle>
-		<year>2013</year>
+                <imdb>tt2442560</imdb>
+                <tvdb>270915</tvdb>
+                <tvshowtitle>Peaky Blinders</tvshowtitle>
+                <year>2013</year>
         </meta>
-        <link>https://raw.githubusercontent.com/Tikkes/darkside-repo/master/xml/Peaky Blinders/PeakyBlinders.xml</link>
+        <link>https://raw.githubusercontent.com/Tikkes/darkside-repo/master/xml/PeakyBlinders/PeakyBlinders.xml</link>
         <animated_thumbnail></animated_thumbnail>
         <thumbnail>https://www.thetvdb.com/banners/posters/270915-20.jpg</thumbnail>
         <animated_fanart></animated_fanart>
         <fanart>https://www.thetvdb.com/banners/fanart/original/270915-10.jpgb  </fanart>
 </dir>
 <dir>
+        <title>Rick and Morty</title>
+        <meta>
+                <content>tvshow</content>
+                <imdb>tt2861424</imdb>
+                <tvdb>275274</tvdb>
+                <tvshowtitle>Rick and Morty</tvshowtitle>
+                <year>2013</year>
+        </meta>
+        <link>https://raw.githubusercontent.com/Tikkes/darkside-repo/master/xml/RickandMorty/RickandMorty.xml</link>
+        <animated_thumbnail></animated_thumbnail>
+        <thumbnail>https://www.thetvdb.com/banners/posters/275274-4.jpg</thumbnail>
+        <animated_fanart></animated_fanart>
+        <fanart>https://www.thetvdb.com/banners/fanart/original/275274-10.jpg</fanart>
+</dir>
+<dir>
+        <title>Shameless</title>
+        <meta>
+                <content>tvshow</content>
+                <imdb>tt0377260</imdb>
+                <tvdb>78846</tvdb>
+                <tvshowtitle>Shameless</tvshowtitle>
+                <year>2004</year> 
+        </meta>
+        <link>https://raw.githubusercontent.com/Tikkes/darkside-repo/master/xml/Shameless/Shameless.xml</link>
+        <animated_thumbnail></animated_thumbnail>
+        <thumbnail>https://www.thetvdb.com/banners/posters/78846-2.jpg</thumbnail>
+        <animated_fanart></animated_fanart>
+        <fanart>https://www.thetvdb.com/banners/fanart/original/78846-3.jpg</fanart>
+</dir>
+<dir>
+        <title>Shameless (US)</title>
+        <meta>
+                <content>tvshow</content>
+                <imdb>tt1586680</imdb>
+                <tvdb>161511</tvdb>
+                <tvshowtitle>Shameless (US)</tvshowtitle>
+                <year>2011</year>
+        </meta>
+        <link>https://raw.githubusercontent.com/Tikkes/darkside-repo/master/xml/ShamelessUS/ShamelessUS.xml</link>
+        <animated_thumbnail></animated_thumbnail>
+        <thumbnail>https://www.thetvdb.com/banners/posters/161511-20.jpg</thumbnail>
+        <animated_fanart></animated_fanart>
+        <fanart>https://www.thetvdb.com/banners/fanart/original/161511-8.jpg</fanart>
+</dir>
+<dir>
+        <title>Sons of Anarchy</title>
+        <meta>
+                <content>tvshow</content>
+                <imdb>tt1124373</imdb>
+                <tvdb>82696</tvdb>
+                <tvshowtitle>Sons of Anarchy</tvshowtitle>
+                <year>2008</year>
+        </meta>
+        <link>https://raw.githubusercontent.com/Tikkes/darkside-repo/master/xml/SonsofAnarchy/SonsofAnarchy.xml</link>
+        <animated_thumbnail></animated_thumbnail>
+        <thumbnail>https://www.thetvdb.com/banners/posters/82696-19.jpg</thumbnail>
+        <animated_fanart></animated_fanart>
+        <fanart>https://www.thetvdb.com/banners/fanart/original/82696-66.jpg</fanart>
+</dir>
+<dir>
+        <title>Star Trek</title>
+        <meta>
+                <content>tvshow</content>
+                <imdb>tt0060028</imdb>
+                <tvdb>77526</tvdb>
+                <tvshowtitle>Star Trek</tvshowtitle>
+                <year>1966</year>
+        </meta>
+        <link>https://raw.githubusercontent.com/Tikkes/darkside-repo/master/xml/StarTrek/StarTrek.xml</link>
+        <animated_thumbnail></animated_thumbnail>
+        <thumbnail>https://www.thetvdb.com/banners/posters/305288-49.jpg</thumbnail>
+        <animated_fanart></animated_fanart>
+        <fanart>https://www.thetvdb.com/banners/fanart/original/305288-19.jpg</fanart>
+</dir>
+<dir>
+        <title>Star Trek: The Next Generation</title>
+        <meta>
+                <content>tvshow</content>
+                <imdb>tt0092455</imdb>
+                <tvdb>71470</tvdb>
+                <tvshowtitle>Star Trek: The Next Generation</tvshowtitle>
+                <year>1966</year>
+        </meta>
+        <link>https://raw.githubusercontent.com/Tikkes/darkside-repo/master/xml/StarTrek/StarTrekTheNextGeneration.xml</link>
+        <animated_thumbnail></animated_thumbnail>
+        <thumbnail>https://www.thetvdb.com/banners/posters/305288-49.jpg</thumbnail>
+        <animated_fanart></animated_fanart>
+        <fanart>https://www.thetvdb.com/banners/fanart/original/305288-19.jpg</fanart>
+</dir>
+<dir>
+        <title>Stranger Things</title>
+        <meta>
+                <content>tvshow</content>
+                <imdb>tt4574334</imdb>
+                <tvdb>305288</tvdb>
+                <tvshowtitle>StrangerThings</tvshowtitle>
+                <year>2016</year>
+        </meta>
+        <link>https://raw.githubusercontent.com/Tikkes/darkside-repo/master/xml/StrangerThings/StrangerThings.xml</link>
+        <animated_thumbnail></animated_thumbnail>
+        <thumbnail>https://www.thetvdb.com/banners/posters/305288-49.jpg</thumbnail>
+        <animated_fanart></animated_fanart>
+        <fanart>https://www.thetvdb.com/banners/fanart/original/305288-19.jpg</fanart>
+</dir>
+<dir>
         <title>The Big Bang Theory</title>
         <meta>
                 <content>tvshow</content>
-		<imdb>tt0898266</imdb>
-		<tvdb>80379</tvdb>
-		<tvshowtitle>The Big Bang Theory</tvshowtitle>
-		<year>2007</year>
+                <imdb>tt0898266</imdb>
+                <tvdb>80379</tvdb>
+                <tvshowtitle>The Big Bang Theory</tvshowtitle>
+                <year>2007</year>
         </meta>
-        <link>https://raw.githubusercontent.com/Tikkes/darkside-repo/master/xml/The Big Bang Theory/TheBigBangTheory.xml</link>
+        <link>https://raw.githubusercontent.com/Tikkes/darkside-repo/master/xml/TheBigBangTheory/TheBigBangTheory.xml</link>
         <animated_thumbnail></animated_thumbnail>
         <thumbnail>https://www.thetvdb.com/banners/posters/80379-49.jpg</thumbnail>
         <animated_fanart></animated_fanart>
@@ -472,12 +562,12 @@
         <title>The Gifted</title>
         <meta>
                 <content>tvshow</content>
-		<imdb>tt4396630</imdb>
-		<tvdb>328552</tvdb>
-		<tvshowtitle>The Gifted</tvshowtitle>
-		<year>2017</year>
+                <imdb>tt4396630</imdb>
+                <tvdb>328552</tvdb>
+                <tvshowtitle>The Gifted</tvshowtitle>
+                <year>2017</year>
         </meta>
-        <link>https://raw.githubusercontent.com/Tikkes/darkside-repo/master/xml/The Gifted/TheGifted.xml</link>
+        <link>https://raw.githubusercontent.com/Tikkes/darkside-repo/master/xml/TheGifted/TheGifted.xml</link>
         <animated_thumbnail></animated_thumbnail>
         <thumbnail>https://www.thetvdb.com/banners/posters/328552-2.jpg</thumbnail>
         <animated_fanart></animated_fanart>
@@ -487,118 +577,59 @@
         <title>The Shannara Chronicles</title>
         <meta>
                 <content>tvshow</content>
-		<imdb>tt1051220</imdb>
-		<tvdb>289096</tvdb>
-		<tvshowtitle>The Shannara Chronicles</tvshowtitle>
-		<year>2016</year>
+                <imdb>tt1051220</imdb>
+                <tvdb>289096</tvdb>
+                <tvshowtitle>The Shannara Chronicles</tvshowtitle>
+                <year>2016</year>
         </meta>
-        <link>https://raw.githubusercontent.com/Tikkes/darkside-repo/master/xml/The Shannara Chronicles/TheShannaraChronicles.xml</link>
+        <link>https://raw.githubusercontent.com/Tikkes/darkside-repo/master/xml/TheShannaraChronicles/TheShannaraChronicles.xml</link>
         <animated_thumbnail></animated_thumbnail>
         <thumbnail>https://www.thetvdb.com/banners/posters/289096-11.jpg</thumbnail>
         <animated_fanart></animated_fanart>
         <fanart>https://www.thetvdb.com/banners/fanart/original/289096-6.jpg</fanart>
 </dir>
 <dir>
-        <title>Ballers</title>
+        <title>The Walking Dead</title>
         <meta>
                 <content>tvshow</content>
-		<imdb>tt2891574</imdb>
-		<tvdb>281714</tvdb>
-		<tvshowtitle>Ballers</tvshowtitle>
-		<year>2015</year>
+                <imdb>tt1520211</imdb>
+                <tvdb>153021</tvdb>
+                <tvshowtitle>The Walking Dead</tvshowtitle>
+                <year>2010</year>
         </meta>
-        <link>https://raw.githubusercontent.com/Tikkes/darkside-repo/master/xml/Ballers/Ballers.xml</link>
+        <link>https://raw.githubusercontent.com/Tikkes/darkside-repo/master/xml/TheWalkingDead/TheWalkingDead.xml</link>
         <animated_thumbnail></animated_thumbnail>
-        <thumbnail>https://www.thetvdb.com/banners/posters/281714-4.jpg</thumbnail>
+        <thumbnail>https://www.thetvdb.com/banners/posters/153021-6.jpg</thumbnail>
         <animated_fanart></animated_fanart>
-        <fanart>https://www.thetvdb.com/banners/fanart/original/281714-4.jpg</fanart>
+        <fanart>https://www.thetvdb.com/banners/fanart/original/153021-96.jpg</fanart>
 </dir>
 <dir>
-        <title>black-ish</title>
+        <title>The Wire</title>
         <meta>
                 <content>tvshow</content>
-		<imdb>tt3487356</imdb>
-		<tvdb>281511</tvdb>
-		<tvshowtitle>black-ish</tvshowtitle>
-		<year>2014</year>
+                <imdb>tt0306414</imdb>
+                <tvdb>79126</tvdb>
+                <tvshowtitle>The Wire</tvshowtitle>
+                <year>2002</year>
         </meta>
-        <link>https://raw.githubusercontent.com/Tikkes/darkside-repo/master/xml/black-ish/black-ish.xml</link>
+        <link>https://raw.githubusercontent.com/Tikkes/darkside-repo/master/xml/TheWire/TheWire.xml</link>
         <animated_thumbnail></animated_thumbnail>
-        <thumbnail>https://www.thetvdb.com/banners/posters/281511-4.jpg</thumbnail>
+        <thumbnail>https://www.thetvdb.com/banners/posters/79126-2.jpg</thumbnail>
         <animated_fanart></animated_fanart>
-        <fanart>https://www.thetvdb.com/banners/fanart/original/281511-6.jpg</fanart>
+        <fanart>https://www.thetvdb.com/banners/fanart/original/79126-2.jpg</fanart>
 </dir>
 <dir>
-        <title>Boardwalk Empire</title>
+        <title>Westworld</title>
         <meta>
                 <content>tvshow</content>
-		<imdb>tt0979432</imdb>
-		<tvdb>84947</tvdb>
-		<tvshowtitle>Boardwalk Empire</tvshowtitle>
-		<year>2010</year>
+                <imdb>tt0475784</imdb>
+                <tvdb>296762</tvdb>
+                <tvshowtitle>Westworld</tvshowtitle>
+                <year>2016</year>
         </meta>
-        <link>https://raw.githubusercontent.com/Tikkes/darkside-repo/master/xml/Boardwalk Empire/BoardwalkEmpire.xml</link>
+        <link>https://raw.githubusercontent.com/Tikkes/darkside-repo/master/xml/Westworld/Westworld.xml</link>
         <animated_thumbnail></animated_thumbnail>
-        <thumbnail>https://www.thetvdb.com/banners/posters/84947-6.jpg</thumbnail>
+        <thumbnail>https://www.thetvdb.com/banners/posters/296762-3.jpg</thumbnail>
         <animated_fanart></animated_fanart>
-        <fanart>https://www.thetvdb.com/banners/fanart/original/84947-10.jpg</fanart>
+        <fanart>https://www.thetvdb.com/banners/fanart/original/296762-7.jpg</fanart>
 </dir>
-<dir>
-        <title>Chicago Med</title>
-        <meta>
-                <content>tvshow</content>
-		<imdb>tt4655480</imdb>
-		<tvdb>295640</tvdb>
-		<tvshowtitle>Chicago Med</tvshowtitle>
-		<year>2015</year>
-        </meta>
-        <link>https://raw.githubusercontent.com/Tikkes/darkside-repo/master/xml/Chicago Med/ChicagoMed.xml</link>
-        <animated_thumbnail></animated_thumbnail>
-        <thumbnail>https://www.thetvdb.com/banners/posters/295640-7.jpg</thumbnail>
-        <animated_fanart></animated_fanart>
-        <fanart>https://www.thetvdb.com/banners/fanart/original/295640-19.jpg</fanart>
-</dir>
-<dir>
-        <title>Chicago P.D.</title>
-        <meta>
-                <content>tvshow</content>
-		<imdb>tt2805096</imdb>
-		<tvdb>269641</tvdb>
-		<tvshowtitle>Chicago P.D.</tvshowtitle>
-		<year>2014</year>
-        </meta>
-        <link>https://raw.githubusercontent.com/Tikkes/darkside-repo/master/xml/Chicago P.D./ChicagoP.D.xml</link>
-        <animated_thumbnail></animated_thumbnail>
-        <thumbnail>https://www.thetvdb.com/banners/posters/269641-6.jpg</thumbnail>
-        <animated_fanart></animated_fanart>
-        <fanart>https://www.thetvdb.com/banners/fanart/original/269641-11.jpg</fanart>
-</dir>
-<dir>
-        <title>Doctor Who (2005)</title>
-        <meta>
-                <content>tvshow</content>
-		<imdb>tt0436992</imdb>
-		<tvdb>78804</tvdb>
-		<tvshowtitle>Doctor Who (2005)</tvshowtitle>
-		<year>2005</year>
-        </meta>
-        <link>https://raw.githubusercontent.com/Tikkes/darkside-repo/master/xml/Doctor Who (2005)/DoctorWho(2005).xml</link>
-        <animated_thumbnail></animated_thumbnail>
-        <thumbnail>https://www.thetvdb.com/banners/posters/78804-27.jpg</thumbnail>
-        <animated_fanart></animated_fanart>
-        <fanart>https://www.thetvdb.com/banners/fanart/original/78804-100.jpg</fanart>
-</dir>
-<dir>
-        <title>Fresh Off the Boat</title>
-        <meta>
-                <content>tvshow</content>
-               <imdb>tt3551096</imdb>
-		<tvdb>281618</tvdb>
-		<tvshowtitle>Fresh Off the Boat</tvshowtitle>
-		<year>2015</year>
-        </meta>
-        <link>https://raw.githubusercontent.com/Tikkes/darkside-repo/master/xml/Fresh Off the Boat/FreshOfftheBoat.xml</link>
-        <animated_thumbnail></animated_thumbnail>
-        <thumbnail>https://www.thetvdb.com/banners/posters/281618-8.jpg</thumbnail>
-        <animated_fanart></animated_fanart>
-        <fanart>https://www.thetvdb.com/banners/fanart/original/281618-3.jpg</fanart>

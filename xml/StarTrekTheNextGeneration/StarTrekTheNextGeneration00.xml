@@ -1,0 +1,30 @@
+
+################################################################################
+<poster>Tikkes</poster>
+<cache>10800</poster>
+<thumbnail></thumbnail>
+<fanart></fanart>
+################################################################################
+
+<item>
+    <title>Star Trek: The Next Generation S00E01 - Journey's End: The Saga of Star Trek The Next Generation</title>
+    <meta>
+        <content>episode</content>
+        <imdb>tt0092455</imdb>
+        <tvdb>71470</tvdb>
+        <tvshowtitle>Star Trek: The Next Generation</tvshowtitle>
+        <year>1994</year>
+        <title>Journey's End: The Saga of Star Trek The Next Generation</title>
+        <premiered>1994-05-21</premiered>
+        <season>0</season>
+        <episode>1</episode>
+    </meta>
+    <link>
+        <sublink>search</sublink>
+        <sublink>searchsd</sublink>
+    </link>
+    <animated_thumbnail></animated_thumbnail>
+    <thumbnail></thumbnail>
+    <animated_fanart></animated_fanart>
+    <fanart></fanart>
+</item>

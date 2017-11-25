@@ -1,0 +1,39 @@
+
+################################################################################
+<poster>Tikkes</poster>
+<thumbnail></thumbnail>
+<fanart></fanart>
+################################################################################
+
+<dir>
+    <name>The Gifted Season 0</name>
+    <meta>
+        <content>season</content>
+        <imdb>tt4396630</imdb>
+        <tvdb>328552</tvdb>
+        <tvshowtitle>The Gifted</tvshowtitle>
+        <year>2017</year>
+        <season>0</season>
+    </meta>
+    <link>https://raw.githubusercontent.com/Tikkes/darkside-repo/master/xml/TheGifted/TheGifted00.xml</link>
+    <animated_thumbnail></animated_thumbnail>
+    <thumbnail></thumbnail>
+    <animated_fanart></animated_fanart>
+    <fanart></fanart>
+</dir>
+<dir>
+    <name>The Gifted Season 1</name>
+    <meta>
+        <content>season</content>
+        <imdb>tt4396630</imdb>
+        <tvdb>328552</tvdb>
+        <tvshowtitle>The Gifted</tvshowtitle>
+        <year>2017</year>
+        <season>1</season>
+    </meta>
+    <link>https://raw.githubusercontent.com/Tikkes/darkside-repo/master/xml/TheGifted/TheGifted01.xml</link>
+    <animated_thumbnail></animated_thumbnail>
+    <thumbnail></thumbnail>
+    <animated_fanart></animated_fanart>
+    <fanart></fanart>
+</dir>

@@ -198,6 +198,21 @@
         <animated_fanart></animated_fanart>
         <fanart>https://www.thetvdb.com/banners/fanart/original/78804-100.jpg</fanart>
 </dir>
+dir>
+        <title>Dr. Jeff: Rocky Mountain Vet</title>
+        <meta>
+                <content>tvshow</content>
+        <imdb>tt4796084</imdb>
+        <tvdb>298367</tvdb>
+        <tvshowtitle>Dr. Jeff: Rocky Mountain Vet</tvshowtitle>
+        <year>2015</year>
+        </meta>
+        <link>https://raw.githubusercontent.com/Tikkes/darkside-repo/master/xml/DrJeffRockyMountainVet/DrJeffRockyMountainVet.xml</link>
+        <animated_thumbnail></animated_thumbnail>
+        <thumbnail></thumbnail>
+        <animated_fanart></animated_fanart>
+        <fanart></fanart>
+</dir>
 <dir>
         <title>Family Guy</title>
         <meta>
@@ -319,6 +334,21 @@
         <fanart>https://www.thetvdb.com/banners/fanart/original/73762-50.jpg</fanart>
 </dir>
 <dir>
+        <title>Kevin Can Wait</title>
+        <meta>
+                <content>tvshow</content>
+        <imdb>tt5462720</imdb>
+        <tvdb>311944</tvdb>
+        <tvshowtitle>Kevin Can Wait</tvshowtitle>
+        <year>2016</year>
+        </meta>
+        <link>https://raw.githubusercontent.com/Tikkes/darkside-repo/master/xml/Kevin Can Wait/KevinCanWait.xml</link>
+        <animated_thumbnail></animated_thumbnail>
+        <thumbnail></thumbnail>
+        <animated_fanart></animated_fanart>
+        <fanart></fanart>
+</dir>
+<dir>
         <title>Last Week Tonight with John Oliver</title>
         <meta>
                 <content>tvshow</content>
@@ -342,11 +372,25 @@
                 <tvshowtitle>Lethal Weapon</tvshowtitle>
                 <year>2016</year>
         </meta>
-        <lilink>https://raw.githubusercontent.com/Tikkes/darkside-repo/master/xml/LethalWeapon/LethalWeapon.xml</link>
+        <link>https://raw.githubusercontent.com/Tikkes/darkside-repo/master/xml/LethalWeapon/LethalWeapon.xml</link>
         <animated_thumbnail></animated_thumbnail>
         <thumbnail>https://www.thetvdb.com/banners/posters/311790-2.jpg</thumbnail>
         <animated_fanart></animated_fanart>
         <fanart>https://www.thetvdb.com/banners/fanart/original/311790-10.jpg</fanart>
+</dir>
+<dir>
+        <title>Lip Sync Battle</title>
+        <meta>
+        <imdb>tt4335742</imdb>
+        <tvdb>293322</tvdb>
+        <tvshowtitle>Lip Sync Battle</tvshowtitle>
+        <year>2015</year>
+        </meta>
+        <link>https://raw.githubusercontent.com/Tikkes/darkside-repo/master/xml/Lip Sync Battle/LipSyncBattle.xml</link>
+        <animated_thumbnail></animated_thumbnail>
+        <thumbnail></thumbnail>
+        <animated_fanart></animated_fanart>
+        <fanart></fanart>
 </dir>
 <dir>
         <title>Lucifer</title>
@@ -377,6 +421,21 @@
         <thumbnail>https://www.thetvdb.com/banners/posters/76385-10.jpg</thumbnail>
         <animated_fanart></animated_fanart>
         <fanart>https://www.thetvdb.com/banners/fanart/original/76385-17.jpg</fanart>
+</dir>
+<dir>
+        <title>Marvel's Spider-Man</title>
+        <meta>
+                <content>tvshow</content>
+        <imdb>tt6135682</imdb>
+        <tvdb>329456</tvdb>
+        <tvshowtitle>Marvel's Spider-Man</tvshowtitle>
+        <year>2017</year>
+        </meta>
+        <link></link>
+        <animated_thumbnail></animated_thumbnail>
+        <thumbnail></thumbnail>
+        <animated_fanart></animated_fanart>
+        <fanart></fanart>
 </dir>
 <dir>
         <title>Marvel's The Punisher</title>
@@ -439,6 +498,37 @@
         <fanart>https://www.thetvdb.com/banners/fanart/original/270915-10.jpgb  </fanart>
 </dir>
 <dir>
+        <title>Queen of the South</title>
+        <meta>
+                <content>tvshow</content>
+        <content>season</content>
+        <imdb>tt1064899</imdb>
+        <tvdb>306719</tvdb>
+        <tvshowtitle>Queen of the South</tvshowtitle>
+        <year>2016</year>
+        </meta>
+        <link>https://raw.githubusercontent.com/Tikkes/darkside-repo/master/xml/Queen of the South/QueenoftheSouth.xml</link>
+        <animated_thumbnail></animated_thumbnail>
+        <thumbnail></thumbnail>
+        <animated_fanart></animated_fanart>
+        <fanart></fanart>
+</dir>
+<dir>
+        <title>Ray Donovan</title>
+        <meta>
+                <content>tvshow</content>
+        <imdb>tt2249007</imdb>
+        <tvdb>259866</tvdb>
+        <tvshowtitle>Ray Donovan</tvshowtitle>
+        <year>2013</year>
+        </meta>
+        <link>https://raw.githubusercontent.com/Tikkes/darkside-repo/master/xml/Ray Donovan/RayDonovan.xml</link>
+        <animated_thumbnail></animated_thumbnail>
+        <thumbnail></thumbnail>
+        <animated_fanart></animated_fanart>
+        <fanart></fanart>
+</dir>
+<dir>
         <title>Rick and Morty</title>
         <meta>
                 <content>tvshow</content>
@@ -484,6 +574,20 @@
         <fanart>https://www.thetvdb.com/banners/fanart/original/161511-8.jpg</fanart>
 </dir>
 <dir>
+        <title>Silicon Valley</title>
+        <meta>
+        <imdb>tt2575988</imdb>
+        <tvdb>277165</tvdb>
+        <tvshowtitle>Silicon Valley</tvshowtitle>
+        <year>2014</year>
+        </meta>
+        <link>https://raw.githubusercontent.com/Tikkes/darkside-repo/master/xml/SiliconValley/SiliconValley.xml</link>
+        <animated_thumbnail></animated_thumbnail>
+        <thumbnail></thumbnail>
+        <animated_fanart></animated_fanart>
+        <fanart></fanart>
+</dir>
+<dir>
         <title>Sons of Anarchy</title>
         <meta>
                 <content>tvshow</content>
@@ -516,17 +620,47 @@
 <dir>
         <title>Star Trek: The Next Generation</title>
         <meta>
-                <content>tvshow</content>
-                <imdb>tt0092455</imdb>
-                <tvdb>71470</tvdb>
-                <tvshowtitle>Star Trek: The Next Generation</tvshowtitle>
-                <year>1966</year>
+        <content>season</content>
+        <imdb>tt0092455</imdb>
+        <tvdb>71470</tvdb>
+        <tvshowtitle>Star Trek: The Next Generation</tvshowtitle>
+        <year>1987</year>
         </meta>
-        <link>https://raw.githubusercontent.com/Tikkes/darkside-repo/master/xml/StarTrek/StarTrekTheNextGeneration.xml</link>
+        <link>https://raw.githubusercontent.com/Tikkes/darkside-repo/master/xml/StarTrekTheNextGeneration/StarTrekTheNextGeneration.xml</link>
         <animated_thumbnail></animated_thumbnail>
-        <thumbnail>https://www.thetvdb.com/banners/posters/305288-49.jpg</thumbnail>
+        <thumbnail></thumbnail>
         <animated_fanart></animated_fanart>
-        <fanart>https://www.thetvdb.com/banners/fanart/original/305288-19.jpg</fanart>
+        <fanart></fanart>
+</dir>
+<dir>
+        <title>Star Wars Rebels</title>
+        <meta>
+                <content>tvshow</content>
+        <imdb>tt2930604</imdb>
+        <tvdb>283468</tvdb>
+        <tvshowtitle>Star Wars Rebels</tvshowtitle>
+        <year>2014</year>
+        </meta>
+        <link>https://raw.githubusercontent.com/Tikkes/darkside-repo/master/xml/StarWarsRebels/StarWarsRebels.xml</link>
+        <animated_thumbnail></animated_thumbnail>
+        <thumbnail></thumbnail>
+        <animated_fanart></animated_fanart>
+        <fanart></fanart>
+</dir>
+<dir>
+        <title>Star Wars: The Clone Wars</title>
+        <meta>
+                <content>tvshow</content>
+        <imdb>tt0458290</imdb>
+        <tvdb>83268</tvdb>
+        <tvshowtitle>Star Wars: The Clone Wars</tvshowtitle>
+        <year>2008</year>
+        </meta>
+        <link>https://raw.githubusercontent.com/Tikkes/darkside-repo/master/xml/StarWarsTheCloneWars/StarWarsTheCloneWars.xml</link>
+        <animated_thumbnail></animated_thumbnail>
+        <thumbnail></thumbnail>
+        <animated_fanart></animated_fanart>
+        <fanart></fanart>
 </dir>
 <dir>
         <title>Stranger Things</title>
@@ -617,6 +751,21 @@
         <thumbnail>https://www.thetvdb.com/banners/posters/79126-2.jpg</thumbnail>
         <animated_fanart></animated_fanart>
         <fanart>https://www.thetvdb.com/banners/fanart/original/79126-2.jpg</fanart>
+</dir>
+<dir>
+        <title>True Blood</title>
+        <meta>
+                <content>tvshow</content>
+        <imdb>tt0844441</imdb>
+        <tvdb>82283</tvdb>
+        <tvshowtitle>True Blood</tvshowtitle>
+        <year>2008</year>
+        </meta>
+        <link>https://raw.githubusercontent.com/Tikkes/darkside-repo/master/xml/TrueBlood/TrueBlood00.xml</link>
+        <animated_thumbnail></animated_thumbnail>
+        <thumbnail></thumbnail>
+        <animated_fanart></animated_fanart>
+        <fanart></fanart>
 </dir>
 <dir>
         <title>Westworld</title>

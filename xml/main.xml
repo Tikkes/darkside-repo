@@ -23,10 +23,10 @@
         <name>In A Galaxy Far Far Away</name>
         <link>https://raw.githubusercontent.com/Tikkes/darkside-repo/master/xml/starwars.xml</link>
         <animated_thumbnail>https://media.giphy.com/media/HVKS99ls9v04M/giphy.gif</animated_thumbnail>
-        <thumbnail></thumbnail>
+        <thumbnail>https://www.ballerstatus.com/wp-content/uploads/2013/05/logo-starwars.jpg</thumbnail>
 		<summary>Star Wars Library</summary>
         <animated_fanart></animated_fanart>
-        <fanart></fanart>
+        <fanart>https://images5.alphacoders.com/825/825936.jpg</fanart>
 </dir>
 <dir>
         <name>Hogwarts School of Witchcraft and Wizardry</name>

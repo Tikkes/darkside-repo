@@ -1,0 +1,92 @@
+
+
+<dir>
+        <title>Star Trek</title>
+        <meta>
+                <content>tvshow</content>
+        <imdb>tt0060028</imdb>
+        <tvdb>77526</tvdb>
+        <tvshowtitle>Star Trek</tvshowtitle>
+        <year>1966</year>
+        </meta>
+        <link>https://raw.githubusercontent.com/Tikkes/darkside-repo/master/xml/StarTrek/StarTrek.xml</link>
+        <animated_thumbnail></animated_thumbnail>
+        <thumbnail>https://www.thetvdb.com/banners/posters/77526-5.jpg</thumbnail>
+        <animated_fanart></animated_fanart>
+        <fanart>https://www.thetvdb.com/banners/fanart/original/77526-16.jpg</fanart>
+</dir>
+<dir>
+        <title>Star Trek: The Next Generation</title>
+        <meta>
+                <content>tvshow</content>
+        <imdb>tt0092455</imdb>
+        <tvdb>71470</tvdb>
+        <tvshowtitle>Star Trek: The Next Generation</tvshowtitle>
+        <year>1987</year>
+        </meta>
+        <link>https://raw.githubusercontent.com/Tikkes/darkside-repo/master/xml/StarTrekTheNextGeneration/StarTrekTheNextGeneration.xml</link>
+        <animated_thumbnail></animated_thumbnail>
+        <thumbnail>https://www.thetvdb.com/banners/posters/71470-5.jpg</thumbnail>
+        <animated_fanart></animated_fanart>
+        <fanart>https://www.thetvdb.com/banners/fanart/original/71470-28.jpg</fanart>
+</dir>
+<dir>
+        <title>Star Trek: Deep Space Nine</title>
+        <meta>
+                <content>tvshow</content>
+        <imdb>tt0106145</imdb>
+        <tvdb>72073</tvdb>
+        <tvshowtitle>Star Trek: Deep Space Nine</tvshowtitle>
+        <year>1993</year>
+        </meta>
+        <link>https://raw.githubusercontent.com/Tikkes/darkside-repo/master/xml/StarTrekDeepSpaceNine/StarTrekDeepSpaceNine.xml</link>
+        <animated_thumbnail></animated_thumbnail>
+        <thumbnail>https://www.thetvdb.com/banners/posters/72073-1.jpg</thumbnail>
+        <animated_fanart></animated_fanart>
+        <fanart>https://www.thetvdb.com/banners/fanart/original/72073-14.jpg</fanart>
+</dir>
+<dir>
+        <title>Star Trek: Voyager</title>
+        <meta>
+                <content>tvshow</content>
+        <imdb>tt0112178</imdb>
+        <tvdb>74550</tvdb>
+        <tvshowtitle>Star Trek: Voyager</tvshowtitle>
+        <year>1995</year>
+        </meta>
+        <link>https://raw.githubusercontent.com/Tikkes/darkside-repo/master/xml/StarTrekVoyager/StarTrekVoyager.xml</link>
+        <animated_thumbnail></animated_thumbnail>
+        <thumbnail>https://www.thetvdb.com/banners/posters/74550-5.jpg</thumbnail>
+        <animated_fanart></animated_fanart>
+        <fanart>https://www.thetvdb.com/banners/fanart/original/74550-18.jpg</fanart>
+</dir>
+<dir>
+        <title>Star Trek: Discovery</title>
+        <meta>
+                <content>tvshow</content>
+        <imdb>tt5171438</imdb>
+        <tvdb>328711</tvdb>
+        <tvshowtitle>Star Trek: Discovery</tvshowtitle>
+        <year>2017</year>
+        </meta>
+        <link>https://raw.githubusercontent.com/Tikkes/darkside-repo/master/xml/StarTrekDiscovery/StarTrekDiscovery.xml</link>
+        <animated_thumbnail></animated_thumbnail>
+        <thumbnail>https://www.thetvdb.com/banners/posters/328711-5.jpg</thumbnail>
+        <animated_fanart></animated_fanart>
+        <fanart>https://www.thetvdb.com/banners/fanart/original/328711-10.jpg</fanart>
+</dir>
+<dir>
+        <title>Star Trek: The Animated Series</title>
+        <meta>
+                <content>tvshow</content>
+        <imdb>tt0069637</imdb>
+        <tvdb>73566</tvdb>
+        <tvshowtitle>Star Trek: The Animated Series</tvshowtitle>
+        <year>1973</year>
+        </meta>
+        <link>https://raw.githubusercontent.com/Tikkes/darkside-repo/master/xml/StarTrekTheAnimatedSeries/StarTrekTheAnimatedSeries.xml</link>
+        <animated_thumbnail></animated_thumbnail>
+        <thumbnail>https://www.thetvdb.com/banners/posters/73566-4.jpg</thumbnail>
+        <animated_fanart></animated_fanart>
+        <fanart>https://www.thetvdb.com/banners/fanart/original/73566-2.jpg</fanart>
+</dir>

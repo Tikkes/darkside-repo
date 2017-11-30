@@ -214,21 +214,6 @@
         <fanart></fanart>
 </dir>
 <dir>
-        <title>Gotham</title>
-        <meta>
-                <content>tvshow</content>
-        <imdb>tt3749900</imdb>
-        <tvdb>274431</tvdb>
-        <tvshowtitle>Gotham</tvshowtitle>
-        <year>2014</year>
-        </meta>
-        <link>https://raw.githubusercontent.com/Tikkes/darkside-repo/master/xml/Gotham/Gotham.xml</link>
-        <animated_thumbnail></animated_thumbnail>
-        <thumbnail></thumbnail>
-        <animated_fanart></animated_fanart>
-        <fanart></fanart>
-</dir>
-<dir>
         <title>Family Guy</title>
         <meta>
                 <content>tvshow</content>
@@ -289,6 +274,21 @@
         <fanart>https://www.thetvdb.com/banners/fanart/original/79168-6.jpg</fanart>
 </dir>
 <dir>
+        <title>Firefly</title>
+        <meta>
+                <content>tvshow</content>
+        <imdb>tt0303461</imdb>
+        <tvdb>78874</tvdb>
+        <tvshowtitle>Firefly</tvshowtitle>
+        <year>2002</year>
+        </meta>
+        <link>https://raw.githubusercontent.com/Tikkes/darkside-repo/master/xml/Firefly/Firefly.xml</link>
+        <animated_thumbnail></animated_thumbnail>
+        <thumbnail>https://www.thetvdb.com/banners/posters/78874-2.jpg</thumbnail>
+        <animated_fanart></animated_fanart>
+        <fanart>https://www.thetvdb.com/banners/fanart/original/78874-5.jpg</fanart>
+</dir>
+<dir>
         <title>Futurama</title>
         <meta>
                 <content>tvshow</content>
@@ -332,6 +332,21 @@
         <thumbnail>https://www.thetvdb.com/banners/posters/80547-15.jpg</thumbnail>
         <animated_fanart></animated_fanart>
         <fanart>https://www.thetvdb.com/banners/fanart/original/80547-8.jpg</fanart>
+</dir>
+<dir>
+        <title>Gotham</title>
+        <meta>
+                <content>tvshow</content>
+        <imdb>tt3749900</imdb>
+        <tvdb>274431</tvdb>
+        <tvshowtitle>Gotham</tvshowtitle>
+        <year>2014</year>
+        </meta>
+        <link>https://raw.githubusercontent.com/Tikkes/darkside-repo/master/xml/Gotham/Gotham.xml</link>
+        <animated_thumbnail></animated_thumbnail>
+        <thumbnail></thumbnail>
+        <animated_fanart></animated_fanart>
+        <fanart></fanart>
 </dir>
 <dir>
         <title>Grey's Anatomy</title>
@@ -663,6 +678,21 @@
         <fanart>https://www.thetvdb.com/banners/fanart/original/82696-66.jpg</fanart>
 </dir>
 <dir>
+        <title>Space: Above and Beyond</title>
+        <meta>
+                <content>tvshow</content>
+        <imdb>tt0112173</imdb>
+        <tvdb>76509</tvdb>
+        <tvshowtitle>Space: Above and Beyond</tvshowtitle>
+        <year>1995</year>
+        </meta>
+        <link>https://raw.githubusercontent.com/Tikkes/darkside-repo/master/xml/SpaceAboveandBeyond/SpaceAboveandBeyond.xml</link>
+        <animated_thumbnail></animated_thumbnail>
+        <thumbnail>https://www.thetvdb.com/banners/posters/76509-4.jpg</thumbnail>
+        <animated_fanart></animated_fanart>
+        <fanart>https://www.thetvdb.com/banners/fanart/original/76509-4.jpg</fanart>
+</dir>
+<dir>
         <title>Star Trek</title>
         <meta>
                 <content>tvshow</content>
@@ -736,6 +766,21 @@
         <thumbnail>https://www.thetvdb.com/banners/posters/305288-49.jpg</thumbnail>
         <animated_fanart></animated_fanart>
         <fanart>https://www.thetvdb.com/banners/fanart/original/305288-19.jpg</fanart>
+</dir>
+<dir>
+        <title>Supergirl</title>
+        <meta>
+                <content>tvshow</content>
+        <imdb>tt4016454</imdb>
+        <tvdb>295759</tvdb>
+        <tvshowtitle>Supergirl</tvshowtitle>
+        <year>2015</year>>
+        </meta>
+        <link>https://raw.githubusercontent.com/Tikkes/darkside-repo/master/xml/Supergirl/Supergirl.xml</link>
+        <animated_thumbnail></animated_thumbnail>
+        <thumbnail>https://www.thetvdb.com/banners/posters/295759-27.jpg</thumbnail>
+        <animated_fanart></animated_fanart>
+        <fanart>https://www.thetvdb.com/banners/fanart/original/295759-24.jpg</fanart>
 </dir>
 <dir>
         <title>Talking Dead</title>

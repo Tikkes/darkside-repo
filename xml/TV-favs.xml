@@ -214,6 +214,21 @@
         <fanart></fanart>
 </dir>
 <dir>
+        <title>Gotham</title>
+        <meta>
+                <content>tvshow</content>
+        <imdb>tt3749900</imdb>
+        <tvdb>274431</tvdb>
+        <tvshowtitle>Gotham</tvshowtitle>
+        <year>2014</year>
+        </meta>
+        <link>https://raw.githubusercontent.com/Tikkes/darkside-repo/master/xml/Gotham/Gotham.xml</link>
+        <animated_thumbnail></animated_thumbnail>
+        <thumbnail></thumbnail>
+        <animated_fanart></animated_fanart>
+        <fanart></fanart>
+</dir>
+<dir>
         <title>Family Guy</title>
         <meta>
                 <content>tvshow</content>
@@ -544,6 +559,21 @@
         <fanart>https://www.thetvdb.com/banners/fanart/original/275274-10.jpg</fanart>
 </dir>
 <dir>
+        <title>Ride with Norman Reedus</title>
+        <meta>
+                <content>tvshow</content>
+        <imdb>tt5547946</imdb>
+        <tvdb>310633</tvdb>
+        <tvshowtitle>Ride with Norman Reedus</tvshowtitle>
+        <year>2016</year>
+        </meta>
+        <link><link>https://raw.githubusercontent.com/Tikkes/darkside-repo/master/xml/RidewithNormanReedus/RidewithNormanReedus.xml</link></link>
+        <animated_thumbnail></animated_thumbnail>
+        <thumbnail></thumbnail>
+        <animated_fanart></animated_fanart>
+        <fanart></fanart>
+</dir>
+<dir>
         <title>Shameless</title>
         <meta>
                 <content>tvshow</content>
@@ -678,6 +708,21 @@
         <fanart>https://www.thetvdb.com/banners/fanart/original/305288-19.jpg</fanart>
 </dir>
 <dir>
+        <title>Talking Dead</title>
+        <meta>
+                <content>tvshow</content>
+        <imdb>tt2089467</imdb>
+        <tvdb>252861</tvdb>
+        <tvshowtitle>Talking Dead</tvshowtitle>
+        <year>2011</year>
+        </meta>
+        <link>https://raw.githubusercontent.com/Tikkes/darkside-repo/master/xml/TalkingDead/TalkingDead.xml</link>
+        <animated_thumbnail></animated_thumbnail>
+        <thumbnail></thumbnail>
+        <animated_fanart></animated_fanart>
+        <fanart></fanart>
+</dir>
+<dir>
         <title>The Big Bang Theory</title>
         <meta>
                 <content>tvshow</content>
@@ -693,6 +738,21 @@
         <fanart>https://www.thetvdb.com/banners/fanart/original/80379-34.jpg</fanart>
 </dir>
 <dir>
+        <title>The Flash</title>
+        <meta>
+                <content>tvshow</content>
+        <imdb>tt0098798</imdb>
+        <tvdb>78650</tvdb>
+        <tvshowtitle>The Flash</tvshowtitle>
+        <year>1990</year>
+        </meta>
+        <link>https://raw.githubusercontent.com/Tikkes/darkside-repo/master/xml/TheFlash/TheFlash.xml</link>
+        <animated_thumbnail></animated_thumbnail>
+        <thumbnail></thumbnail>
+        <animated_fanart></animated_fanart>
+        <fanart></fanart>
+</dir>
+<dir>
         <title>The Gifted</title>
         <meta>
                 <content>tvshow</content>
@@ -706,6 +766,21 @@
         <thumbnail>https://www.thetvdb.com/banners/posters/328552-2.jpg</thumbnail>
         <animated_fanart></animated_fanart>
         <fanart>https://www.thetvdb.com/banners/fanart/original/328552-5.jpg</fanart>
+</dir>
+<dir>
+        <title>The Orville</title>
+        <meta>
+                <content>tvshow</content>
+        <imdb>tt5691552</imdb>
+        <tvdb>328487</tvdb>
+        <tvshowtitle>The Orville</tvshowtitle>
+        <year>2017</year>
+        </meta>
+        <link>https://raw.githubusercontent.com/Tikkes/darkside-repo/master/xml/TheOrville/TheOrville.xml</link>
+        <animated_thumbnail></animated_thumbnail>
+        <thumbnail></thumbnail>
+        <animated_fanart></animated_fanart>
+        <fanart></fanart>
 </dir>
 <dir>
         <title>The Shannara Chronicles</title>

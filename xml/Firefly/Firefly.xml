@@ -1,0 +1,39 @@
+
+################################################################################
+<poster>Tikkes</poster>
+<thumbnail></thumbnail>
+<fanart></fanart>
+################################################################################
+
+<dir>
+    <name>Firefly Season 0</name>
+    <meta>
+        <content>season</content>
+        <imdb>tt0303461</imdb>
+        <tvdb>78874</tvdb>
+        <tvshowtitle>Firefly</tvshowtitle>
+        <year>2002</year>
+        <season>0</season>
+    </meta>
+    <link>https://raw.githubusercontent.com/Tikkes/darkside-repo/master/xml/Firefly/Firefly00.xml</link>
+    <animated_thumbnail></animated_thumbnail>
+    <thumbnail></thumbnail>
+    <animated_fanart></animated_fanart>
+    <fanart></fanart>
+</dir>
+<dir>
+    <name>Firefly Season 1</name>
+    <meta>
+        <content>season</content>
+        <imdb>tt0303461</imdb>
+        <tvdb>78874</tvdb>
+        <tvshowtitle>Firefly</tvshowtitle>
+        <year>2002</year>
+        <season>1</season>
+    </meta>
+    <link>https://raw.githubusercontent.com/Tikkes/darkside-repo/master/xml/Firefly/Firefly01.xml</link>
+    <animated_thumbnail></animated_thumbnail>
+    <thumbnail></thumbnail>
+    <animated_fanart></animated_fanart>
+    <fanart></fanart>
+</dir>

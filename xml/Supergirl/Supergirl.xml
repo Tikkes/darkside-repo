@@ -1,0 +1,55 @@
+
+################################################################################
+<poster>Tikkes</poster>
+<thumbnail></thumbnail>
+<fanart></fanart>
+################################################################################
+
+<dir>
+    <name>Supergirl Season 1</name>
+    <meta>
+        <content>season</content>
+        <imdb>tt4016454</imdb>
+        <tvdb>295759</tvdb>
+        <tvshowtitle>Supergirl</tvshowtitle>
+        <year>2015</year>
+        <season>1</season>
+    </meta>
+    <link>https://raw.githubusercontent.com/Tikkes/darkside-repo/master/xml/Supergirl/Supergirl01.xml</link>
+    <animated_thumbnail></animated_thumbnail>
+    <thumbnail></thumbnail>
+    <animated_fanart></animated_fanart>
+    <fanart></fanart>
+</dir>
+<dir>
+    <name>Supergirl Season 2</name>
+    <meta>
+        <content>season</content>
+        <imdb>tt4016454</imdb>
+        <tvdb>295759</tvdb>
+        <tvshowtitle>Supergirl</tvshowtitle>
+        <year>2015</year>
+        <season>2</season>
+    </meta>
+    <link>https://raw.githubusercontent.com/Tikkes/darkside-repo/master/xml/Supergirl/Supergirl02.xml</link>
+    <animated_thumbnail></animated_thumbnail>
+    <thumbnail></thumbnail>
+    <animated_fanart></animated_fanart>
+    <fanart></fanart>
+</dir>
+<dir>
+    <name>Supergirl Season 3</name>
+    <meta>
+        <content>season</content>
+        <imdb>tt4016454</imdb>
+        <tvdb>295759</tvdb>
+        <tvshowtitle>Supergirl</tvshowtitle>
+        <year>2015</year>
+        <season>3</season>
+    </meta>
+    <link>https://raw.githubusercontent.com/Tikkes/darkside-repo/master/xml/Supergirl/Supergirl03.xml</link>
+    <animated_thumbnail></animated_thumbnail>
+    <thumbnail></thumbnail>
+    <animated_fanart></animated_fanart>
+    <fanart></fanart>
+</dir>

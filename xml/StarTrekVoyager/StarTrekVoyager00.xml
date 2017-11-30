@@ -1,0 +1,30 @@
+
+################################################################################
+<poster>Tikkes</poster>
+<cache>10800</poster>
+<thumbnail></thumbnail>
+<fanart></fanart>
+################################################################################
+
+<item>
+    <title>Star Trek: Voyager S00E01 - Star Trek: Inside The New Adventure</title>
+    <meta>
+        <content>episode</content>
+        <imdb>tt0112178</imdb>
+        <tvdb>74550</tvdb>
+        <tvshowtitle>Star Trek: Voyager</tvshowtitle>
+        <year>1995</year>
+        <title>Star Trek: Inside The New Adventure</title>
+        <premiered>1995-01-14</premiered>
+        <season>0</season>
+        <episode>1</episode>
+    </meta>
+    <link>
+        <sublink>search</sublink>
+        <sublink>searchsd</sublink>
+    </link>
+    <animated_thumbnail></animated_thumbnail>
+    <thumbnail></thumbnail>
+    <animated_fanart></animated_fanart>
+    <fanart></fanart>
+</item>

@@ -1,0 +1,23 @@
+
+################################################################################
+<poster>Tikkes</poster>
+<thumbnail></thumbnail>
+<fanart></fanart>
+################################################################################
+
+<dir>
+    <name>The Orville Season 1</name>
+    <meta>
+        <content>season</content>
+        <imdb>tt5691552</imdb>
+        <tvdb>328487</tvdb>
+        <tvshowtitle>The Orville</tvshowtitle>
+        <year>2017</year>
+        <season>1</season>
+    </meta>
+    <link>https://raw.githubusercontent.com/Tikkes/darkside-repo/master/xml/TheOrville/TheOrville01.xml</link>
+    <animated_thumbnail></animated_thumbnail>
+    <thumbnail></thumbnail>
+    <animated_fanart></animated_fanart>
+    <fanart></fanart>
+</dir>

@@ -1,0 +1,87 @@
+
+################################################################################
+<poster>Tikkes</poster>
+<thumbnail></thumbnail>
+<fanart></fanart>
+################################################################################
+
+<dir>
+    <name>Gotham Season 0</name>
+    <meta>
+        <content>season</content>
+        <imdb>tt3749900</imdb>
+        <tvdb>274431</tvdb>
+        <tvshowtitle>Gotham</tvshowtitle>
+        <year>2014</year>
+        <season>0</season>
+    </meta>
+    <link>https://raw.githubusercontent.com/Tikkes/darkside-repo/master/xml/Gotham/Gotham00.xml</link>
+    <animated_thumbnail></animated_thumbnail>
+    <thumbnail></thumbnail>
+    <animated_fanart></animated_fanart>
+    <fanart></fanart>
+</dir>
+<dir>
+    <name>Gotham Season 1</name>
+    <meta>
+        <content>season</content>
+        <imdb>tt3749900</imdb>
+        <tvdb>274431</tvdb>
+        <tvshowtitle>Gotham</tvshowtitle>
+        <year>2014</year>
+        <season>1</season>
+    </meta>
+    <link>https://raw.githubusercontent.com/Tikkes/darkside-repo/master/xml/Gotham/Gotham01.xml</link>
+    <animated_thumbnail></animated_thumbnail>
+    <thumbnail></thumbnail>
+    <animated_fanart></animated_fanart>
+    <fanart></fanart>
+</dir>
+<dir>
+    <name>Gotham Season 2</name>
+    <meta>
+        <content>season</content>
+        <imdb>tt3749900</imdb>
+        <tvdb>274431</tvdb>
+        <tvshowtitle>Gotham</tvshowtitle>
+        <year>2014</year>
+        <season>2</season>
+    </meta>
+    <link>https://raw.githubusercontent.com/Tikkes/darkside-repo/master/xml/Gotham/Gotham02.xml</link>
+    <animated_thumbnail></animated_thumbnail>
+    <thumbnail></thumbnail>
+    <animated_fanart></animated_fanart>
+    <fanart></fanart>
+</dir>
+<dir>
+    <name>Gotham Season 3</name>
+    <meta>
+        <content>season</content>
+        <imdb>tt3749900</imdb>
+        <tvdb>274431</tvdb>
+        <tvshowtitle>Gotham</tvshowtitle>
+        <year>2014</year>
+        <season>3</season>
+    </meta>
+    <link>https://raw.githubusercontent.com/Tikkes/darkside-repo/master/xml/Gotham/Gotham03.xml</link>
+    <animated_thumbnail></animated_thumbnail>
+    <thumbnail></thumbnail>
+    <animated_fanart></animated_fanart>
+    <fanart></fanart>
+</dir>
+<dir>
+    <name>Gotham Season 4</name>
+    <meta>
+        <content>season</content>
+        <imdb>tt3749900</imdb>
+        <tvdb>274431</tvdb>
+        <tvshowtitle>Gotham</tvshowtitle>
+        <year>2014</year>
+        <season>4</season>
+    </meta>
+    <link>https://raw.githubusercontent.com/Tikkes/darkside-repo/master/xml/Gotham/Gotham04.xml</link>
+    <animated_thumbnail></animated_thumbnail>
+    <thumbnail></thumbnail>
+    <animated_fanart></animated_fanart>
+    <fanart></fanart>
+</dir>

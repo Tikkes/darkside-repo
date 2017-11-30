@@ -76,7 +76,7 @@
         <animated_thumbnail></animated_thumbnail>
         <thumbnail>https://www.thetvdb.com/banners/posters/81189-22.jpg</thumbnail>
         <animated_fanart></animated_fanart>
-        <fanart>thttps://www.thetvdb.com/banners/fanart/original/81189-21.jpg</fanart>
+        <fanart>https://www.thetvdb.com/banners/fanart/original/81189-21.jpg</fanart>
 </dir>
 <dir>
         <title>Brooklyn Nine-Nine</title>
@@ -301,7 +301,7 @@
         <animated_thumbnail></animated_thumbnail>
         <thumbnail>https://www.thetvdb.com/banners/posters/73871-15.jpg</thumbnail>
         <animated_fanart></animated_fanart>
-        <fanart></fanart>
+        <fanart>https://www.thetvdb.com/banners/fanart/original/73871-35.jpg</fanart>
 </dir>
 <dir>
         <title>Game of Thrones</title>

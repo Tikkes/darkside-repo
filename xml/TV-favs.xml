@@ -364,6 +364,21 @@
         <fanart>https://www.thetvdb.com/banners/fanart/original/254986-4.jpg</fanart>
 </dir>
 <dir>
+        <title>Ink Master: Angels</title>
+        <meta>
+                <content>tvshow</content>
+        <imdb>tt7479160</imdb>
+        <tvdb>333791</tvdb>
+        <tvshowtitle>Ink Master: Angels</tvshowtitle>
+        <year>2017</year>
+        </meta>
+        <link>https://raw.githubusercontent.com/Tikkes/darkside-repo/master/xml/InkMasterAngels/InkMasterAngels.xml</link>
+        <animated_thumbnail></animated_thumbnail>
+        <thumbnail>https://www.thetvdb.com/banners/posters/333791-2.jpg</thumbnail>
+        <animated_fanart></animated_fanart>
+        <fanart>https://www.thetvdb.com/banners/fanart/original/333791-1.jpg</fanart>
+</dir>
+<dir>
         <title>Kevin Can Wait</title>
         <meta>
                 <content>tvshow</content>

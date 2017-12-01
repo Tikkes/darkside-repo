@@ -38,14 +38,24 @@
         <fanart></fanart>
 </dir>
 <dir>
-        <name>NETFLIX ORIGINALS</name>
+        <name>NETFLIX ORIGINALS (Movies)</name>
+        <link>https://raw.githubusercontent.com/Tikkes/darkside-repo/master/xml/nfom.xml</link>
+        <animated_thumbnail></animated_thumbnail>
+        <thumbnail>https://imgur.com/lGG9h46</thumbnail>
+		<summary>Netflix Original Movies</summary>
+        <animated_fanart></animated_fanart>
+        <fanart>https://imgur.com/P0lHRGz</fanart>
+</dir>
+<dir>
+        <name>NETFLIX ORIGINALS (TV Series)</name>
         <link>https://raw.githubusercontent.com/Tikkes/darkside-repo/master/xml/nfos.xml</link>
         <animated_thumbnail></animated_thumbnail>
-        <thumbnail></thumbnail>
+        <thumbnail>https://imgur.com/lGG9h46</thumbnail>
 		<summary>Netflix original tv series</summary>
         <animated_fanart></animated_fanart>
-        <fanart>http://cdn.bloody-disgusting.com/wp-content/uploads/2015/11/Netflix.png</fanart>
+        <fanart>https://imgur.com/xKhtP3i</fanart>
 </dir>
+
 <dir>
         <name>Star Trek Collection</name>
         <link>https://raw.githubusercontent.com/Tikkes/darkside-repo/master/xml/stc.xml</link>

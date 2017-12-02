@@ -150,3 +150,153 @@
         <animated_fanart></animated_fanart>
         <fanart>https://www.thetvdb.com/banners/fanart/original/330997-4.jpg</fanart>
 </dir>
+<dir>
+        <title>Harlots</title>
+        <meta>
+                <content>tvshow</content>
+        <imdb>tt5761478</imdb>
+        <tvdb>319861</tvdb>
+        <tvshowtitle>Harlots</tvshowtitle>
+        <year>2017</year>
+        </meta>
+        <link>https://raw.githubusercontent.com/Tikkes/darkside-repo/master/xml/Harlots/Harlots.xml</link>
+        <animated_thumbnail></animated_thumbnail>
+        <thumbnail>https://www.thetvdb.com/banners/posters/319861-3.jpg</thumbnail>
+        <animated_fanart></animated_fanart>
+        <fanart>https://www.thetvdb.com/banners/fanart/original/319861-1.jpg</fanart>
+</dir>
+<dir>
+        <title>I Love You, America</title>
+        <meta>
+                <content>tvshow</content>
+        <imdb>tt7509270</imdb>
+        <tvdb>332028</tvdb>
+        <tvshowtitle>I Love You, America</tvshowtitle>
+        <year>2017</year>
+        </meta>
+        <link>https://raw.githubusercontent.com/Tikkes/darkside-repo/master/xml/ILoveYouAmerica/ILoveYouAmerica.xml</link>
+        <animated_thumbnail></animated_thumbnail>
+        <thumbnail>https://www.thetvdb.com/banners/posters/332028-1.jpg</thumbnail>
+        <animated_fanart></animated_fanart>
+        <fanart>https://www.thetvdb.com/banners/fanart/original/332028-2.jpg</fanart>
+</dir>
+<dir>
+        <title>Marvel's Runaways</title>
+        <meta>
+                <content>tvshow</content>
+        <imdb>tt1236246</imdb>
+        <tvdb>332027</tvdb>
+        <tvshowtitle>Marvel's Runaways</tvshowtitle>
+        <year>2017</year>
+        </meta>
+        <link>https://raw.githubusercontent.com/Tikkes/darkside-repo/master/xml/MarvelsRunaways/MarvelsRunaways.xml</link>
+        <animated_thumbnail></animated_thumbnail>
+        <thumbnail>https://www.thetvdb.com/banners/posters/332027-10.jpg</thumbnail>
+        <animated_fanart></animated_fanart>
+        <fanart>https://www.thetvdb.com/banners/fanart/original/332027-5.jpg</fanart>
+</dir>
+<dir>
+        <title>Moone Boy</title>
+        <meta>
+                <content>tvshow</content>
+        <imdb>tt2319283</imdb>
+        <tvdb>260871</tvdb>
+        <tvshowtitle>Moone Boy</tvshowtitle>
+        <year>2012</year>>
+        </meta>
+        <link>https://raw.githubusercontent.com/Tikkes/darkside-repo/master/xml/MooneBoy/MooneBoy.xml</link>
+        <animated_thumbnail></animated_thumbnail>
+        <thumbnail>https://www.thetvdb.com/banners/posters/260871-6.jpg</thumbnail>
+        <animated_fanart></animated_fanart>
+        <fanart>https://www.thetvdb.com/banners/fanart/original/260871-1.jpg</fanart>
+</dir>
+<dir>
+        <title>National Treasure</title>
+        <meta>
+                <content>tvshow</content>
+        <imdb>tt5571524</imdb>
+        <tvdb>316955</tvdb>
+        <tvshowtitle>National Treasure</tvshowtitle>
+        <year>2016</year>
+        </meta>
+        <link>https://raw.githubusercontent.com/Tikkes/darkside-repo/master/xml/NationalTreasure/NationalTreasure.xml</link>
+        <animated_thumbnail></animated_thumbnail>
+        <thumbnail>https://www.thetvdb.com/banners/posters/316955-3.jpg</thumbnail>
+        <animated_fanart></animated_fanart>
+        <fanart>https://www.thetvdb.com/banners/fanart/original/316955-1.jpg</fanart>
+</dir>
+<dir>
+        <title>Quick Draw</title>
+        <meta>
+                <content>tvshow</content>
+        <imdb>tt2883562</imdb>
+        <tvdb>270913</tvdb>
+        <tvshowtitle>Quick Draw</tvshowtitle>
+        <year>2013</year>
+        </meta>
+        <link>https://raw.githubusercontent.com/Tikkes/darkside-repo/master/xml/QuickDraw/QuickDraw.xml</link>
+        <animated_thumbnail></animated_thumbnail>
+        <thumbnail>https://www.thetvdb.com/banners/posters/270913-1.jpg</thumbnail>
+        <animated_fanart></animated_fanart>
+        <fanart>https://www.thetvdb.com/banners/fanart/original/270913-2.jpg</fanart>
+</dir>
+<dir>
+        <title>RocketJump: The Show</title>
+        <meta>
+                <content>tvshow</content>
+        <imdb>tt5122514</imdb>
+        <tvdb>302734</tvdb>
+        <tvshowtitle>RocketJump: The Show</tvshowtitle>
+        <year>2015</year>
+        </meta>
+        <link>https://raw.githubusercontent.com/Tikkes/darkside-repo/master/xml/RocketJumpTheShow/RocketJumpTheShow.xml</link>
+        <animated_thumbnail></animated_thumbnail>
+        <thumbnail>https://www.thetvdb.com/banners/posters/302734-1.jpg</thumbnail>
+        <animated_fanart></animated_fanart>
+        <fanart>https://www.thetvdb.com/banners/fanart/original/302734-3.jpg</fanart>
+</dir>
+<dir>
+        <title></title>
+        <meta>
+                <content>tvshow</content>
+                <imdb></imdb>
+                <tvdb></tvdb>
+                <tvshowtitle></tvshowtitle>
+                <year></year>
+        </meta>
+        <link></link>
+        <animated_thumbnail></animated_thumbnail>
+        <thumbnail></thumbnail>
+        <animated_fanart></animated_fanart>
+        <fanart></fanart>
+</dir>
+<dir>
+        <title>Shut Eye</title>
+        <meta>
+                <content>tvshow</content>
+        <imdb>tt5520392</imdb>
+        <tvdb>311197</tvdb>
+        <tvshowtitle>Shut Eye</tvshowtitle>
+        <year>2016</year>
+        </meta>
+        <link>https://raw.githubusercontent.com/Tikkes/darkside-repo/master/xml/ShutEye/ShutEye.xml</link>
+        <animated_thumbnail></animated_thumbnail>
+        <thumbnail>https://www.thetvdb.com/banners/posters/311197-4.jpg</thumbnail>
+        <animated_fanart></animated_fanart>
+        <fanart>https://www.thetvdb.com/banners/fanart/original/311197-6.jpg</fanart>
+</dir>
+<dir>
+        <title>Spoilers</title>
+        <meta>
+                <content>tvshow</content>
+        <imdb>tt2404125</imdb>
+        <tvdb>259289</tvdb>
+        <tvshowtitle>Spoilers</tvshowtitle>
+        <year>2012</year>
+        </meta>
+        <link>https://raw.githubusercontent.com/Tikkes/darkside-repo/master/xml/Spoilers/Spoilers.xml</link>
+        <animated_thumbnail></animated_thumbnail>
+        <thumbnail>https://www.thetvdb.com/banners/posters/259289-2.jpg</thumbnail>
+        <animated_fanart></animated_fanart>
+        <fanart>https://www.thetvdb.com/banners/fanart/original/259289-1.jpg</fanart>
+</dir>

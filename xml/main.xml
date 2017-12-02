@@ -32,10 +32,10 @@
         <name>Hogwarts School of Witchcraft and Wizardry</name>
         <link>https://raw.githubusercontent.com/Tikkes/darkside-repo/master/xml/harrypotter.xml</link>
         <animated_thumbnail></animated_thumbnail>
-        <thumbnail></thumbnail>
+        <thumbnail>https://i.imgur.com/KMXRWXW.png</thumbnail>
 		<summary>Harry Potter Library</summary>
         <animated_fanart></animated_fanart>
-        <fanart></fanart>
+        <fanart>https://i.imgur.com/dMKZ8Dd.jpg</fanart>
 </dir>
 <dir>
         <name>HULU ORIGINALS (TV Series)</name>

@@ -1,0 +1,30 @@
+
+################################################################################
+<poster>Tikkes</poster>
+<cache>10800</poster>
+<thumbnail></thumbnail>
+<fanart></fanart>
+################################################################################
+
+<item>
+    <title>11.22.63 S00E01 - When the Future Fights Back</title>
+    <meta>
+        <content>episode</content>
+        <imdb>tt2879552</imdb>
+        <tvdb>301824</tvdb>
+        <tvshowtitle>11.22.63</tvshowtitle>
+        <year></year>
+        <title>When the Future Fights Back</title>
+        <premiered></premiered>
+        <season>0</season>
+        <episode>1</episode>
+    </meta>
+    <link>
+        <sublink>search</sublink>
+        <sublink>searchsd</sublink>
+    </link>
+    <animated_thumbnail></animated_thumbnail>
+    <thumbnail></thumbnail>
+    <animated_fanart></animated_fanart>
+    <fanart></fanart>
+</item>

@@ -1,0 +1,23 @@
+
+################################################################################
+<poster>Tikkes</poster>
+<thumbnail></thumbnail>
+<fanart></fanart>
+################################################################################
+
+<dir>
+    <name>Future Man Season 1</name>
+    <meta>
+        <content>season</content>
+        <imdb>tt4975856</imdb>
+        <tvdb>330997</tvdb>
+        <tvshowtitle>Future Man</tvshowtitle>
+        <year>2017</year>
+        <season>1</season>
+    </meta>
+    <link>https://raw.githubusercontent.com/Tikkes/darkside-repo/master/xml/FutureMan/FutureMan01.xml</link>
+    <animated_thumbnail></animated_thumbnail>
+    <thumbnail></thumbnail>
+    <animated_fanart></animated_fanart>
+    <fanart></fanart>
+</dir>

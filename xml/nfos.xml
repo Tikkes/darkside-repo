@@ -1,6 +1,141 @@
 
 
 <dir>
+        <title>American Vandal</title>
+        <meta>
+                <content>tvshow</content>
+        <imdb>tt6877772</imdb>
+        <tvdb>332828</tvdb>
+        <tvshowtitle>American Vandal</tvshowtitle>
+        <year>2017</year>
+        </meta>
+        <link>https://raw.githubusercontent.com/Tikkes/darkside-repo/master/xml/AmericanVandal/AmericanVandal.xml</link>
+        <animated_thumbnail></animated_thumbnail>
+        <thumbnail>https://image.tmdb.org/t/p/original/zZWZSSnd4XyB9Dwa42cvTJvqv9S.jpg</thumbnail>
+        <animated_fanart></animated_fanart>
+        <fanart>https://image.tmdb.org/t/p/original/pVQDivuGwO5511gck1MgaaVbkrm.jpg</fanart>
+</dir>
+<dir>
+        <title>Black Mirror</title>
+        <meta>
+                <content>tvshow</content>
+        <imdb>tt2085059</imdb>
+        <tvdb>253463</tvdb>
+        <tvshowtitle>Black Mirror</tvshowtitle>
+        <year>2011</year>
+        </meta>
+        <link>https://raw.githubusercontent.com/Tikkes/darkside-repo/master/xml/BlackMirror/BlackMirror.xml</link>
+        <animated_thumbnail></animated_thumbnail>
+        <thumbnail>https://image.tmdb.org/t/p/original/vGrS1mzlSHQQdOcmqH1zlE2iViY.jpg</thumbnail>
+        <animated_fanart></animated_fanart>
+        <fanart>https://image.tmdb.org/t/p/original/xvUPXEgLSuoexSQ3vH8ErY1D2n2.jpg</fanart>
+</dir>
+<dir>
+        <title>Frontier</title>
+        <meta>
+                <content>tvshow</content>
+        <imdb>tt0047733</imdb>
+        <tvdb>77438</tvdb>
+        <tvshowtitle>Frontier</tvshowtitle>
+        <year>1955</year>
+        </meta>
+        <link>https://raw.githubusercontent.com/Tikkes/darkside-repo/master/xml/Frontier/Frontier.xml</link>
+        <animated_thumbnail></animated_thumbnail>
+        <thumbnail>https://image.tmdb.org/t/p/original/mhIeCeYgG4WJHNzaw2EyRpvmGX8.jpg</thumbnail>
+        <animated_fanart></animated_fanart>
+        <fanart>https://image.tmdb.org/t/p/original/hDYEGNX6CADoCqhyBbe2Qu7rKVG.jpg</fanart>
+</dir>
+<dir>
+        <title>Master of None</title>
+        <meta>
+                <content>tvshow</content>
+        <imdb>tt4635276</imdb>
+        <tvdb>298901</tvdb>
+        <tvshowtitle>Master of None</tvshowtitle>
+        <year>2015</year>
+        </meta>
+        <link>https://raw.githubusercontent.com/Tikkes/darkside-repo/master/xml/MasterofNone/MasterofNone.xml</link>
+        <animated_thumbnail></animated_thumbnail>
+        <thumbnail>https://image.tmdb.org/t/p/original/zl1MQ3bK9eRamwM4YwQVfEoxhj5.jpg</thumbnail>
+        <animated_fanart></animated_fanart>
+        <fanart>https://image.tmdb.org/t/p/original/fyg3HlVykG0CXKPfXvAAwJO0j4g.jpg</fanart>
+</dir>
+<dir>
+        <title>Ozark</title>
+        <meta>
+                <content>tvshow</content>
+        <imdb>tt5071412</imdb>
+        <tvdb>329089</tvdb>
+        <tvshowtitle>Ozark</tvshowtitle>
+        <year>2017</year>
+        </meta>
+        <link>https://raw.githubusercontent.com/Tikkes/darkside-repo/master/xml/Ozark/Ozark.xml</link>
+        <animated_thumbnail></animated_thumbnail>
+        <thumbnail>https://image.tmdb.org/t/p/original/pCGyPVrI9Fzw6rE1Pvi4BIXF6ET.jpg</thumbnail>
+        <animated_fanart></animated_fanart>
+        <fanart>https://image.tmdb.org/t/p/original/aVFX6DaXacBdjj2VRbZjHWFRlds.jpg</fanart>
+</dir>
+<dir>
+        <title>She's Gotta Have It</title>
+        <meta>
+                <content>tvshow</content>
+        <imdb>tt3713588</imdb>
+        <tvdb>330717</tvdb>
+        <tvshowtitle>She's Gotta Have It</tvshowtitle>
+        <year>2017</year>
+        </meta>
+        <link>https://raw.githubusercontent.com/Tikkes/darkside-repo/master/xml/ShesGottaHaveIt/ShesGottaHaveIt.xml</link>
+        <animated_thumbnail></animated_thumbnail>
+        <thumbnail>https://image.tmdb.org/t/p/original/y5BQ1hBqN6tkopJaN0woTl6eMRv.jpg</thumbnail>
+        <animated_fanart></animated_fanart>
+        <fanart>https://image.tmdb.org/t/p/original/eTuWCEyXFysR9jcGzat9piy6NlV.jpg</fanart>
+</dir>
+<dir>
+        <title>Shot in the Dark</title>
+        <meta>
+                <content>tvshow</content>
+        <imdb>tt7644838</imdb>
+        <tvdb>337975</tvdb>
+        <tvshowtitle>Shot in the Dark</tvshowtitle>
+        <year>2017</year>
+        </meta>
+        <link>https://raw.githubusercontent.com/Tikkes/darkside-repo/master/xml/ShotintheDark/ShotintheDark.xml</link>
+        <animated_thumbnail></animated_thumbnail>
+        <thumbnail>https://image.tmdb.org/t/p/original/hABjCCz8yB7xJvSeJ6euZFSIAFC.jpg</thumbnail>
+        <animated_fanart></animated_fanart>
+        <fanart>https://image.tmdb.org/t/p/original/xiVk6w5ExcMo6aqhTD5pGZBuJGv.jpg</fanart>
+</dir>
+<dir>
+        <title>Surviving Escobar: Alias JJ</title>
+        <meta>
+                <content>tvshow</content>
+        <imdb>tt6809396</imdb>
+        <tvdb>332762</tvdb>
+        <tvshowtitle>Surviving Escobar: Alias JJ</tvshowtitle>
+        <year>2017</year>
+        </meta>
+        <link>https://raw.githubusercontent.com/Tikkes/darkside-repo/master/xml/SurvivingEscobarAliasJJ/SurvivingEscobarAliasJJ.xml</link>
+        <animated_thumbnail></animated_thumbnail>
+        <thumbnail>https://www.thetvdb.com/banners/posters/332762-3.jpg</thumbnail>
+        <animated_fanart></animated_fanart>
+        <fanart>https://www.thetvdb.com/banners/fanart/original/332762-5.jpg</fanart>
+</dir>
+<dir>
+        <title>The Day I Met El Chapo: The Kate Del Castillo Story</title>
+        <meta>
+                <content>tvshow</content>
+        <imdb>tt7334894</imdb>
+        <tvdb>336683</tvdb>
+        <tvshowtitle>The Day I Met El Chapo: The Kate Del Castillo Story</tvshowtitle>
+        <year>2017</year>
+        </meta>
+        <link>https://raw.githubusercontent.com/Tikkes/darkside-repo/master/xml/TheDayIMetElChapoTheKateDelCastilloStory/TheDayIMetElChapoTheKateDelCastilloStory.xml</link>
+        <animated_thumbnail></animated_thumbnail>
+        <thumbnail>https://www.thetvdb.com/banners/posters/336683-1.jpg</thumbnail>
+        <animated_fanart></animated_fanart>
+        <fanart>https://www.thetvdb.com/banners/fanart/original/336683-1.jpg</fanart>
+</dir>
+<dir>
         <title>Disjointed</title>
         <meta>
                 <content>tvshow</content>

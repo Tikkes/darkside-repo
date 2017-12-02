@@ -300,3 +300,123 @@
         <animated_fanart></animated_fanart>
         <fanart>https://www.thetvdb.com/banners/fanart/original/259289-1.jpg</fanart>
 </dir>
+<dir>
+        <title>The Awesomes</title>
+        <meta>
+                <content>tvshow</content>
+        <imdb>tt2818496</imdb>
+        <tvdb>268914</tvdb>
+        <tvshowtitle>The Awesomes</tvshowtitle>
+        <year>2013</year>
+    </meta>
+		<link>https://raw.githubusercontent.com/Tikkes/darkside-repo/master/xml/TheAwesomes/TheAwesomes.xml</link>
+        <animated_thumbnail></animated_thumbnail>
+        <thumbnail>https://www.thetvdb.com/banners/posters/268914-1.jpg</thumbnail>
+        <animated_fanart></animated_fanart>
+        <fanart>https://www.thetvdb.com/banners/fanart/original/268914-2.jpg</fanart>
+</dir>
+<dir>
+        <title>The Handmaid's Tale</title>
+        <meta>
+                <content>tvshow</content>
+        <imdb>tt5834204</imdb>
+        <tvdb>321239</tvdb>
+        <tvshowtitle>The Handmaid's Tale</tvshowtitle>
+        <year>2017</year>
+    </meta>
+		<link>https://raw.githubusercontent.com/Tikkes/darkside-repo/master/xml/TheHandmaidsTale/TheHandmaidsTale.xml</link>
+        <animated_thumbnail></animated_thumbnail>
+        <thumbnail>https://www.thetvdb.com/banners/posters/321239-3.jpg</thumbnail>
+        <animated_fanart></animated_fanart>
+        <fanart>https://www.thetvdb.com/banners/fanart/original/321239-3.jpg</fanart>
+</dir>
+<dir>
+        <title>The Hotwives of Las Vegas</title>
+        <meta>
+                <content>tvshow</content>
+        <imdb>tt4633166</imdb>
+        <tvdb>299270</tvdb>
+        <tvshowtitle>The Hotwives of Las Vegas</tvshowtitle>
+        <year>2015</year>
+    </meta>
+		<link>https://raw.githubusercontent.com/Tikkes/darkside-repo/master/xml/TheHotwivesofLasVegas/TheHotwivesofLasVegas.xml</link>
+        <animated_thumbnail></animated_thumbnail>
+        <thumbnail>https://www.thetvdb.com/banners/posters/299270-2.jpg</thumbnail>
+        <animated_fanart></animated_fanart>
+        <fanart>https://www.thetvdb.com/banners/fanart/original/299270-3.jpg</fanart>
+</dir>
+<dir>
+        <title>The Hotwives of Orlando</title>
+        <meta>
+                <content>tvshow</content>
+        <imdb>tt3453512</imdb>
+        <tvdb>277126</tvdb>
+        <tvshowtitle>The Hotwives of Orlando</tvshowtitle>
+        <year>2014</year>
+    </meta>
+		<link>https://raw.githubusercontent.com/Tikkes/darkside-repo/master/xml/TheHotwivesofOrlando/TheHotwivesofOrlando.xml</link>
+        <animated_thumbnail></animated_thumbnail>
+        <thumbnail>https://www.thetvdb.com/banners/posters/277126-2.jpg</thumbnail>
+        <animated_fanart></animated_fanart>
+        <fanart>https://www.thetvdb.com/banners/fanart/original/277126-2.jpg</fanart>
+</dir>
+<dir>
+        <title>The Mindy Project</title>
+        <meta>
+                <content>tvshow</content>
+        <imdb>tt2211129</imdb>
+        <tvdb>259007</tvdb>
+        <tvshowtitle>The Mindy Project</tvshowtitle>
+        <year>2012</year>
+    </meta>
+		<link>https://raw.githubusercontent.com/Tikkes/darkside-repo/master/xml/TheMindyProject/TheMindyProject.xml</link>
+        <animated_thumbnail></animated_thumbnail>
+        <thumbnail>https://www.thetvdb.com/banners/posters/259007-7.jpg</thumbnail>
+        <animated_fanart></animated_fanart>
+        <fanart>https://www.thetvdb.com/banners/fanart/original/259007-2.jpg</fanart>
+</dir>
+<dir>
+        <title>The Path</title>
+        <meta>
+                <content>tvshow</content>
+        <imdb>tt4789576</imdb>
+        <tvdb>304196</tvdb>
+        <tvshowtitle>The Path</tvshowtitle>
+        <year>2016</year>
+    </meta>
+		<link>https://raw.githubusercontent.com/Tikkes/darkside-repo/master/xml/ThePath/ThePath.xml</link>
+        <animated_thumbnail></animated_thumbnail>
+        <thumbnail>https://www.thetvdb.com/banners/posters/304196-8.jpg</thumbnail>
+        <animated_fanart></animated_fanart>
+        <fanart>https://www.thetvdb.com/banners/fanart/original/304196-10.jpg</fanart>
+</dir>
+<dir>
+        <title>The Wrong Mans</title>
+        <meta>
+                <content>tvshow</content>
+        <imdb>tt2603596</imdb>
+        <tvdb>268943</tvdb>
+        <tvshowtitle>The Wrong Mans</tvshowtitle>
+        <year>2013</year>
+    </meta>
+		<link>https://raw.githubusercontent.com/Tikkes/darkside-repo/master/xml/TheWrongMans/TheWrongMans.xml</link>
+        <animated_thumbnail></animated_thumbnail>
+        <thumbnail>https://www.thetvdb.com/banners/posters/268943-3.jpg</thumbnail>
+        <animated_fanart></animated_fanart>
+        <fanart>https://www.thetvdb.com/banners/fanart/original/268943-4.jpg</fanart>
+</dir>
+<dir>
+        <title>Up to Speed</title>
+        <meta>
+                <content>tvshow</content>
+        <imdb>tt2188577</imdb>
+        <tvdb>268913</tvdb>
+        <tvshowtitle>Up to Speed</tvshowtitle>
+        <year>2012</year>
+    </meta>
+		<link>https://raw.githubusercontent.com/Tikkes/darkside-repo/master/xml/UptoSpeed/UptoSpeed.xml</link>
+        <animated_thumbnail></animated_thumbnail>
+        <thumbnail>https://www.thetvdb.com/banners/posters/268913-1.jpg</thumbnail>
+        <animated_fanart></animated_fanart>
+        <fanart>https://www.thetvdb.com/banners/fanart/original/268913-1.jpg</fanart>
+</dir>

@@ -1,0 +1,23 @@
+
+################################################################################
+<poster>Tikkes</poster>
+<thumbnail></thumbnail>
+<fanart></fanart>
+################################################################################
+
+<dir>
+    <name>Marvel's Runaways Season 1</name>
+    <meta>
+        <content>season</content>
+        <imdb>tt1236246</imdb>
+        <tvdb>332027</tvdb>
+        <tvshowtitle>Marvel's Runaways</tvshowtitle>
+        <year>2017</year>
+        <season>1</season>
+    </meta>
+    <link>https://raw.githubusercontent.com/Tikkes/darkside-repo/master/xml/MarvelsRunaways/MarvelsRunaways01.xml</link>
+    <animated_thumbnail></animated_thumbnail>
+    <thumbnail></thumbnail>
+    <animated_fanart></animated_fanart>
+    <fanart></fanart>
+</dir>

@@ -1,0 +1,23 @@
+
+################################################################################
+<poster>Tikkes</poster>
+<thumbnail></thumbnail>
+<fanart></fanart>
+################################################################################
+
+<dir>
+    <name>I Love You, America Season 1</name>
+    <meta>
+        <content>season</content>
+        <imdb>tt7509270</imdb>
+        <tvdb>332028</tvdb>
+        <tvshowtitle>I Love You, America</tvshowtitle>
+        <year>2017</year>
+        <season>1</season>
+    </meta>
+    <link>https://raw.githubusercontent.com/Tikkes/darkside-repo/master/xml/ILoveYouAmerica/ILoveYouAmerica01.xml</link>
+    <animated_thumbnail></animated_thumbnail>
+    <thumbnail></thumbnail>
+    <animated_fanart></animated_fanart>
+    <fanart></fanart>
+</dir>

@@ -1,0 +1,30 @@
+
+################################################################################
+<poster>Tikkes</poster>
+<cache>10800</poster>
+<thumbnail></thumbnail>
+<fanart></fanart>
+################################################################################
+
+<item>
+    <title>Black Mirror S00E01 - White Christmas</title>
+    <meta>
+        <content>episode</content>
+        <imdb>tt2085059</imdb>
+        <tvdb>253463</tvdb>
+        <tvshowtitle>Black Mirror</tvshowtitle>
+        <year>2014</year>
+        <title>White Christmas</title>
+        <premiered>2014-12-16</premiered>
+        <season>0</season>
+        <episode>1</episode>
+    </meta>
+    <link>
+        <sublink>search</sublink>
+        <sublink>searchsd</sublink>
+    </link>
+    <animated_thumbnail></animated_thumbnail>
+    <thumbnail></thumbnail>
+    <animated_fanart></animated_fanart>
+    <fanart></fanart>
+</item>

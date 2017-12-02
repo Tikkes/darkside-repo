@@ -16,36 +16,6 @@
         <fanart>https://www.thetvdb.com/banners/fanart/original/301824-3.jpg</fanart>
 </dir>
 <dir>
-        <title>A Day In The Life</title>
-        <meta>
-                <content>tvshow</content>
-        <imdb>tt2057511</imdb>
-        <tvdb>257391</tvdb>
-        <tvshowtitle>A Day In The Life</tvshowtitle>
-        <year>2011</year>
-        </meta>
-        <link>https://raw.githubusercontent.com/Tikkes/darkside-repo/master/xml/ADayInTheLife/ADayInTheLife.xml</link>
-        <animated_thumbnail></animated_thumbnail>
-        <thumbnail>https://www.thetvdb.com/banners/posters/257391-4.jpg</thumbnail>
-        <animated_fanart></animated_fanart>
-        <fanart>https://www.thetvdb.com/banners/fanart/original/257391-1.jpg</fanart>
-</dir>
-<dir>
-        <title>Battleground</title>
-        <meta>
-                <content>tvshow</content>
-        <imdb>tt2187319</imdb>
-        <tvdb>255229</tvdb>
-        <tvshowtitle>Battleground</tvshowtitle>
-        <year>2012</year>
-        </meta>
-        <link>https://raw.githubusercontent.com/Tikkes/darkside-repo/master/xml/Battleground/Battleground.xml</link>
-        <animated_thumbnail></animated_thumbnail>
-        <thumbnail>https://www.thetvdb.com/banners/posters/255229-1.jpg</thumbnail>
-        <animated_fanart></animated_fanart>
-        <fanart>https://www.thetvdb.com/banners/fanart/original/255229-1.jpg</fanart>
-</dir>
-<dir>
         <title>Behind the Mask</title>
         <meta>
                 <content>tvshow</content>
@@ -89,21 +59,6 @@
         <thumbnail>https://www.thetvdb.com/banners/posters/296367-2.jpg</thumbnail>
         <animated_fanart></animated_fanart>
         <fanart>https://www.thetvdb.com/banners/fanart/original/296367-6.jpg</fanart>
-</dir>
-<dir>
-        <title>Doozers</title>
-        <meta>
-                <content>tvshow</content>
-        <imdb>tt2269658</imdb>
-        <tvdb>281407</tvdb>
-        <tvshowtitle>Doozers</tvshowtitle>
-        <year>2013</year>
-        </meta>
-        <link>https://raw.githubusercontent.com/Tikkes/darkside-repo/master/xml/Doozers/Doozers.xml</link>
-        <animated_thumbnail></animated_thumbnail>
-        <thumbnail>https://www.thetvdb.com/banners/posters/281407-1.jpg</thumbnail>
-        <animated_fanart></animated_fanart>
-        <fanart>https://www.thetvdb.com/banners/fanart/original/281407-1.jpg</fanart>
 </dir>
 <dir>
         <title>East Los High</title>
@@ -241,36 +196,6 @@
         <fanart>https://www.thetvdb.com/banners/fanart/original/270913-2.jpg</fanart>
 </dir>
 <dir>
-        <title>RocketJump: The Show</title>
-        <meta>
-                <content>tvshow</content>
-        <imdb>tt5122514</imdb>
-        <tvdb>302734</tvdb>
-        <tvshowtitle>RocketJump: The Show</tvshowtitle>
-        <year>2015</year>
-        </meta>
-        <link>https://raw.githubusercontent.com/Tikkes/darkside-repo/master/xml/RocketJumpTheShow/RocketJumpTheShow.xml</link>
-        <animated_thumbnail></animated_thumbnail>
-        <thumbnail>https://www.thetvdb.com/banners/posters/302734-1.jpg</thumbnail>
-        <animated_fanart></animated_fanart>
-        <fanart>https://www.thetvdb.com/banners/fanart/original/302734-3.jpg</fanart>
-</dir>
-<dir>
-        <title></title>
-        <meta>
-                <content>tvshow</content>
-                <imdb></imdb>
-                <tvdb></tvdb>
-                <tvshowtitle></tvshowtitle>
-                <year></year>
-        </meta>
-        <link></link>
-        <animated_thumbnail></animated_thumbnail>
-        <thumbnail></thumbnail>
-        <animated_fanart></animated_fanart>
-        <fanart></fanart>
-</dir>
-<dir>
         <title>Shut Eye</title>
         <meta>
                 <content>tvshow</content>
@@ -284,21 +209,6 @@
         <thumbnail>https://www.thetvdb.com/banners/posters/311197-4.jpg</thumbnail>
         <animated_fanart></animated_fanart>
         <fanart>https://www.thetvdb.com/banners/fanart/original/311197-6.jpg</fanart>
-</dir>
-<dir>
-        <title>Spoilers</title>
-        <meta>
-                <content>tvshow</content>
-        <imdb>tt2404125</imdb>
-        <tvdb>259289</tvdb>
-        <tvshowtitle>Spoilers</tvshowtitle>
-        <year>2012</year>
-        </meta>
-        <link>https://raw.githubusercontent.com/Tikkes/darkside-repo/master/xml/Spoilers/Spoilers.xml</link>
-        <animated_thumbnail></animated_thumbnail>
-        <thumbnail>https://www.thetvdb.com/banners/posters/259289-2.jpg</thumbnail>
-        <animated_fanart></animated_fanart>
-        <fanart>https://www.thetvdb.com/banners/fanart/original/259289-1.jpg</fanart>
 </dir>
 <dir>
         <title>The Awesomes</title>
@@ -405,18 +315,4 @@
         <animated_fanart></animated_fanart>
         <fanart>https://www.thetvdb.com/banners/fanart/original/268943-4.jpg</fanart>
 </dir>
-<dir>
-        <title>Up to Speed</title>
-        <meta>
-                <content>tvshow</content>
-        <imdb>tt2188577</imdb>
-        <tvdb>268913</tvdb>
-        <tvshowtitle>Up to Speed</tvshowtitle>
-        <year>2012</year>
-    </meta>
-		<link>https://raw.githubusercontent.com/Tikkes/darkside-repo/master/xml/UptoSpeed/UptoSpeed.xml</link>
-        <animated_thumbnail></animated_thumbnail>
-        <thumbnail>https://www.thetvdb.com/banners/posters/268913-1.jpg</thumbnail>
-        <animated_fanart></animated_fanart>
-        <fanart>https://www.thetvdb.com/banners/fanart/original/268913-1.jpg</fanart>
-</dir>
+

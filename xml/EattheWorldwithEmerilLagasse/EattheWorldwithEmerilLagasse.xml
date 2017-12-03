@@ -1,0 +1,23 @@
+
+################################################################################
+<poster>Tikkes</poster>
+<thumbnail></thumbnail>
+<fanart></fanart>
+################################################################################
+
+<dir>
+    <name>Eat the World with Emeril Lagasse Season 1</name>
+    <meta>
+        <content>season</content>
+        <imdb>tt5860892</imdb>
+        <tvdb>316461</tvdb>
+        <tvshowtitle>Eat the World with Emeril Lagasse</tvshowtitle>
+        <year>2016</year>
+        <season>1</season>
+    </meta>
+    <link>https://raw.githubusercontent.com/Tikkes/darkside-repo/master/xml/EattheWorldwithEmerilLagasse/EattheWorldwithEmerilLagasse01.xml</link>
+    <animated_thumbnail></animated_thumbnail>
+    <thumbnail></thumbnail>
+    <animated_fanart></animated_fanart>
+    <fanart></fanart>
+</dir>

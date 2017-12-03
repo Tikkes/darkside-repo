@@ -1,0 +1,23 @@
+
+################################################################################
+<poster>Tikkes</poster>
+<thumbnail></thumbnail>
+<fanart></fanart>
+################################################################################
+
+<dir>
+    <name>Fearless Season 1</name>
+    <meta>
+        <content>season</content>
+        <imdb>tt5883700</imdb>
+        <tvdb>314325</tvdb>
+        <tvshowtitle>Fearless</tvshowtitle>
+        <year>2016</year>
+        <season>1</season>
+    </meta>
+    <link>https://raw.githubusercontent.com/Tikkes/darkside-repo/master/xml/Fearless/Fearless01.xml</link>
+    <animated_thumbnail></animated_thumbnail>
+    <thumbnail></thumbnail>
+    <animated_fanart></animated_fanart>
+    <fanart></fanart>
+</dir>

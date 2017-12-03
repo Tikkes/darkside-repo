@@ -58,24 +58,6 @@
 </item>
 
 <item>
-        <title>Detroit (2017)</title>
-        <meta>
-                <content>movie</content>
-                <imdb>tt5390504</imdb>
-                <title>Detroit</title>
-                <year>2017</year>
-        </meta>
-        <link>
-                <sublink>search</sublink>
-                <sublink>searchsd</sublink>
-        </link>
-        <animated_thumbnail></animated_thumbnail>
-        <thumbnail>https://image.tmdb.org/t/p/original/hgoWdACgZM7yArppPeu8ZPPqd4H.jpg</thumbnail>
-        <animated_fanart></animated_fanart>
-        <fanart>https://image.tmdb.org/t/p/original/nl3j46NqyPZPQjRBOb1iprWFVQg.jpg</fanart>
-</item>
-
-<item>
         <title>Three Billboards Outside Ebbing, Missouri (2017)</title>
         <meta>
                 <content>movie</content>

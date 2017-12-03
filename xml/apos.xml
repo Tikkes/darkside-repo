@@ -151,3 +151,123 @@
         <animated_fanart></animated_fanart>
         <fanart>https://www.thetvdb.com/banners/fanart/original/315419-2.jpg</fanart>
 </dir>
+<dir>
+        <title>Lore</title>
+        <meta>
+                <content>tvshow</content>
+        <imdb>tt6130902</imdb>
+        <tvdb>334147</tvdb>
+        <tvshowtitle>Lore</tvshowtitle>
+        <year>2017</year>
+    </meta>
+		<link>https://raw.githubusercontent.com/Tikkes/darkside-repo/master/xml/Lore/Lore.xml</link>
+        <animated_thumbnail></animated_thumbnail>
+        <thumbnail>https://www.thetvdb.com/banners/posters/334147-1.jpg</thumbnail>
+        <animated_fanart></animated_fanart>
+        <fanart>https://www.thetvdb.com/banners/fanart/original/334147-5.jpg</fanart>
+</dir>
+<dir>
+        <title>One Mississippi</title>
+        <meta>
+                <content>tvshow</content>
+        <imdb>tt4947608</imdb>
+        <tvdb>315323</tvdb>
+        <tvshowtitle>One Mississippi</tvshowtitle>
+        <year>2016</year>
+    </meta>
+		<link>https://raw.githubusercontent.com/Tikkes/darkside-repo/master/xml/OneMississippi/OneMississippi.xml</link>
+        <animated_thumbnail></animated_thumbnail>
+        <thumbnail>https://www.thetvdb.com/banners/posters/315323-3.jpg</thumbnail>
+        <animated_fanart></animated_fanart>
+        <fanart>https://www.thetvdb.com/banners/fanart/original/315323-2.jpg</fanart>
+</dir>
+<dir>
+        <title>Patriot</title>
+        <meta>
+                <content>tvshow</content>
+        <imdb>tt5185980</imdb>
+        <tvdb>300185</tvdb>
+        <tvshowtitle>Patriot</tvshowtitle>
+        <year>2015</year>
+    </meta>
+		<link>https://raw.githubusercontent.com/Tikkes/darkside-repo/master/xml/Patriot/Patriot.xml</link>
+        <animated_thumbnail></animated_thumbnail>
+        <thumbnail>https://www.thetvdb.com/banners/posters/300185-1.jpg</thumbnail>
+        <animated_fanart></animated_fanart>
+        <fanart>https://www.thetvdb.com/banners/fanart/original/300185-1.jpg</fanart>
+</dir>
+<dir>
+        <title>Red Oaks</title>
+        <meta>
+                <content>tvshow</content>
+        <imdb>tt3973820</imdb>
+        <tvdb>284641</tvdb>
+        <tvshowtitle>Red Oaks</tvshowtitle>
+        <year>2014</year>
+    </meta>
+		<link>https://raw.githubusercontent.com/Tikkes/darkside-repo/master/xml/RedOaks/RedOaks.xml</link>
+        <animated_thumbnail></animated_thumbnail>
+        <thumbnail>https://www.thetvdb.com/banners/posters/284641-2.jpg</thumbnail>
+        <animated_fanart></animated_fanart>
+        <fanart>https://www.thetvdb.com/banners/fanart/original/284641-4.jpg</fanart>
+</dir>
+<dir>
+        <title>The Last Tycoon</title>
+        <meta>
+                <content>tvshow</content>
+        <imdb>tt3390892</imdb>
+        <tvdb>315364</tvdb>
+        <tvshowtitle>The Last Tycoon</tvshowtitle>
+        <year>2016</year>
+    </meta>
+		<link>https://raw.githubusercontent.com/Tikkes/darkside-repo/master/xml/TheLastTycoon/TheLastTycoon.xml</link>
+        <animated_thumbnail></animated_thumbnail>
+        <thumbnail>https://www.thetvdb.com/banners/posters/315364-2.jpg</thumbnail>
+        <animated_fanart></animated_fanart>
+        <fanart>https://www.thetvdb.com/banners/fanart/original/315364-1.jpg</fanart>
+</dir>
+<dir>
+        <title>The Marvelous Mrs. Maisel</title>
+        <meta>
+                <content>tvshow</content>
+        <imdb>tt5788792</imdb>
+        <tvdb>326791</tvdb>
+        <tvshowtitle>The Marvelous Mrs. Maisel</tvshowtitle>
+        <year>2017</year>
+    </meta>
+		<link>https://raw.githubusercontent.com/Tikkes/darkside-repo/master/xml/TheMarvelousMrsMaisel/TheMarvelousMrsMaisel.xml</link>
+        <animated_thumbnail></animated_thumbnail>
+        <thumbnail>https://www.thetvdb.com/banners/posters/326791-3.jpg</thumbnail>
+        <animated_fanart></animated_fanart>
+        <fanart>https://www.thetvdb.com/banners/fanart/original/326791-3.jpg</fanart>
+</dir>
+<dir>
+        <title>The Tick (2016)</title>
+        <meta>
+                <content>tvshow</content>
+        <imdb>tt5540054</imdb>
+        <tvdb>317654</tvdb>
+        <tvshowtitle>The Tick (2016)</tvshowtitle>
+        <year>2016</year>
+    </meta>
+		<link>https://raw.githubusercontent.com/Tikkes/darkside-repo/master/xml/TheTick2016/TheTick2016.xml</link>
+        <animated_thumbnail></animated_thumbnail>
+        <thumbnail>https://www.thetvdb.com/banners/posters/317654-1.jpg</thumbnail>
+        <animated_fanart></animated_fanart>
+        <fanart>https://www.thetvdb.com/banners/fanart/original/317654-12.jpg</fanart>
+</dir>
+<dir>
+        <title>Tin Star</title>
+        <meta>
+                <content>tvshow</content>
+        <imdb>tt4607112</imdb>
+        <tvdb>325720</tvdb>
+        <tvshowtitle>Tin Star</tvshowtitle>
+        <year>2017</year>
+    </meta>
+		<link>https://raw.githubusercontent.com/Tikkes/darkside-repo/master/xml/TinStar/TinStar.xml</link>
+        <animated_thumbnail></animated_thumbnail>
+        <thumbnail>https://www.thetvdb.com/banners/posters/325720-2.jpg</thumbnail>
+        <animated_fanart></animated_fanart>
+        <fanart>https://www.thetvdb.com/banners/fanart/original/325720-1.jpg</fanart>
+</dir>

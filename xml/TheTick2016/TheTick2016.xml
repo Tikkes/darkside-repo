@@ -1,0 +1,39 @@
+
+################################################################################
+<poster>Tikkes</poster>
+<thumbnail></thumbnail>
+<fanart></fanart>
+################################################################################
+
+<dir>
+    <name>The Tick (2016) Season 0</name>
+    <meta>
+        <content>season</content>
+        <imdb>tt5540054</imdb>
+        <tvdb>317654</tvdb>
+        <tvshowtitle>The Tick (2016)</tvshowtitle>
+        <year>2016</year>
+        <season>0</season>
+    </meta>
+    <link>https://raw.githubusercontent.com/Tikkes/darkside-repo/master/xml/TheTick2016/TheTick201600.xml</link>
+    <animated_thumbnail></animated_thumbnail>
+    <thumbnail></thumbnail>
+    <animated_fanart></animated_fanart>
+    <fanart></fanart>
+</dir>
+<dir>
+    <name>The Tick (2016) Season 1</name>
+    <meta>
+        <content>season</content>
+        <imdb>tt5540054</imdb>
+        <tvdb>317654</tvdb>
+        <tvshowtitle>The Tick (2016)</tvshowtitle>
+        <year>2016</year>
+        <season>1</season>
+    </meta>
+    <link>https://raw.githubusercontent.com/Tikkes/darkside-repo/master/xml/TheTick2016/TheTick201601.xml</link>
+    <animated_thumbnail></animated_thumbnail>
+    <thumbnail></thumbnail>
+    <animated_fanart></animated_fanart>
+    <fanart></fanart>
+</dir>

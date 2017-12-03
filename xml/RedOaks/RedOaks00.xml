@@ -1,0 +1,30 @@
+
+################################################################################
+<poster>Tikkes</poster>
+<cache>10800</poster>
+<thumbnail></thumbnail>
+<fanart></fanart>
+################################################################################
+
+<item>
+    <title>Red Oaks S00E01 - Pilot</title>
+    <meta>
+        <content>episode</content>
+        <imdb>tt3973820</imdb>
+        <tvdb>284641</tvdb>
+        <tvshowtitle>Red Oaks</tvshowtitle>
+        <year>2014</year>
+        <title>Pilot</title>
+        <premiered>2014-08-28</premiered>
+        <season>0</season>
+        <episode>1</episode>
+    </meta>
+    <link>
+        <sublink>search</sublink>
+        <sublink>searchsd</sublink>
+    </link>
+    <animated_thumbnail></animated_thumbnail>
+    <thumbnail></thumbnail>
+    <animated_fanart></animated_fanart>
+    <fanart></fanart>
+</item>

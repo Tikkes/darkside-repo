@@ -1,0 +1,39 @@
+
+################################################################################
+<poster>Tikkes</poster>
+<thumbnail></thumbnail>
+<fanart></fanart>
+################################################################################
+
+<dir>
+    <name>Lore Season 0</name>
+    <meta>
+        <content>season</content>
+        <imdb>tt6130902</imdb>
+        <tvdb>334147</tvdb>
+        <tvshowtitle>Lore</tvshowtitle>
+        <year>2017</year>
+        <season>0</season>
+    </meta>
+    <link>https://raw.githubusercontent.com/Tikkes/darkside-repo/master/xml/Lore/Lore00.xml</link>
+    <animated_thumbnail></animated_thumbnail>
+    <thumbnail></thumbnail>
+    <animated_fanart></animated_fanart>
+    <fanart></fanart>
+</dir>
+<dir>
+    <name>Lore Season 1</name>
+    <meta>
+        <content>season</content>
+        <imdb>tt6130902</imdb>
+        <tvdb>334147</tvdb>
+        <tvshowtitle>Lore</tvshowtitle>
+        <year>2017</year>
+        <season>1</season>
+    </meta>
+    <link>https://raw.githubusercontent.com/Tikkes/darkside-repo/master/xml/Lore/Lore01.xml</link>
+    <animated_thumbnail></animated_thumbnail>
+    <thumbnail></thumbnail>
+    <animated_fanart></animated_fanart>
+    <fanart></fanart>
+</dir>

@@ -1,0 +1,39 @@
+
+################################################################################
+<poster>Tikkes</poster>
+<thumbnail></thumbnail>
+<fanart></fanart>
+################################################################################
+
+<dir>
+    <name>The Last Tycoon Season 0</name>
+    <meta>
+        <content>season</content>
+        <imdb>tt3390892</imdb>
+        <tvdb>315364</tvdb>
+        <tvshowtitle>The Last Tycoon</tvshowtitle>
+        <year>2016</year>
+        <season>0</season>
+    </meta>
+    <link>https://raw.githubusercontent.com/Tikkes/darkside-repo/master/xml/TheLastTycoon/TheLastTycoon00.xml</link>
+    <animated_thumbnail></animated_thumbnail>
+    <thumbnail></thumbnail>
+    <animated_fanart></animated_fanart>
+    <fanart></fanart>
+</dir>
+<dir>
+    <name>The Last Tycoon Season 1</name>
+    <meta>
+        <content>season</content>
+        <imdb>tt3390892</imdb>
+        <tvdb>315364</tvdb>
+        <tvshowtitle>The Last Tycoon</tvshowtitle>
+        <year>2016</year>
+        <season>1</season>
+    </meta>
+    <link>https://raw.githubusercontent.com/Tikkes/darkside-repo/master/xml/TheLastTycoon/TheLastTycoon01.xml</link>
+    <animated_thumbnail></animated_thumbnail>
+    <thumbnail></thumbnail>
+    <animated_fanart></animated_fanart>
+    <fanart></fanart>
+</dir>

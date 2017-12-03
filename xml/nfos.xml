@@ -240,51 +240,6 @@
         <fanart>https://www.thetvdb.com/banners/fanart/original/331980-6.jpg</fanart>
 </dir>
 <dir>
-        <title></title>
-        <meta>
-                <content>tvshow</content>
-                <imdb></imdb>
-                <tvdb></tvdb>
-                <tvshowtitle></tvshowtitle>
-                <year></year>
-        </meta>
-        <link></link>
-        <animated_thumbnail></animated_thumbnail>
-        <thumbnail></thumbnail>
-        <animated_fanart></animated_fanart>
-        <fanart></fanart>
-</dir>
-<dir>
-        <title></title>
-        <meta>
-                <content>tvshow</content>
-                <imdb></imdb>
-                <tvdb></tvdb>
-                <tvshowtitle></tvshowtitle>
-                <year></year>
-        </meta>
-        <link></link>
-        <animated_thumbnail></animated_thumbnail>
-        <thumbnail></thumbnail>
-        <animated_fanart></animated_fanart>
-        <fanart></fanart>
-</dir>
-<dir>
-        <title></title>
-        <meta>
-                <content>tvshow</content>
-                <imdb></imdb>
-                <tvdb></tvdb>
-                <tvshowtitle></tvshowtitle>
-                <year></year>
-        </meta>
-        <link></link>
-        <animated_thumbnail></animated_thumbnail>
-        <thumbnail></thumbnail>
-        <animated_fanart></animated_fanart>
-        <fanart></fanart>
-</dir>
-<dir>
         <title>Arrested Development</title>
         <meta>
                 <content>tvshow</content>
@@ -389,6 +344,21 @@
         <fanart>https://www.thetvdb.com/banners/fanart/original/304219-13.jpg</fanart>
 </dir>
 <dir>
+        <title>Marvel's The Defenders</title>
+        <meta>
+                <content>tvshow</content>
+        <imdb>tt4230076</imdb>
+        <tvdb>326490</tvdb>
+        <tvshowtitle>Marvel's The Defenders</tvshowtitle>
+        <year>2017</year>
+    </meta>
+		<link>https://raw.githubusercontent.com/Tikkes/darkside-repo/master/xml/MarvelsTheDefenders/MarvelsTheDefenders.xml</link>
+        <animated_thumbnail></animated_thumbnail>
+        <thumbnail>https://www.thetvdb.com/banners/posters/326490-4.jpg</thumbnail>
+        <animated_fanart></animated_fanart>
+        <fanart>https://www.thetvdb.com/banners/fanart/original/326490-11.jpg</fanart>
+</dir>
+<dir>
         <title>Orange Is the New Black</title>
         <meta>
         <imdb>tt2372162</imdb>
@@ -417,18 +387,4 @@
         <animated_fanart></animated_fanart>
         <fanart>https://www.thetvdb.com/banners/fanart/original/305574-9.jpg</fanart>
 </dir>
-<dir>
-        <title>Marvel's The Defenders</title>
-        <meta>
-                <content>tvshow</content>
-        <imdb>tt4230076</imdb>
-        <tvdb>326490</tvdb>
-        <tvshowtitle>Marvel's The Defenders</tvshowtitle>
-        <year>2017</year>
-    </meta>
-		<link>https://raw.githubusercontent.com/Tikkes/darkside-repo/master/xml/MarvelsTheDefenders/MarvelsTheDefenders.xml</link>
-        <animated_thumbnail></animated_thumbnail>
-        <thumbnail>https://www.thetvdb.com/banners/posters/326490-4.jpg</thumbnail>
-        <animated_fanart></animated_fanart>
-        <fanart>https://www.thetvdb.com/banners/fanart/original/326490-11.jpg</fanart>
-</dir>
+

@@ -1,0 +1,39 @@
+
+################################################################################
+<poster>Tikkes</poster>
+<thumbnail></thumbnail>
+<fanart></fanart>
+################################################################################
+
+<dir>
+    <name>The Crown Season 1</name>
+    <meta>
+        <content>season</content>
+        <imdb>tt4786824</imdb>
+        <tvdb>305574</tvdb>
+        <tvshowtitle>The Crown</tvshowtitle>
+        <year>2016</year>
+        <season>1</season>
+    </meta>
+    <link>https://raw.githubusercontent.com/Tikkes/darkside-repo/master/xml/TheCrown/TheCrown01.xml</link>
+    <animated_thumbnail></animated_thumbnail>
+    <thumbnail></thumbnail>
+    <animated_fanart></animated_fanart>
+    <fanart></fanart>
+</dir>
+<dir>
+    <name>The Crown Season 2</name>
+    <meta>
+        <content>season</content>
+        <imdb>tt4786824</imdb>
+        <tvdb>305574</tvdb>
+        <tvshowtitle>The Crown</tvshowtitle>
+        <year>2016</year>
+        <season>2</season>
+    </meta>
+    <link>https://raw.githubusercontent.com/Tikkes/darkside-repo/master/xml/TheCrown/TheCrown02.xml</link>
+    <animated_thumbnail></animated_thumbnail>
+    <thumbnail></thumbnail>
+    <animated_fanart></animated_fanart>
+    <fanart></fanart>
+</dir>

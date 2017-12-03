@@ -1,0 +1,87 @@
+
+################################################################################
+<poster>Tikkes</poster>
+<thumbnail></thumbnail>
+<fanart></fanart>
+################################################################################
+
+<dir>
+    <name>Orange Is the New Black Season 1</name>
+    <meta>
+        <content>season</content>
+        <imdb>tt2372162</imdb>
+        <tvdb>264586</tvdb>
+        <tvshowtitle>Orange Is the New Black</tvshowtitle>
+        <year>2013</year>
+        <season>1</season>
+    </meta>
+    <link>https://raw.githubusercontent.com/Tikkes/darkside-repo/master/xml/OrangeIstheNewBlack/OrangeIstheNewBlack01.xml</link>
+    <animated_thumbnail></animated_thumbnail>
+    <thumbnail></thumbnail>
+    <animated_fanart></animated_fanart>
+    <fanart></fanart>
+</dir>
+<dir>
+    <name>Orange Is the New Black Season 2</name>
+    <meta>
+        <content>season</content>
+        <imdb>tt2372162</imdb>
+        <tvdb>264586</tvdb>
+        <tvshowtitle>Orange Is the New Black</tvshowtitle>
+        <year>2013</year>
+        <season>2</season>
+    </meta>
+    <link>https://raw.githubusercontent.com/Tikkes/darkside-repo/master/xml/OrangeIstheNewBlack/OrangeIstheNewBlack02.xml</link>
+    <animated_thumbnail></animated_thumbnail>
+    <thumbnail></thumbnail>
+    <animated_fanart></animated_fanart>
+    <fanart></fanart>
+</dir>
+<dir>
+    <name>Orange Is the New Black Season 3</name>
+    <meta>
+        <content>season</content>
+        <imdb>tt2372162</imdb>
+        <tvdb>264586</tvdb>
+        <tvshowtitle>Orange Is the New Black</tvshowtitle>
+        <year>2013</year>
+        <season>3</season>
+    </meta>
+    <link>https://raw.githubusercontent.com/Tikkes/darkside-repo/master/xml/OrangeIstheNewBlack/OrangeIstheNewBlack03.xml</link>
+    <animated_thumbnail></animated_thumbnail>
+    <thumbnail></thumbnail>
+    <animated_fanart></animated_fanart>
+    <fanart></fanart>
+</dir>
+<dir>
+    <name>Orange Is the New Black Season 4</name>
+    <meta>
+        <content>season</content>
+        <imdb>tt2372162</imdb>
+        <tvdb>264586</tvdb>
+        <tvshowtitle>Orange Is the New Black</tvshowtitle>
+        <year>2013</year>
+        <season>4</season>
+    </meta>
+    <link>https://raw.githubusercontent.com/Tikkes/darkside-repo/master/xml/OrangeIstheNewBlack/OrangeIstheNewBlack04.xml</link>
+    <animated_thumbnail></animated_thumbnail>
+    <thumbnail></thumbnail>
+    <animated_fanart></animated_fanart>
+    <fanart></fanart>
+</dir>
+<dir>
+    <name>Orange Is the New Black Season 5</name>
+    <meta>
+        <content>season</content>
+        <imdb>tt2372162</imdb>
+        <tvdb>264586</tvdb>
+        <tvshowtitle>Orange Is the New Black</tvshowtitle>
+        <year>2013</year>
+        <season>5</season>
+    </meta>
+    <link>https://raw.githubusercontent.com/Tikkes/darkside-repo/master/xml/OrangeIstheNewBlack/OrangeIstheNewBlack05.xml</link>
+    <animated_thumbnail></animated_thumbnail>
+    <thumbnail></thumbnail>
+    <animated_fanart></animated_fanart>
+    <fanart></fanart>
+</dir>

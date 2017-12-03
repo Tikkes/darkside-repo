@@ -284,3 +284,151 @@
         <animated_fanart></animated_fanart>
         <fanart></fanart>
 </dir>
+<dir>
+        <title>Arrested Development</title>
+        <meta>
+                <content>tvshow</content>
+        <imdb>tt0367279</imdb>
+        <tvdb>72173</tvdb>
+        <tvshowtitle>Arrested Development</tvshowtitle>
+        <year>2003</year>
+    </meta>
+		<link>https://raw.githubusercontent.com/Tikkes/darkside-repo/master/xml/ArrestedDevelopment/ArrestedDevelopment.xml</link>
+        <animated_thumbnail></animated_thumbnail>
+        <thumbnail>https://www.thetvdb.com/banners/posters/72173-6.jpg</thumbnail>
+        <animated_fanart></animated_fanart>
+        <fanart>https://www.thetvdb.com/banners/fanart/original/72173-2.jpg</fanart>
+</dir>
+<dir>
+        <title>Atypical</title>
+        <meta>
+                <content>tvshow</content>
+        <imdb>tt6315640</imdb>
+        <tvdb>330374</tvdb>
+        <tvshowtitle>Atypical</tvshowtitle>
+        <year>2017</year>
+    </meta>
+    <link>https://raw.githubusercontent.com/Tikkes/darkside-repo/master/xml/Atypical/Atypical.xml</link>
+        <animated_thumbnail></animated_thumbnail>
+        <thumbnail>https://www.thetvdb.com/banners/posters/330374-2.jpg</thumbnail>
+        <animated_fanart></animated_fanart>
+        <fanart>https://www.thetvdb.com/banners/fanart/original/330374-3.jpg</fanart>
+</dir>
+<dir>
+        <title>DARK</title>
+        <meta>
+                <content>tvshow</content>
+        <imdb>tt5753856</imdb>
+        <tvdb>334824</tvdb>
+        <tvshowtitle>DARK</tvshowtitle>
+        <year>2017</year>
+    </meta>
+    <link>https://raw.githubusercontent.com/Tikkes/darkside-repo/master/xml/DARK/DARK.xml</link>
+        <animated_thumbnail></animated_thumbnail>
+        <thumbnail>https://www.thetvdb.com/banners/posters/334824-1.jpg</thumbnail>
+        <animated_fanart></animated_fanart>
+        <fanart>https://www.thetvdb.com/banners/fanart/original/334824-5.jpg</fanart>
+</dir>
+<dir>
+        <title>Marvel's Daredevil</title>
+        <meta>
+                <content>tvshow</content>
+        <imdb>tt3322312</imdb>
+        <tvdb>281662</tvdb>
+        <tvshowtitle>Marvel's Daredevil</tvshowtitle>
+        <year>2015</year>
+    </meta>
+		<link>https://raw.githubusercontent.com/Tikkes/darkside-repo/master/xml/MarvelsDaredevil/MarvelsDaredevil.xml</link>
+        <animated_thumbnail></animated_thumbnail>
+        <thumbnail>https://www.thetvdb.com/banners/posters/281662-8.jpg</thumbnail>
+        <animated_fanart></animated_fanart>
+        <fanart>https://www.thetvdb.com/banners/fanart/original/281662-5.jpg</fanart>
+</dir>
+<dir>
+        <title>Marvel's Iron Fist</title>
+        <meta>
+        <imdb>tt3322310</imdb>
+        <tvdb>317953</tvdb>
+        <tvshowtitle>Marvel's Iron Fist</tvshowtitle>
+        <year>2017</year>
+    </meta>
+		<link>https://raw.githubusercontent.com/Tikkes/darkside-repo/master/xml/MarvelsIronFist/MarvelsIronFist.xml</link>
+        <animated_thumbnail></animated_thumbnail>
+        <thumbnail>https://www.thetvdb.com/banners/posters/317953-10.jpg</thumbnail>
+        <animated_fanart></animated_fanart>
+        <fanart>https://www.thetvdb.com/banners/fanart/original/317953-14.jpg</fanart>
+</dir>
+<dir>
+        <title>Marvel's Jessica Jones</title>
+        <meta>
+                <content>tvshow</content>
+        <imdb>tt2357547</imdb>
+        <tvdb>284190</tvdb>
+        <tvshowtitle>Marvel's Jessica Jones</tvshowtitle>
+        <year>2015</year>
+    </meta>
+		<link>https://raw.githubusercontent.com/Tikkes/darkside-repo/master/xml/MarvelsJessicaJones/MarvelsJessicaJones.xml</link>
+        <animated_thumbnail></animated_thumbnail>
+        <thumbnail>https://www.thetvdb.com/banners/posters/284190-9.jpg</thumbnail>
+        <animated_fanart></animated_fanart>
+        <fanart>https://www.thetvdb.com/banners/fanart/original/284190-10.jpg</fanart>
+</dir>
+<dir>
+        <title>Marvel's Luke Cage</title>
+        <meta>
+                <content>tvshow</content>
+        <imdb>tt3322314</imdb>
+        <tvdb>304219</tvdb>
+        <tvshowtitle>Marvel's Luke Cage</tvshowtitle>
+        <year>2016</year>
+    </meta>
+		<link>https://raw.githubusercontent.com/Tikkes/darkside-repo/master/xml/MarvelsLukeCage/MarvelsLukeCage.xml</link>
+        <animated_thumbnail></animated_thumbnail>
+        <thumbnail>https://www.thetvdb.com/banners/posters/304219-2.jpg</thumbnail>
+        <animated_fanart></animated_fanart>
+        <fanart>https://www.thetvdb.com/banners/fanart/original/304219-13.jpg</fanart>
+</dir>
+<dir>
+        <title>Orange Is the New Black</title>
+        <meta>
+        <imdb>tt2372162</imdb>
+        <tvdb>264586</tvdb>
+        <tvshowtitle>Orange Is the New Black</tvshowtitle>
+        <year>2013</year>
+    </meta>
+		<link>https://raw.githubusercontent.com/Tikkes/darkside-repo/master/xml/OrangeIstheNewBlack/OrangeIstheNewBlack.xml</link>
+        <animated_thumbnail></animated_thumbnail>
+        <thumbnail>https://www.thetvdb.com/banners/posters/264586-3.jpg</thumbnail>
+        <animated_fanart></animated_fanart>
+        <fanart>https://www.thetvdb.com/banners/fanart/original/264586-8.jpg</fanart>
+</dir>
+<dir>
+        <title>The Crown</title>
+        <meta>
+                <content>tvshow</content>
+        <imdb>tt4786824</imdb>
+        <tvdb>305574</tvdb>
+        <tvshowtitle>The Crown</tvshowtitle>
+        <year>2016</year>
+    </meta>
+		<link>https://raw.githubusercontent.com/Tikkes/darkside-repo/master/xml/TheCrown/TheCrown.xml</link>
+        <animated_thumbnail></animated_thumbnail>
+        <thumbnail>https://www.thetvdb.com/banners/posters/305574-7.jpg</thumbnail>
+        <animated_fanart></animated_fanart>
+        <fanart>https://www.thetvdb.com/banners/fanart/original/305574-9.jpg</fanart>
+</dir>
+<dir>
+        <title>Marvel's The Defenders</title>
+        <meta>
+                <content>tvshow</content>
+        <imdb>tt4230076</imdb>
+        <tvdb>326490</tvdb>
+        <tvshowtitle>Marvel's The Defenders</tvshowtitle>
+        <year>2017</year>
+    </meta>
+		<link>https://raw.githubusercontent.com/Tikkes/darkside-repo/master/xml/MarvelsTheDefenders/MarvelsTheDefenders.xml</link>
+        <animated_thumbnail></animated_thumbnail>
+        <thumbnail>https://www.thetvdb.com/banners/posters/326490-4.jpg</thumbnail>
+        <animated_fanart></animated_fanart>
+        <fanart>https://www.thetvdb.com/banners/fanart/original/326490-11.jpg</fanart>
+</dir>

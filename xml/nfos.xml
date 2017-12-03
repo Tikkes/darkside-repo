@@ -106,36 +106,6 @@
         <fanart>https://image.tmdb.org/t/p/original/xiVk6w5ExcMo6aqhTD5pGZBuJGv.jpg</fanart>
 </dir>
 <dir>
-        <title>Surviving Escobar: Alias JJ</title>
-        <meta>
-                <content>tvshow</content>
-        <imdb>tt6809396</imdb>
-        <tvdb>332762</tvdb>
-        <tvshowtitle>Surviving Escobar: Alias JJ</tvshowtitle>
-        <year>2017</year>
-        </meta>
-        <link>https://raw.githubusercontent.com/Tikkes/darkside-repo/master/xml/SurvivingEscobarAliasJJ/SurvivingEscobarAliasJJ.xml</link>
-        <animated_thumbnail></animated_thumbnail>
-        <thumbnail>https://www.thetvdb.com/banners/posters/332762-3.jpg</thumbnail>
-        <animated_fanart></animated_fanart>
-        <fanart>https://www.thetvdb.com/banners/fanart/original/332762-5.jpg</fanart>
-</dir>
-<dir>
-        <title>The Day I Met El Chapo: The Kate Del Castillo Story</title>
-        <meta>
-                <content>tvshow</content>
-        <imdb>tt7334894</imdb>
-        <tvdb>336683</tvdb>
-        <tvshowtitle>The Day I Met El Chapo: The Kate Del Castillo Story</tvshowtitle>
-        <year>2017</year>
-        </meta>
-        <link>https://raw.githubusercontent.com/Tikkes/darkside-repo/master/xml/TheDayIMetElChapoTheKateDelCastilloStory/TheDayIMetElChapoTheKateDelCastilloStory.xml</link>
-        <animated_thumbnail></animated_thumbnail>
-        <thumbnail>https://www.thetvdb.com/banners/posters/336683-1.jpg</thumbnail>
-        <animated_fanart></animated_fanart>
-        <fanart>https://www.thetvdb.com/banners/fanart/original/336683-1.jpg</fanart>
-</dir>
-<dir>
         <title>Disjointed</title>
         <meta>
                 <content>tvshow</content>
@@ -146,24 +116,24 @@
         </meta>
         <link>https://raw.githubusercontent.com/Tikkes/darkside-repo/master/xml/Disjointed/Disjointed.xml</link>
         <animated_thumbnail></animated_thumbnail>
-        <thumbnail></thumbnail>
+        <thumbnail>https://www.thetvdb.com/banners/posters/327359-4.jpg</thumbnail>
         <animated_fanart></animated_fanart>
-        <fanart></fanart>
+        <fanart>https://www.thetvdb.com/banners/fanart/original/327359-2.jpg</fanart>
 </dir>
 <dir>
-        <title>Godless</title>
-        <meta>
-                <content>tvshow</content>
-        <imdb>tt1958665</imdb>
-        <tvdb>265401</tvdb>
-        <tvshowtitle>Godless</tvshowtitle>
-        <year>2011</year>
-        </meta>
-        <link>https://raw.githubusercontent.com/Tikkes/darkside-repo/master/xml/Godless/Godless.xml</link>
-        <animated_thumbnail></animated_thumbnail>
-        <thumbnail></thumbnail>
-        <animated_fanart></animated_fanart>
-        <fanart></fanart>
+    <name>Godless (2017)</name>
+    <meta>
+        <content>tvshow</content>
+        <imdb>tt5516154</imdb>
+        <tvdb>333801</tvdb>
+        <tvshowtitle>Godless (2017)</tvshowtitle>
+	    <year>2017</year>
+    </meta>
+    <link>https://raw.githubusercontent.com/Tikkes/darkside-repo/master/xml/Godless2017/Godless2017.xml</link>
+    <animated_thumbnail></animated_thumbnail>
+    <thumbnail>https://www.thetvdb.com/banners/posters/333801-2.jpg</thumbnail>
+    <animated_fanart></animated_fanart>
+    <fanart>https://www.thetvdb.com/banners/fanart/original/333801-3.jpg</fanart>
 </dir>
 <dir>
         <title>MINDHUNTER</title>
@@ -175,9 +145,9 @@
         </meta>
         <link>https://raw.githubusercontent.com/Tikkes/darkside-repo/master/xml/MINDHUNTER/MINDHUNTER.xml</link>
         <animated_thumbnail></animated_thumbnail>
-        <thumbnail></thumbnail>
+        <thumbnail>https://www.thetvdb.com/banners/posters/328708-7.jpg</thumbnail>
         <animated_fanart></animated_fanart>
-        <fanart></fanart>
+        <fanart>https://www.thetvdb.com/banners/fanart/original/328708-3.jpg</fanart>
 </dir>
 <dir>
         <title>Narcos</title>
@@ -190,9 +160,9 @@
         </meta>
         <link>https://raw.githubusercontent.com/Tikkes/darkside-repo/master/xml/Narcos/Narcos.xml</link>
         <animated_thumbnail></animated_thumbnail>
-        <thumbnail></thumbnail>
+        <thumbnail>https://www.thetvdb.com/banners/posters/282670-4.jpg</thumbnail>
         <animated_fanart></animated_fanart>
-        <fanart></fanart>
+        <fanart>https://www.thetvdb.com/banners/fanart/original/282670-21.jpg</fanart>
 </dir>
 <dir>
         <title>Riverdale</title>
@@ -205,9 +175,9 @@
         </meta>
         <link>https://raw.githubusercontent.com/Tikkes/darkside-repo/master/xml/Riverdale/Riverdale.xml</link>
         <animated_thumbnail></animated_thumbnail>
-        <thumbnail></thumbnail>
+        <thumbnail>https://www.thetvdb.com/banners/posters/311954-14.jpg</thumbnail>
         <animated_fanart></animated_fanart>
-        <fanart></fanart>
+        <fanart>https://www.thetvdb.com/banners/fanart/original/311954-13.jpg</fanart>
 </dir>
 <dir>
         <title>Stranger Things</title>

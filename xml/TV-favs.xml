@@ -209,9 +209,9 @@
         </meta>
         <link>https://raw.githubusercontent.com/Tikkes/darkside-repo/master/xml/DrJeffRockyMountainVet/DrJeffRockyMountainVet.xml</link>
         <animated_thumbnail></animated_thumbnail>
-        <thumbnail></thumbnail>
+        <thumbnail>https://www.thetvdb.com/banners/posters/298367-3.jpg</thumbnail>
         <animated_fanart></animated_fanart>
-        <fanart></fanart>
+        <fanart>https://www.thetvdb.com/banners/fanart/original/298367-3.jpg</fanart>
 </dir>
 <dir>
         <title>Family Guy</title>
@@ -404,9 +404,9 @@
         </meta>
         <link>https://raw.githubusercontent.com/Tikkes/darkside-repo/master/xml/Kevin Can Wait/KevinCanWait.xml</link>
         <animated_thumbnail></animated_thumbnail>
-        <thumbnail></thumbnail>
+        <thumbnail>https://www.thetvdb.com/banners/posters/311944-1.jpg</thumbnail>
         <animated_fanart></animated_fanart>
-        <fanart></fanart>
+        <fanart>https://www.thetvdb.com/banners/fanart/original/311944-6.jpg</fanart>
 </dir>
 <dir>
         <title>Last Week Tonight with John Oliver</title>
@@ -448,9 +448,9 @@
         </meta>
         <link>https://raw.githubusercontent.com/Tikkes/darkside-repo/master/xml/Lip Sync Battle/LipSyncBattle.xml</link>
         <animated_thumbnail></animated_thumbnail>
-        <thumbnail></thumbnail>
+        <thumbnail>https://www.thetvdb.com/banners/posters/293322-1.jpg</thumbnail>
         <animated_fanart></animated_fanart>
-        <fanart></fanart>
+        <fanart>https://www.thetvdb.com/banners/fanart/original/293322-17.jpg</fanart>
 </dir>
 <dir>
         <title>Lucifer</title>
@@ -493,9 +493,9 @@
         </meta>
         <link>https://raw.githubusercontent.com/Tikkes/darkside-repo/master/xml/Marvel's Spider-Man/Marvel'sSpider-Man.xml</link>
         <animated_thumbnail></animated_thumbnail>
-        <thumbnail></thumbnail>
+        <thumbnail>https://www.thetvdb.com/banners/posters/329456-2.jpg</thumbnail>
         <animated_fanart></animated_fanart>
-        <fanart></fanart>
+        <fanart>https://www.thetvdb.com/banners/fanart/original/329456-1.jpg</fanart>
 </dir>
 <dir>
         <title>Marvel's The Punisher</title>
@@ -561,7 +561,6 @@
         <title>Queen of the South</title>
         <meta>
                 <content>tvshow</content>
-        <content>season</content>
         <imdb>tt1064899</imdb>
         <tvdb>306719</tvdb>
         <tvshowtitle>Queen of the South</tvshowtitle>
@@ -569,9 +568,9 @@
         </meta>
         <link>https://raw.githubusercontent.com/Tikkes/darkside-repo/master/xml/Queen of the South/QueenoftheSouth.xml</link>
         <animated_thumbnail></animated_thumbnail>
-        <thumbnail></thumbnail>
+        <thumbnail>https://www.thetvdb.com/banners/posters/306719-4.jpg</thumbnail>
         <animated_fanart></animated_fanart>
-        <fanart></fanart>
+        <fanart>https://www.thetvdb.com/banners/fanart/original/306719-11.jpg</fanart>
 </dir>
 <dir>
         <title>Ray Donovan</title>
@@ -584,9 +583,9 @@
         </meta>
         <link>https://raw.githubusercontent.com/Tikkes/darkside-repo/master/xml/Ray Donovan/RayDonovan.xml</link>
         <animated_thumbnail></animated_thumbnail>
-        <thumbnail></thumbnail>
+        <thumbnail>https://www.thetvdb.com/banners/posters/259866-12.jpg</thumbnail>
         <animated_fanart></animated_fanart>
-        <fanart></fanart>
+        <fanart>https://www.thetvdb.com/banners/fanart/original/259866-14.jpg</fanart>
 </dir>
 <dir>
         <title>Rick and Morty</title>
@@ -614,9 +613,9 @@
         </meta>
         <link><link>https://raw.githubusercontent.com/Tikkes/darkside-repo/master/xml/RidewithNormanReedus/RidewithNormanReedus.xml</link></link>
         <animated_thumbnail></animated_thumbnail>
-        <thumbnail></thumbnail>
+        <thumbnail>https://www.thetvdb.com/banners/posters/310633-3.jpg</thumbnail>
         <animated_fanart></animated_fanart>
-        <fanart></fanart>
+        <fanart>https://www.thetvdb.com/banners/fanart/original/310633-2.jpg</fanart>
 </dir>
 <dir>
         <title>Shameless</title>
@@ -658,9 +657,9 @@
         </meta>
         <link>https://raw.githubusercontent.com/Tikkes/darkside-repo/master/xml/SiliconValley/SiliconValley.xml</link>
         <animated_thumbnail></animated_thumbnail>
-        <thumbnail></thumbnail>
+        <thumbnail>https://www.thetvdb.com/banners/posters/277165-8.jpg</thumbnail>
         <animated_fanart></animated_fanart>
-        <fanart></fanart>
+        <fanart>https://www.thetvdb.com/banners/fanart/original/277165-2.jpg</fanart>
 </dir>
 <dir>
         <title>Sons of Anarchy</title>
@@ -693,36 +692,6 @@
         <fanart>https://www.thetvdb.com/banners/fanart/original/76509-4.jpg</fanart>
 </dir>
 <dir>
-        <title>Star Trek</title>
-        <meta>
-                <content>tvshow</content>
-                <imdb>tt0060028</imdb>
-                <tvdb>77526</tvdb>
-                <tvshowtitle>Star Trek</tvshowtitle>
-                <year>1966</year>
-        </meta>
-        <link>https://raw.githubusercontent.com/Tikkes/darkside-repo/master/xml/StarTrek/StarTrek.xml</link>
-        <animated_thumbnail></animated_thumbnail>
-        <thumbnail>https://www.thetvdb.com/banners/posters/305288-49.jpg</thumbnail>
-        <animated_fanart></animated_fanart>
-        <fanart>https://www.thetvdb.com/banners/fanart/original/305288-19.jpg</fanart>
-</dir>
-<dir>
-        <title>Star Trek: The Next Generation</title>
-        <meta>
-        <content>season</content>
-        <imdb>tt0092455</imdb>
-        <tvdb>71470</tvdb>
-        <tvshowtitle>Star Trek: The Next Generation</tvshowtitle>
-        <year>1987</year>
-        </meta>
-        <link>https://raw.githubusercontent.com/Tikkes/darkside-repo/master/xml/StarTrekTheNextGeneration/StarTrekTheNextGeneration.xml</link>
-        <animated_thumbnail></animated_thumbnail>
-        <thumbnail></thumbnail>
-        <animated_fanart></animated_fanart>
-        <fanart></fanart>
-</dir>
-<dir>
         <title>Star Wars Rebels</title>
         <meta>
                 <content>tvshow</content>
@@ -733,9 +702,9 @@
         </meta>
         <link>https://raw.githubusercontent.com/Tikkes/darkside-repo/master/xml/StarWarsRebels/StarWarsRebels.xml</link>
         <animated_thumbnail></animated_thumbnail>
-        <thumbnail></thumbnail>
+        <thumbnail>https://www.thetvdb.com/banners/posters/283468-12.jpg</thumbnail>
         <animated_fanart></animated_fanart>
-        <fanart></fanart>
+        <fanart>https://www.thetvdb.com/banners/fanart/original/283468-2.jpg</fanart>
 </dir>
 <dir>
         <title>Star Wars: The Clone Wars</title>
@@ -748,9 +717,9 @@
         </meta>
         <link>https://raw.githubusercontent.com/Tikkes/darkside-repo/master/xml/StarWarsTheCloneWars/StarWarsTheCloneWars.xml</link>
         <animated_thumbnail></animated_thumbnail>
-        <thumbnail></thumbnail>
+        <thumbnail>https://www.thetvdb.com/banners/posters/83268-15.jpg</thumbnail>
         <animated_fanart></animated_fanart>
-        <fanart></fanart>
+        <fanart>https://www.thetvdb.com/banners/fanart/original/83268-30.jpg</fanart>
 </dir>
 <dir>
         <title>Stranger Things</title>
@@ -841,6 +810,21 @@
         <thumbnail>https://www.thetvdb.com/banners/posters/328552-2.jpg</thumbnail>
         <animated_fanart></animated_fanart>
         <fanart>https://www.thetvdb.com/banners/fanart/original/328552-5.jpg</fanart>
+</dir>
+<dir>
+        <title>The Goldbergs (2013)</title>
+        <meta>
+                <content>tvshow</content>
+        <imdb>tt2712740</imdb>
+        <tvdb>269653</tvdb>
+        <tvshowtitle>The Goldbergs (2013)</tvshowtitle>
+        <year>2013</year>
+    </meta>
+    <link>https://raw.githubusercontent.com/Tikkes/darkside-repo/master/xml/TheGoldbergs2013/TheGoldbergs2013.xml</link>
+        <animated_thumbnail></animated_thumbnail>
+        <thumbnail>https://www.thetvdb.com/banners/posters/269653-6.jpg</thumbnail>
+        <animated_fanart></animated_fanart>
+        <fanart>https://www.thetvdb.com/banners/fanart/original/269653-3.jpg</fanart>
 </dir>
 <dir>
         <title>The Orville</title>

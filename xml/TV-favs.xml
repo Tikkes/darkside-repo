@@ -4,6 +4,15 @@
 <fanart></fanart>
 #####################################################################################################################################
 <dir>
+        <name>TEST DIRECTORY</name>
+        <link></link>
+        <animated_thumbnail></animated_thumbnail>
+        <thumbnail></thumbnail>
+		<summary></summary>
+        <animated_fanart></animated_fanart>
+        <fanart> </fanart>
+</dir>
+<dir>
         <title>American Horror Story</title>
         <meta>
                 <content>tvshow</content>

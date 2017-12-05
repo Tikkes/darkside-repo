@@ -5,7 +5,7 @@
 #####################################################################################################################################
 <dir>
         <name>TEST DIRECTORY</name>
-        <link></link>
+        <link>https://raw.githubusercontent.com/Tikkes/darkside-repo/master/xml/test.xml</link>
         <animated_thumbnail></animated_thumbnail>
         <thumbnail></thumbnail>
 		<summary></summary>

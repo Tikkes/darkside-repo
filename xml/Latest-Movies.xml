@@ -3,6 +3,42 @@
 <thumbnail></thumbnail>
 <fanart></fanart>
 #####################################################################################################################################
+
+
+<item>
+        <title>Mother! (2017)</title>
+        <meta>
+                <content>movie</content>
+                <imdb>tt5109784</imdb>
+                <title>Mother!</title>
+                <year>2017</year>
+        </meta>
+        <link>
+                <sublink>search</sublink>
+                <sublink>searchsd</sublink>
+        </link>
+        <animated_thumbnail></animated_thumbnail>
+        <thumbnail>https://image.tmdb.org/t/p/original/m2Tc48MkhPWYaz0f0IMuIMJlGND.jpg</thumbnail>
+        <animated_fanart></animated_fanart>
+        <fanart>https://image.tmdb.org/t/p/original/zIECvIGqXuDZbA8OV3hSgdETdvv.jpg</fanart>
+</item>
+<item>
+        <title>Dunkirk (2017)</title>
+        <meta>
+                <content>movie</content>
+                <imdb>tt5013056</imdb>
+                <title>Dunkirk</title>
+                <year>2017</year>
+        </meta>
+        <link>
+                <sublink>search</sublink>
+                <sublink>searchsd</sublink>
+        </link>
+        <animated_thumbnail></animated_thumbnail>
+        <thumbnail>https://image.tmdb.org/t/p/original/bOXBV303Fgkzn2K4FeKDc0O31q4.jpg</thumbnail>
+        <animated_fanart></animated_fanart>
+        <fanart>https://image.tmdb.org/t/p/original/4yjJNAgXBmzxpS6sogj4ftwd270.jpg</fanart>
+</item>
 <item>
         <title>Kingsman: The Golden Circle 2017</title>
         <meta>

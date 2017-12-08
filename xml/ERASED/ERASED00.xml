@@ -1,0 +1,30 @@
+
+################################################################################
+<poster>Tikkes</poster>
+<cache>10800</poster>
+<thumbnail></thumbnail>
+<fanart></fanart>
+################################################################################
+
+<item>
+    <title>ERASED S00E01 - ERASED 1-6 Digest</title>
+    <meta>
+        <content>episode</content>
+        <imdb>tt5249462</imdb>
+        <tvdb>303071</tvdb>
+        <tvshowtitle>ERASED</tvshowtitle>
+        <year>2016</year>
+        <title>ERASED 1-6 Digest</title>
+        <premiered>2016-02-25</premiered>
+        <season>0</season>
+        <episode>1</episode>
+    </meta>
+    <link>
+        <sublink>search</sublink>
+        <sublink>searchsd</sublink>
+    </link>
+    <animated_thumbnail></animated_thumbnail>
+    <thumbnail></thumbnail>
+    <animated_fanart></animated_fanart>
+    <fanart></fanart>
+</item>

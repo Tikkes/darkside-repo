@@ -1,0 +1,30 @@
+
+################################################################################
+<poster>Tikkes</poster>
+<cache>10800</poster>
+<thumbnail></thumbnail>
+<fanart></fanart>
+################################################################################
+
+<item>
+    <title>Waco S01E01 - Episode 1</title>
+    <meta>
+        <content>episode</content>
+        <imdb>tt6040674</imdb>
+        <tvdb>337749</tvdb>
+        <tvshowtitle>Waco</tvshowtitle>
+        <year>2018</year>
+        <title>Episode 1</title>
+        <premiered>2018-01-24</premiered>
+        <season>1</season>
+        <episode>1</episode>
+    </meta>
+    <link>
+        <sublink>search</sublink>
+        <sublink>searchsd</sublink>
+    </link>
+    <animated_thumbnail></animated_thumbnail>
+    <thumbnail></thumbnail>
+    <animated_fanart></animated_fanart>
+    <fanart></fanart>
+</item>

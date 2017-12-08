@@ -1,0 +1,30 @@
+
+################################################################################
+<poster>Tikkes</poster>
+<cache>10800</poster>
+<thumbnail></thumbnail>
+<fanart></fanart>
+################################################################################
+
+<item>
+    <title>Britannia S01E01 - N/A</title>
+    <meta>
+        <content>episode</content>
+        <imdb>tt5932548</imdb>
+        <tvdb>333644</tvdb>
+        <tvshowtitle>Britannia</tvshowtitle>
+        <year>2018</year>
+        <title>N/A</title>
+        <premiered>2018-01-18</premiered>
+        <season>1</season>
+        <episode>1</episode>
+    </meta>
+    <link>
+        <sublink>search</sublink>
+        <sublink>searchsd</sublink>
+    </link>
+    <animated_thumbnail></animated_thumbnail>
+    <thumbnail></thumbnail>
+    <animated_fanart></animated_fanart>
+    <fanart></fanart>
+</item>

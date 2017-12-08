@@ -1,0 +1,23 @@
+
+################################################################################
+<poster>Tikkes</poster>
+<thumbnail></thumbnail>
+<fanart></fanart>
+################################################################################
+
+<dir>
+    <name>Counterpart Season 1</name>
+    <meta>
+        <content>season</content>
+        <imdb>tt4643084</imdb>
+        <tvdb>337302</tvdb>
+        <tvshowtitle>Counterpart</tvshowtitle>
+        <year>2018</year>
+        <season>1</season>
+    </meta>
+    <link>https://raw.githubusercontent.com/Tikkes/darkside-repo/master/xml/Counterpart/Counterpart01.xml</link>
+    <animated_thumbnail></animated_thumbnail>
+    <thumbnail></thumbnail>
+    <animated_fanart></animated_fanart>
+    <fanart></fanart>
+</dir>

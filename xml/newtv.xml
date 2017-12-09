@@ -19,9 +19,9 @@
     </meta>
     <link>https://raw.githubusercontent.com/Tikkes/darkside-repo/master/xml/Knightfall/Knightfall.xml</link>
     <animated_thumbnail></animated_thumbnail>
-    <thumbnail></thumbnail>
+    <thumbnail>https://www.thetvdb.com/banners/posters/323608-8.jpg</thumbnail>
     <animated_fanart></animated_fanart>
-    <fanart></fanart>
+    <fanart>https://www.thetvdb.com/banners/fanart/original/323608-4.jpg</fanart>
 </dir>
 <dir>
     <name>Happy!</name>
@@ -34,9 +34,9 @@
     </meta>
     <link>https://raw.githubusercontent.com/Tikkes/darkside-repo/master/xml/Happy/Happy.xml</link>
     <animated_thumbnail></animated_thumbnail>
-    <thumbnail></thumbnail>
+    <thumbnail>https://www.thetvdb.com/banners/posters/328361-3.jpg</thumbnail>
     <animated_fanart></animated_fanart>
-    <fanart></fanart>
+    <fanart>https://www.thetvdb.com/banners/fanart/original/328361-3.jpg</fanart>
 </dir>
 <dir>
     <name>ERASED</name>

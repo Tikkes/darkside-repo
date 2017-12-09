@@ -4,6 +4,41 @@
 <fanart></fanart>
 #####################################################################################################################################
 
+
+<item>
+        <title>Ferdinand (2017)</title>
+        <meta>
+                <content>movie</content>
+                <imdb>tt3411444</imdb>
+                <title>Ferdinand</title>
+                <year>2017</year>
+        </meta>
+        <link>
+                <sublink>search</sublink>
+                <sublink>searchsd</sublink>
+        </link>
+        <animated_thumbnail></animated_thumbnail>
+        <thumbnail>https://image.tmdb.org/t/p/original/rMm94JsRfcOPiPVsTRcBiiVBOhz.jpg</thumbnail>
+        <animated_fanart></animated_fanart>
+        <fanart>https://image.tmdb.org/t/p/original/80r42T4xabOhOjQ5k54R7BOD3xW.jpg</fanart>
+</item>
+<item>
+        <title>Pitch Perfect 3 (2017)</title>
+        <meta>
+                <content>movie</content>
+                <imdb>tt4765284</imdb>
+                <title>Pitch Perfect 3</title>
+                <year>2017</year>
+        </meta>
+        <link>
+                <sublink>search</sublink>
+                <sublink>searchsd</sublink>
+        </link>
+        <animated_thumbnail></animated_thumbnail>
+        <thumbnail>https://image.tmdb.org/t/p/original/nZgq5ioz7mC39IALmsua6nrPNek.jpg</thumbnail>
+        <animated_fanart></animated_fanart>
+        <fanart>https://image.tmdb.org/t/p/original/A95XgdRdwLrsvhO2AWc8qhRDh2i.jpg</fanart>
+</item>
 <item>
         <title>Jumanji: Welcome to the Jungle (2017)</title>
         <meta>
@@ -71,6 +106,23 @@
         <thumbnail>https://image.tmdb.org/t/p/original/bOXBV303Fgkzn2K4FeKDc0O31q4.jpg</thumbnail>
         <animated_fanart></animated_fanart>
         <fanart>https://image.tmdb.org/t/p/original/4yjJNAgXBmzxpS6sogj4ftwd270.jpg</fanart>
+</item>
+<item>
+        <title>Beyond Skyline (2017)</title>
+        <meta>
+                <content>movie</content>
+                <imdb>tt1724970</imdb>
+                <title>Beyond Skyline</title>
+                <year>2017</year>
+        </meta>
+        <link>
+                <sublink>search</sublink>
+                <sublink>searchsd</sublink>
+        </link>
+        <animated_thumbnail></animated_thumbnail>
+        <thumbnail>https://image.tmdb.org/t/p/original/ktZvjFmwCLrMXtr1dl6o5PhhHS4.jpg</thumbnail>
+        <animated_fanart></animated_fanart>
+        <fanart>https://image.tmdb.org/t/p/original/m5jvdwlI24XpFDSX79o97z76jis.jpg</fanart>
 </item>
 <item>
         <title>Kingsman: The Golden Circle 2017</title>

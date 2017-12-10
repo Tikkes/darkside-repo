@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <addons>
+<<<<<<< HEAD
 <addon id="plugin.video.projectdeathstar" name="Project Death Star" version="0.0.3" provider-name="LaffinAtcha | Jen | Tikkes">
+=======
+<addon id="plugin.video.deathstar" name="Death Star" version="0.0.3" provider-name="LaffinAtcha | midraal | Tikkes">
+>>>>>>> 256e20c74bd2c9878caba55c38b39cf69626b2b4
     <requires>
         <import addon="xbmc.python" version="2.19.0" />
         <import addon="script.module.nanscrapers" version="0.5.5" />

@@ -24,9 +24,10 @@ import __builtin__
 root_xml_url = "https://raw.githubusercontent.com/Tikkes/darkside-repo/master/xml/main.xml"  # url of the root xml file
 __builtin__.tvdb_api_key = "BOB2F5655863A077"  # tvdb api key
 __builtin__.tmdb_api_key = "445de55a49ed432d1846bca86801b625"  # tmdb api key
-__builtin__.trakt_client_id = ""  # trakt client id
-__builtin__.trakt_client_secret = ""  # trakt client secret
+__builtin__.trakt_client_id = "948c4e2514db4f2cca33e737f5e73ae213e537d344b9916983e53e3cc2a1b21c"  # trakt client id
+__builtin__.trakt_client_secret = "140369c2c981732a7b183db2e9300065629b8b7417a149a0c4e098ebee8f692e"  # trakt client secret
 __builtin__.search_db_location = ""  # location of search db
+
 
 import os
 import sys
@@ -182,6 +183,7 @@ def clear_cache():
             xbmc.translatePath(xbmcaddon.Addon().getSetting("cache_folder")),
             "artcache")
         koding.Delete_Folders(dest_folder)
+    xbmc.log("running hook:", xbmc.LOGNOTICE)
     run_hook("clear_cache")
 
 
@@ -210,9 +212,16 @@ if foldername in ["", "plugin.program.super.favourites"]:
 else:
     __builtin__.JEN_WIDGET = False
 
+xbmcplugin.addSortMethod(int(sys.argv[1]), xbmcplugin.SORT_METHOD_NONE)
+xbmcplugin.addSortMethod(int(sys.argv[1]), xbmcplugin.SORT_METHOD_LABEL)
+
 router.Run()
 
 xbmcplugin.endOfDirectory(int(sys.argv[1]), cacheToDisc=False)
+try:
+    content_type = __builtin__.content_type
+except:
+    pass
 if not xbmcaddon.Addon().getSetting("first_run") == "true":
     if content_type == "files":
         content_type = "other"

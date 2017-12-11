@@ -83,3 +83,8 @@
         <animated_fanart></animated_fanart>
         <fanart></fanart>
 </dir>
+<plugin>
+<name>30701</name>
+<link>plugin://plugin.video.projectdeathstar/?action=openSettings</link>
+<thumbnail></thumbnail>
+</plugin>

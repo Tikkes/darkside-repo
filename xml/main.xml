@@ -84,7 +84,7 @@
         <fanart></fanart>
 </dir>
 <plugin>
-<name>30701</name>
+<name>Project Death Star Settings</name>
 <link>plugin://plugin.video.projectdeathstar/?action=openSettings</link>
 <thumbnail></thumbnail>
 </plugin>

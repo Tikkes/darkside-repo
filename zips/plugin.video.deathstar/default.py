@@ -135,8 +135,9 @@ def all_episodes(url):
         if dialog.iscanceled():
             break
         percent = ((index + 1) * 100) / num_urls
-        dialog.update(percent, _("processing lists"), _("%s of %s") % (index + 1,
-                                                                 num_urls))
+        dialog.update(percent, _("processing lists"), _("%s of %s") % (
+            index + 1,
+            num_urls))
 
         jen_list = JenList(season_url)
         result_items.extend(jen_list.get_list(skip_dialog=True))

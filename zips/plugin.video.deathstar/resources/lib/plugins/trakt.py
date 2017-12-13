@@ -335,7 +335,7 @@ def trakt_tv_show(trakt_id):
         'trakt-api-version': '2',
         'trakt-api-key': TRAKT_API_KEY
     }
-    xml = fetch_from_db(url)
+    xml, __builtin__.content_type = fetch_from_db(url) or (None, None)
     if not xml:
         xml = ""
         response = requests.get(url, headers=headers).json()
@@ -345,7 +345,7 @@ def trakt_tv_show(trakt_id):
                 xml += get_season_xml(item, trakt_id, year, tvtitle, tmdb,
                                       imdb)
             xml = remove_non_ascii(xml)
-            save_to_db(xml, url)
+            save_to_db((xml, __builtin__.content_type), url)
     jenlist = JenList(xml)
     display_list(jenlist.get_list(), __builtin__.content_type)
 
@@ -367,7 +367,7 @@ def trakt_season(slug):
         'trakt-api-version': '2',
         'trakt-api-key': TRAKT_API_KEY
     }
-    xml = fetch_from_db(url)
+    xml, __builtin__.content_type = fetch_from_db(url) or (None, None)
     if not xml:
         xml = ""
         response = requests.get(url, headers=headers).json()
@@ -377,7 +377,7 @@ def trakt_season(slug):
                 xml += get_episode_xml(item, trakt_id, year, tvtitle, tmdb,
                                        imdb)
             xml = remove_non_ascii(xml)
-            save_to_db(xml, url)
+            save_to_db((xml, __builtin__.content_type), url)
     jenlist = JenList(xml)
     display_list(jenlist.get_list(), __builtin__.content_type)
 
@@ -723,6 +723,9 @@ def remove_non_ascii(text):
 
 
 def save_to_db(item, url):
+    if not item or not url:
+        return False
+    item = remove_non_ascii(item)
     koding.reset_db()
     koding.Remove_From_Table("trakt_plugin", {"url": url})
 

@@ -88,8 +88,4 @@
 <link>plugin://plugin.video.deathstar/?action=openSettings</link>
 <thumbnail></thumbnail>
 </plugin>
-<plugin>
-<name>Testings</name>
-<link>plugin://plugin.video.deathstar/?action=developer</link>
-<thumbnail></thumbnail>
-</plugin>
+

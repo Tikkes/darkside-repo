@@ -338,6 +338,7 @@ def trakt_tv_show(trakt_id):
     xml, __builtin__.content_type = fetch_from_db(url) or (None, None)
     if not xml:
         xml = ""
+        __builtin__.content_type = "seasons"
         response = requests.get(url, headers=headers).json()
 
         if type(response) == list:
@@ -369,6 +370,7 @@ def trakt_season(slug):
     }
     xml, __builtin__.content_type = fetch_from_db(url) or (None, None)
     if not xml:
+        __builtin__.content_type = "episodes"
         xml = ""
         response = requests.get(url, headers=headers).json()
 
@@ -771,7 +773,10 @@ def fetch_from_db(url):
                 except:
                     match_item = match_item.decode('utf-8').encode(
                         'ascii', 'ignore')
-                return pickle.loads(match_item)
+                result = pickle.loads(match_item)
+                if type(result) == str and result.startswith("{"):
+                    result = eval(result)
+                return result
         if created_time and float(created_time) + float(CACHE_TIME) >= time.time():
             match_item = match["item"].replace("'", "\"")
             content_type = match["content_type"]

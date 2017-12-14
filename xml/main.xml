@@ -85,11 +85,11 @@
 </dir>
 <plugin>
 <name>Project Death Star Settings</name>
-<link>plugin://plugin.video.projectdeathstar/?action=openSettings</link>
+<link>plugin://plugin.video.deathstar/?action=openSettings</link>
 <thumbnail></thumbnail>
 </plugin>
 <plugin>
 <name>Testings</name>
-<link>plugin://plugin.video.jen/?action=developer</link>
+<link>plugin://plugin.video.deathstar/?action=developer</link>
 <thumbnail></thumbnail>
 </plugin>

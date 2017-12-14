@@ -2,8 +2,8 @@
 <poster>LaffinAtcha</poster>
 ##############################################################################################################################
 <dir>
-  <title>TMDB Popular</title>
-  <tmdb>movies/popular</tmdb>
+  <title>Search TMDB</title>
+  <tmdb>search</tmdb>
 </dir>
 <dir>
   <title>Search Trakt</title>

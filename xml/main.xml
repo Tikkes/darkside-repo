@@ -6,6 +6,10 @@
   <tmdb>movies/popular</tmdb>
 </dir>
 <dir>
+  <title>Search Trakt</title>
+  <trakt>search</trakt>
+</dir>
+<dir>
         <name>Movies</name>
         <link>https://raw.githubusercontent.com/Tikkes/darkside-repo/master/xml/Latest-Movies.xml</link>
         <animated_thumbnail></animated_thumbnail>

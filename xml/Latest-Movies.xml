@@ -3,15 +3,7 @@
 <thumbnail></thumbnail>
 <fanart></fanart>
 #####################################################################################################################################
-<dir>
-  <title>TMDB Popular</title>
-  <tmdb>movies/popular</tmdb>
-</dir>
 
-<dir>
-  <title>Trending Movies</title>
-  <trakt>https://api.trakt.tv/movies/trending</trakt>
-</dir>
 <item>
         <title>Ferdinand (2017)</title>
         <meta>

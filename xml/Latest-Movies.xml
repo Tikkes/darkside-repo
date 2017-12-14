@@ -4,7 +4,10 @@
 <fanart></fanart>
 #####################################################################################################################################
 
-
+<dir>
+  <title>Trending Movies</title>
+  <trakt>https://api.trakt.tv/movies/trending</trakt>
+</dir>
 <item>
         <title>Ferdinand (2017)</title>
         <meta>

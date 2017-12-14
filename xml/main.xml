@@ -2,6 +2,10 @@
 <poster>LaffinAtcha</poster>
 ##############################################################################################################################
 <dir>
+  <title>TMDB Popular</title>
+  <tmdb>movies/popular</tmdb>
+</dir>
+<dir>
         <name>Movies</name>
         <link>https://raw.githubusercontent.com/Tikkes/darkside-repo/master/xml/Latest-Movies.xml</link>
         <animated_thumbnail></animated_thumbnail>

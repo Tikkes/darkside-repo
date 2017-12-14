@@ -24,9 +24,10 @@ import __builtin__
 root_xml_url = "https://raw.githubusercontent.com/Tikkes/darkside-repo/master/xml/main.xml"  # url of the root xml file
 __builtin__.tvdb_api_key = "BOB2F5655863A077"  # tvdb api key
 __builtin__.tmdb_api_key = "445de55a49ed432d1846bca86801b625"  # tmdb api key
-__builtin__.trakt_client_id = "948c4e2514db4f2cca33e737f5e73ae213e537d344b9916983e53e3cc2a1b21c"  # trakt client id
-__builtin__.trakt_client_secret = "140369c2c981732a7b183db2e9300065629b8b7417a149a0c4e098ebee8f692e"  # trakt client secret
+__builtin__.trakt_client_id = "00f654ec74b92deeaa3184d83296107f36e10738ca028407bfda595f026b1228"  # trakt client id
+__builtin__.trakt_client_secret = "fa2320769ad374bf7a29916e4e87a11d8a4253b13a4bdec0528b651b66738279"  # trakt client secret
 __builtin__.search_db_location = ""  # location of search db
+
 
 
 import os

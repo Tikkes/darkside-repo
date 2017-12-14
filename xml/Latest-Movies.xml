@@ -3,6 +3,10 @@
 <thumbnail></thumbnail>
 <fanart></fanart>
 #####################################################################################################################################
+<dir>
+  <title>TMDB Popular</title>
+  <tmdb>movies/popular</tmdb>
+</dir>
 
 <dir>
   <title>Trending Movies</title>

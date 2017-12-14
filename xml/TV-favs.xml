@@ -3,10 +3,7 @@
 <thumbnail></thumbnail>
 <fanart></fanart>
 #####################################################################################################################################
-<dir>
-  <title>Trending Shows</title>
-  <trakt>https://api.trakt.tv/shows/trending</trakt>
-</dir>
+
 <dir>
         <name>NEW TV SERIES (dec/jan)</name>
         <link>https://raw.githubusercontent.com/Tikkes/darkside-repo/master/xml/newtv.xml</link>

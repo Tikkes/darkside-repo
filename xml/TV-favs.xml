@@ -502,6 +502,21 @@
         <fanart>https://www.thetvdb.com/banners/fanart/original/76385-17.jpg</fanart>
 </dir>
 <dir>
+    <name>Marvel's Inhumans</name>
+    <meta>
+        <content>season</content>
+        <imdb>tt4154858</imdb>
+        <tvdb>320558</tvdb>
+        <tvshowtitle>Marvel's Inhumans</tvshowtitle>
+        <year>2017</year>
+    </meta>
+    <link>https://raw.githubusercontent.com/Tikkes/darkside-repo/master/xml/MarvelsInhumans/MarvelsInhumans.xml</link>
+    <animated_thumbnail></animated_thumbnail>
+    <thumbnail>https://www.thetvdb.com/banners/posters/320558-1.jpg</thumbnail>
+    <animated_fanart></animated_fanart>
+    <fanart>https://www.thetvdb.com/banners/fanart/original/320558-5.jpg</fanart>
+</dir>
+<dir>
         <title>Marvel's Spider-Man</title>
         <meta>
                 <content>tvshow</content>
@@ -906,6 +921,21 @@
         <fanart>https://www.thetvdb.com/banners/fanart/original/79126-2.jpg</fanart>
 </dir>
 <dir>
+    <name>This Is Us</name>
+    <meta>
+        <content>season</content>
+        <imdb>tt5555260</imdb>
+        <tvdb>311714</tvdb>
+        <tvshowtitle>This Is Us</tvshowtitle>
+        <year>2016</year>
+    </meta>
+    <link>https://raw.githubusercontent.com/Tikkes/darkside-repo/master/xml/ThisIsUs/ThisIsUs.xml</link>
+    <animated_thumbnail></animated_thumbnail>
+    <thumbnail>https://www.thetvdb.com/banners/posters/311714-2.jpg</thumbnail>
+    <animated_fanart></animated_fanart>
+    <fanart>https://www.thetvdb.com/banners/fanart/original/311714-14.jpg</fanart>
+</dir>
+<dir>
         <title>True Blood</title>
         <meta>
                 <content>tvshow</content>
@@ -934,6 +964,21 @@
         <thumbnail>https://www.thetvdb.com/banners/posters/296762-3.jpg</thumbnail>
         <animated_fanart></animated_fanart>
         <fanart>https://www.thetvdb.com/banners/fanart/original/296762-7.jpg</fanart>
+</dir>
+<dir>
+    <name>Young Sheldon</name>
+    <meta>
+        <content>season</content>
+        <imdb>tt6226232</imdb>
+        <tvdb>328724</tvdb>
+        <tvshowtitle>Young Sheldon</tvshowtitle>
+        <year>2017</year>
+    </meta>
+    <link>https://raw.githubusercontent.com/Tikkes/darkside-repo/master/xml/YoungSheldon/YoungSheldon.xml</link>
+    <animated_thumbnail></animated_thumbnail>
+    <thumbnail>https://www.thetvdb.com/banners/posters/328724-2.jpg</thumbnail>
+    <animated_fanart></animated_fanart>
+    <fanart>https://www.thetvdb.com/banners/fanart/original/328724-3.jpg</fanart>
 </dir>
 
 

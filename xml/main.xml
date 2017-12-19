@@ -122,3 +122,17 @@
     <title>Kids Boxsets</title>
     <link>file://shared lists/kids_boxset.xml</link>
   </dir>
+<dir>
+  <title>TMDB Airing Today</title>
+  <tmdb>tv/today</tmdb>
+</dir>
+
+<dir>
+  <title>TMDB Animation Shows</title>
+  <tmdb>genre/shows/16</tmdb>
+</dir>
+
+<dir>
+  <title>TMDB Reality Shows</title>
+  <tmdb>genre/shows/10764</tmdb>
+</dir>

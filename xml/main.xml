@@ -97,6 +97,11 @@
 <thumbnail></thumbnail>
 </plugin>
 <dir>
-  <title>TMDB Star Wars Collection</title>
-  <tmdb>collection/10</tmdb>
+  <title>Trending Movies</title>
+  <trakt>https://api.trakt.tv/movies/trending</trakt>
+</dir>
+
+<dir>
+  <title>Popular Movies</title>
+  <trakt>https://api.trakt.tv/movies/popular</trakt>
 </dir>

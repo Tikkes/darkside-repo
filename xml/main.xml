@@ -137,6 +137,6 @@
   <tmdb>genre/shows/10764</tmdb>
 </dir>
 <dir>
-  <title>Movie Box Office</title>
-  <trakt>https://api.trakt.tv/movies/boxoffice</trakt>
+  <title>TMDB On TV</title>
+  <tmdb>tv/on_tv</tmdb>
 </dir>

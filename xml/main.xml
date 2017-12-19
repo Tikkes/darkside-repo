@@ -118,4 +118,12 @@
     <title>Networks</title>
     <link>file://shared lists/networks.xml</link>
   </dir>
+<dir>
+    <title>Kids</title>
+    <link>file://shared lists/kids.xml</link>
+  </dir>
 
+<dir>
+    <title>Kids Boxsets</title>
+    <link>file://shared lists/kids_boxset.xml</link>
+  </dir>

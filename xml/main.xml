@@ -96,4 +96,7 @@
 <link>plugin://plugin.video.deathstar/?action=openSettings</link>
 <thumbnail></thumbnail>
 </plugin>
-
+<dir>
+  <title>TMDB Star Wars Collection</title>
+  <tmdb>collection/10</tmdb>
+</dir>

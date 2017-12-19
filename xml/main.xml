@@ -140,4 +140,12 @@
   <title>TMDB Sci-Fi & Fantasy</title>
   <tmdb>genre/shows/10765</tmdb>
 </dir>
+<dir>
+  <title>TMDB Kids</title>
+  <tmdb>genre/shows/10762</tmdb>
+</dir>
+<dir>
+  <title>TMDB Family</title>
+  <tmdb>genre/shows/10751</tmdb>
+</dir>
 

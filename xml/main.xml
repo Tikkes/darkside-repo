@@ -149,7 +149,4 @@
   <title>TMDB Family</title>
   <tmdb>genre/shows/10751</tmdb>
 </dir>
-<dir>
-  <title>Marvel Cinematic Universe Trakt</title>
-  <trakt>https://api.trakt.tv/users/donxy/lists/marvel-cinematic-universe</trakt>
-</dir>
+

@@ -338,7 +338,6 @@ def trakt_tv_show(trakt_id):
     xml, __builtin__.content_type = fetch_from_db(url) or (None, None)
     if not xml:
         xml = ""
-        __builtin__.content_type = "seasons"
         response = requests.get(url, headers=headers).json()
 
         if type(response) == list:
@@ -370,7 +369,6 @@ def trakt_season(slug):
     }
     xml, __builtin__.content_type = fetch_from_db(url) or (None, None)
     if not xml:
-        __builtin__.content_type = "episodes"
         xml = ""
         response = requests.get(url, headers=headers).json()
 
@@ -727,11 +725,6 @@ def remove_non_ascii(text):
 def save_to_db(item, url):
     if not item or not url:
         return False
-    if type(item) == tuple:
-        item = item[0]
-        content_type = item[1]
-    else:
-        content_type = None
     item = remove_non_ascii(item)
     koding.reset_db()
     koding.Remove_From_Table("trakt_plugin", {"url": url})
@@ -739,7 +732,6 @@ def save_to_db(item, url):
     koding.Add_To_Table("trakt_plugin", {
         "url": url,
         "item": pickle.dumps(item).replace("\"", "'"),
-        "content_type": content_type,
         "created": time.time()
     })
 
@@ -750,7 +742,6 @@ def fetch_from_db(url):
         "columns": {
             "url": "TEXT",
             "item": "TEXT",
-            "content_type": "TEXT",
             "created": "TEXT"
         },
         "constraints": {
@@ -773,19 +764,15 @@ def fetch_from_db(url):
                 except:
                     match_item = match_item.decode('utf-8').encode(
                         'ascii', 'ignore')
-                result = pickle.loads(match_item)
-                if type(result) == str and result.startswith("{"):
-                    result = eval(result)
-                return result
+                return pickle.loads(match_item)
         if created_time and float(created_time) + float(CACHE_TIME) >= time.time():
             match_item = match["item"].replace("'", "\"")
-            content_type = match["content_type"]
             try:
                 match_item = match_item.encode('ascii', 'ignore')
             except:
                 match_item = match_item.decode('utf-8').encode(
                     'ascii', 'ignore')
-            return (pickle.loads(match_item), content_type)
+            return pickle.loads(match_item)
         else:
             return []
     else:

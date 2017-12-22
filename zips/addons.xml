@@ -1,6 +1,6 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <addons>
-<addon id="plugin.video.deathstar" name="Project Death Star" version="0.0.3" provider-name="LaffinAtcha | Jen | Tikkes">
+<addon id="plugin.video.deathstar" name="Project Death Star" version="0.0.4" provider-name="LaffinAtcha | Jen | Tikkes">
     <requires>
         <import addon="xbmc.python" version="2.19.0" />
         <import addon="script.module.nanscrapers" version="0.5.5" />
@@ -24,5 +24,23 @@
         <website>www.noobsandnerds.com</website>
         <video_guide>xtOqLY5PJDY</video_guide>
     </extension>
+</addon>
+
+<addon id="repository.darkside" name="The Dark Side Repository" version="0.0.1" provider-name="laffinatcha - tikkes">
+	<extension point="xbmc.addon.repository" name="The Dark Side Repository">
+		<dir>
+			<info compressed="false">https://raw.githubusercontent.com/noobsandnerds/modules4all/master/zips/addons.xml</info>
+			<checksum>https://raw.githubusercontent.com/noobsandnerds/modules4all/master/zips/addons.xml.md5</checksum>
+			<datadir zip="true">https://raw.githubusercontent.com/noobsandnerds/modules4all/master/zips/</datadir>
+		</dir>
+		<info compressed="false">https://raw.githubusercontent.com/Tikkes/darkside-repo/master/zips/addons.xml</info>
+		<checksum>https://raw.githubusercontent.com/Tikkes/darkside-repo/master/zips/addons.xml.md5</checksum>
+		<datadir zip="true">https://raw.githubusercontent.com/Tikkes/darkside-repo/master/zips/</datadir>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary lang="en">The Dark Side Repository</summary>
+		<description lang="en">Home of the Death Star Addon</description>
+		<genre>movies,tvshows</genre>
+	</extension>
 </addon>
 </addons>

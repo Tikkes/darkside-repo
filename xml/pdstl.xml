@@ -20,3 +20,7 @@
 <title>Animation</title>
 <trakt>https://api.trakt.tv/users/movistapp/lists/animation/items</trakt>
 </dir>
+<dir>
+  <title>Rotten Tomatoes: Best of 2017</title>
+  <trakt>https://api.trakt.tv/users/lish408/lists/rotten-tomatoes-best-of-2017/items</trakt>
+</dir>

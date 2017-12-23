@@ -1,0 +1,26 @@
+<dir>
+  <title>TMDB Airing Today</title>
+  <tmdb>tv/today</tmdb>
+</dir>
+
+<dir>
+  <title>TMDB Animation Shows</title>
+  <tmdb>genre/shows/16</tmdb>
+</dir>
+
+<dir>
+  <title>TMDB Reality Shows</title>
+  <tmdb>genre/shows/10764</tmdb>
+</dir>
+<dir>
+  <title>TMDB Sci-Fi & Fantasy</title>
+  <tmdb>genre/shows/10765</tmdb>
+</dir>
+<dir>
+  <title>TMDB Kids</title>
+  <tmdb>genre/shows/10762</tmdb>
+</dir>
+<dir>
+  <title>TMDB Family</title>
+  <tmdb>genre/shows/10751</tmdb>
+</dir>

@@ -1,0 +1,87 @@
+
+################################################################################
+<poster>Tikkes</poster>
+<thumbnail></thumbnail>
+<fanart></fanart>
+################################################################################
+
+<dir>
+    <name>Mad Dogs Season 0</name>
+    <meta>
+        <content>season</content>
+        <imdb>tt1652218</imdb>
+        <tvdb>217071</tvdb>
+        <tvshowtitle>Mad Dogs</tvshowtitle>
+        <year>2011</year>
+        <season>0</season>
+    </meta>
+    <link>https://raw.githubusercontent.com/Tikkes/darkside-repo/master/xml/MadDogs/MadDogs00.xml</link>
+    <animated_thumbnail></animated_thumbnail>
+    <thumbnail></thumbnail>
+    <animated_fanart></animated_fanart>
+    <fanart></fanart>
+</dir>
+<dir>
+    <name>Mad Dogs Season 1</name>
+    <meta>
+        <content>season</content>
+        <imdb>tt1652218</imdb>
+        <tvdb>217071</tvdb>
+        <tvshowtitle>Mad Dogs</tvshowtitle>
+        <year>2011</year>
+        <season>1</season>
+    </meta>
+    <link>https://raw.githubusercontent.com/Tikkes/darkside-repo/master/xml/MadDogs/MadDogs01.xml</link>
+    <animated_thumbnail></animated_thumbnail>
+    <thumbnail></thumbnail>
+    <animated_fanart></animated_fanart>
+    <fanart></fanart>
+</dir>
+<dir>
+    <name>Mad Dogs Season 2</name>
+    <meta>
+        <content>season</content>
+        <imdb>tt1652218</imdb>
+        <tvdb>217071</tvdb>
+        <tvshowtitle>Mad Dogs</tvshowtitle>
+        <year>2011</year>
+        <season>2</season>
+    </meta>
+    <link>https://raw.githubusercontent.com/Tikkes/darkside-repo/master/xml/MadDogs/MadDogs02.xml</link>
+    <animated_thumbnail></animated_thumbnail>
+    <thumbnail></thumbnail>
+    <animated_fanart></animated_fanart>
+    <fanart></fanart>
+</dir>
+<dir>
+    <name>Mad Dogs Season 3</name>
+    <meta>
+        <content>season</content>
+        <imdb>tt1652218</imdb>
+        <tvdb>217071</tvdb>
+        <tvshowtitle>Mad Dogs</tvshowtitle>
+        <year>2011</year>
+        <season>3</season>
+    </meta>
+    <link>https://raw.githubusercontent.com/Tikkes/darkside-repo/master/xml/MadDogs/MadDogs03.xml</link>
+    <animated_thumbnail></animated_thumbnail>
+    <thumbnail></thumbnail>
+    <animated_fanart></animated_fanart>
+    <fanart></fanart>
+</dir>
+<dir>
+    <name>Mad Dogs Season 4</name>
+    <meta>
+        <content>season</content>
+        <imdb>tt1652218</imdb>
+        <tvdb>217071</tvdb>
+        <tvshowtitle>Mad Dogs</tvshowtitle>
+        <year>2011</year>
+        <season>4</season>
+    </meta>
+    <link>https://raw.githubusercontent.com/Tikkes/darkside-repo/master/xml/MadDogs/MadDogs04.xml</link>
+    <animated_thumbnail></animated_thumbnail>
+    <thumbnail></thumbnail>
+    <animated_fanart></animated_fanart>
+    <fanart></fanart>
+</dir>

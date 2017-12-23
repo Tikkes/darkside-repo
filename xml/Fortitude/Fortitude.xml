@@ -1,0 +1,55 @@
+
+################################################################################
+<poster>Tikkes</poster>
+<thumbnail></thumbnail>
+<fanart></fanart>
+################################################################################
+
+<dir>
+    <name>Fortitude Season 0</name>
+    <meta>
+        <content>season</content>
+        <imdb>tt3498622</imdb>
+        <tvdb>281976</tvdb>
+        <tvshowtitle>Fortitude</tvshowtitle>
+        <year>2015</year>
+        <season>0</season>
+    </meta>
+    <link>https://raw.githubusercontent.com/Tikkes/darkside-repo/master/xml/Fortitude/Fortitude00.xml</link>
+    <animated_thumbnail></animated_thumbnail>
+    <thumbnail></thumbnail>
+    <animated_fanart></animated_fanart>
+    <fanart></fanart>
+</dir>
+<dir>
+    <name>Fortitude Season 1</name>
+    <meta>
+        <content>season</content>
+        <imdb>tt3498622</imdb>
+        <tvdb>281976</tvdb>
+        <tvshowtitle>Fortitude</tvshowtitle>
+        <year>2015</year>
+        <season>1</season>
+    </meta>
+    <link>https://raw.githubusercontent.com/Tikkes/darkside-repo/master/xml/Fortitude/Fortitude01.xml</link>
+    <animated_thumbnail></animated_thumbnail>
+    <thumbnail></thumbnail>
+    <animated_fanart></animated_fanart>
+    <fanart></fanart>
+</dir>
+<dir>
+    <name>Fortitude Season 2</name>
+    <meta>
+        <content>season</content>
+        <imdb>tt3498622</imdb>
+        <tvdb>281976</tvdb>
+        <tvshowtitle>Fortitude</tvshowtitle>
+        <year>2015</year>
+        <season>2</season>
+    </meta>
+    <link>https://raw.githubusercontent.com/Tikkes/darkside-repo/master/xml/Fortitude/Fortitude02.xml</link>
+    <animated_thumbnail></animated_thumbnail>
+    <thumbnail></thumbnail>
+    <animated_fanart></animated_fanart>
+    <fanart></fanart>
+</dir>

@@ -1,0 +1,30 @@
+
+################################################################################
+<poster>Tikkes</poster>
+<cache>10800</poster>
+<thumbnail></thumbnail>
+<fanart></fanart>
+################################################################################
+
+<item>
+    <title>Mozart in the Jungle S04E01 - N/A</title>
+    <meta>
+        <content>episode</content>
+        <imdb>tt3502172</imdb>
+        <tvdb>278335</tvdb>
+        <tvshowtitle>Mozart in the Jungle</tvshowtitle>
+        <year>2018</year>
+        <title>N/A</title>
+        <premiered>2018-02-16</premiered>
+        <season>4</season>
+        <episode>1</episode>
+    </meta>
+    <link>
+        <sublink>search</sublink>
+        <sublink>searchsd</sublink>
+    </link>
+    <animated_thumbnail></animated_thumbnail>
+    <thumbnail></thumbnail>
+    <animated_fanart></animated_fanart>
+    <fanart></fanart>
+</item>

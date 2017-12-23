@@ -31,6 +31,51 @@
         <fanart>https://www.thetvdb.com/banners/fanart/original/324295-4.jpg</fanart>
 </dir>
 <dir>
+    <name>Betas</name>
+    <meta>
+        <content>tvshow</content>
+        <imdb>tt3012184</imdb>
+        <tvdb>269003</tvdb>
+        <tvshowtitle>Betas</tvshowtitle>
+	    <year>2013</year>
+    </meta>
+    <link>https://raw.githubusercontent.com/Tikkes/darkside-repo/master/xml/Betas/Betas.xml</link>
+    <animated_thumbnail></animated_thumbnail>
+    <thumbnail></thumbnail>
+    <animated_fanart></animated_fanart>
+    <fanart></fanart>
+</dir>
+<dir>
+    <name>Bosch</name>
+    <meta>
+        <content>tvshow</content>
+        <imdb>tt3502248</imdb>
+        <tvdb>277928</tvdb>
+        <tvshowtitle>Bosch</tvshowtitle>
+	    <year>2015</year>
+    </meta>
+    <link>https://raw.githubusercontent.com/Tikkes/darkside-repo/master/xml/Bosch/Bosch.xml</link>
+    <animated_thumbnail></animated_thumbnail>
+    <thumbnail></thumbnail>
+    <animated_fanart></animated_fanart>
+    <fanart></fanart>
+</dir>
+<dir>
+    <name>Catastrophe</name>
+    <meta>
+        <content>tvshow</content>
+        <imdb>tt1329590</imdb>
+        <tvdb>84047</tvdb>
+        <tvshowtitle>Catastrophe</tvshowtitle>
+        <year>2008</year>
+    </meta>
+    <link>https://raw.githubusercontent.com/Tikkes/darkside-repo/master/xml/Catastrophe/Catastrophe.xml</link>
+    <animated_thumbnail></animated_thumbnail>
+    <thumbnail></thumbnail>
+    <animated_fanart></animated_fanart>
+    <fanart></fanart>
+</dir>
+<dir>
         <title>Comrade Detective</title>
         <meta>
                 <content>tvshow</content>
@@ -76,21 +121,6 @@
         <fanart>https://www.thetvdb.com/banners/fanart/original/307343-1.jpg</fanart>
 </dir>
 <dir>
-        <title>Eat the World with Emeril Lagasse</title>
-        <meta>
-                <content>tvshow</content>
-        <imdb>tt5860892</imdb>
-        <tvdb>316461</tvdb>
-        <tvshowtitle>Eat the World with Emeril Lagasse</tvshowtitle>
-        <year>2016</year>
-    </meta>
-		<link>https://raw.githubusercontent.com/Tikkes/darkside-repo/master/xml/EattheWorldwithEmerilLagasse/EattheWorldwithEmerilLagasse.xml</link>
-        <animated_thumbnail></animated_thumbnail>
-        <thumbnail>https://www.thetvdb.com/banners/posters/316461-2.jpg</thumbnail>
-        <animated_fanart></animated_fanart>
-        <fanart>https://www.thetvdb.com/banners/fanart/original/316461-1.jpg</fanart>
-</dir>
-<dir>
         <title>Fearless (2017)</title>
         <meta>
                 <content>tvshow</content>
@@ -119,6 +149,21 @@
         <thumbnail>https://www.thetvdb.com/banners/posters/314614-3.jpg</thumbnail>
         <animated_fanart></animated_fanart>
         <fanart>https://www.thetvdb.com/banners/fanart/original/314614-4.jpg</fanart>
+</dir>
+<dir>
+    <name>Fortitude</name>
+    <meta>
+        <content>tvshow</content>
+        <imdb>tt3498622</imdb>
+        <tvdb>281976</tvdb>
+        <tvshowtitle>Fortitude</tvshowtitle>
+        <year>2015</year>
+    </meta>
+    <link>https://raw.githubusercontent.com/Tikkes/darkside-repo/master/xml/Fortitude/Fortitude.xml</link>
+    <animated_thumbnail></animated_thumbnail>
+    <thumbnail></thumbnail>
+    <animated_fanart></animated_fanart>
+    <fanart></fanart>
 </dir>
 <dir>
         <title>Goliath</title>
@@ -152,6 +197,66 @@
         <fanart>https://www.thetvdb.com/banners/fanart/original/315419-2.jpg</fanart>
 </dir>
 <dir>
+    <name>Hand of God</name>
+    <meta>
+        <content>tvshow</content>
+        <imdb>tt3973768</imdb>
+        <tvdb>284643</tvdb>
+        <tvshowtitle>Hand of God</tvshowtitle>
+        <year>2014</year>
+    </meta>
+    <link>https://raw.githubusercontent.com/Tikkes/darkside-repo/master/xml/HandofGod/HandofGod.xml</link>
+    <animated_thumbnail></animated_thumbnail>
+    <thumbnail></thumbnail>
+    <animated_fanart></animated_fanart>
+    <fanart></fanart>
+</dir>
+<dir>
+    <name>I Love Dick</name>
+    <meta>
+        <content>tvshow</content>
+        <imdb>tt5478730</imdb>
+        <tvdb>316951</tvdb>
+        <tvshowtitle>I Love Dick</tvshowtitle>
+        <year>2016</year>
+    </meta>
+    <link>https://raw.githubusercontent.com/Tikkes/darkside-repo/master/xml/ILoveDick/ILoveDick.xml</link>
+    <animated_thumbnail></animated_thumbnail>
+    <thumbnail></thumbnail>
+    <animated_fanart></animated_fanart>
+    <fanart></fanart>
+</dir>
+<dir>
+    <name>Jean-Claude Van Johnson</name>
+    <meta>
+        <content>tvshow</content>
+        <imdb>tt6682754</imdb>
+        <tvdb>317653</tvdb>
+        <tvshowtitle>Jean-Claude Van Johnson</tvshowtitle>
+        <year>2016</year>
+    </meta>
+    <link>https://raw.githubusercontent.com/Tikkes/darkside-repo/master/xml/JeanClaudeVanJohnson/JeanClaudeVanJohnson.xml</link>
+    <animated_thumbnail></animated_thumbnail>
+    <thumbnail></thumbnail>
+    <animated_fanart></animated_fanart>
+    <fanart></fanart>
+</dir>
+<dir>
+    <name>Long Strange Trip</name>
+    <meta>
+        <content>tvshow</content>
+        <imdb>tt4143508</imdb>
+        <tvdb>329795</tvdb>
+        <tvshowtitle>Long Strange Trip</tvshowtitle>
+        <year>2017</year>
+    </meta>
+    <link>https://raw.githubusercontent.com/Tikkes/darkside-repo/master/xml/LongStrangeTrip/LongStrangeTrip.xml</link>
+    <animated_thumbnail></animated_thumbnail>
+    <thumbnail></thumbnail>
+    <animated_fanart></animated_fanart>
+    <fanart></fanart>
+</dir>
+<dir>
         <title>Lore</title>
         <meta>
                 <content>tvshow</content>
@@ -165,6 +270,36 @@
         <thumbnail>https://www.thetvdb.com/banners/posters/334147-1.jpg</thumbnail>
         <animated_fanart></animated_fanart>
         <fanart>https://www.thetvdb.com/banners/fanart/original/334147-5.jpg</fanart>
+</dir>
+<dir>
+    <name>Mad Dogs</name>
+    <meta>
+        <content>tvshow</content>
+        <imdb>tt1652218</imdb>
+        <tvdb>217071</tvdb>
+        <tvshowtitle>Mad Dogs</tvshowtitle>
+        <year>2011</year>
+    </meta>
+    <link>https://raw.githubusercontent.com/Tikkes/darkside-repo/master/xml/MadDogs/MadDogs.xml</link>
+    <animated_thumbnail></animated_thumbnail>
+    <thumbnail></thumbnail>
+    <animated_fanart></animated_fanart>
+    <fanart></fanart>
+</dir>
+<dir>
+    <name>Mozart in the Jungle</name>
+    <meta>
+        <content>tvshow</content>
+        <imdb>tt3502172</imdb>
+        <tvdb>278335</tvdb>
+        <tvshowtitle>Mozart in the Jungle</tvshowtitle>
+        <year>2014</year>
+    </meta>
+    <link>https://raw.githubusercontent.com/Tikkes/darkside-repo/master/xml/MozartintheJungle/MozartintheJungle.xml</link>
+    <animated_thumbnail></animated_thumbnail>
+    <thumbnail></thumbnail>
+    <animated_fanart></animated_fanart>
+    <fanart></fanart>
 </dir>
 <dir>
         <title>One Mississippi</title>
@@ -212,6 +347,51 @@
         <fanart>https://www.thetvdb.com/banners/fanart/original/284641-4.jpg</fanart>
 </dir>
 <dir>
+    <name>Sneaky Pete</name>
+    <meta>
+        <content>tvshow</content>
+        <imdb>tt5011816</imdb>
+        <tvdb>300166</tvdb>
+        <tvshowtitle>Sneaky Pete</tvshowtitle>
+        <year>2017</year>
+    </meta>
+    <link>https://raw.githubusercontent.com/Tikkes/darkside-repo/master/xml/SneakyPete/SneakyPete.xml</link>
+    <animated_thumbnail></animated_thumbnail>
+    <thumbnail></thumbnail>
+    <animated_fanart></animated_fanart>
+    <fanart></fanart>
+</dir>
+<dir>
+    <name>The Collection</name>
+    <meta>
+        <content>tvshow</content>
+        <imdb>tt5239494</imdb>
+        <tvdb>314374</tvdb>
+        <tvshowtitle>The Collection</tvshowtitle>
+        <year>2016</year>
+    </meta>
+    <link>https://raw.githubusercontent.com/Tikkes/darkside-repo/master/xml/TheCollection/TheCollection.xml</link>
+    <animated_thumbnail></animated_thumbnail>
+    <thumbnail></thumbnail>
+    <animated_fanart></animated_fanart>
+    <fanart></fanart>
+</dir>
+<dir>
+    <name>The Last Post</name>
+    <meta>
+        <content>tvshow</content>
+        <imdb>tt5133742</imdb>
+        <tvdb>334984</tvdb>
+        <tvshowtitle>The Last Post</tvshowtitle>
+        <year>2017</year>
+    </meta>
+    <link>https://raw.githubusercontent.com/Tikkes/darkside-repo/master/xml/TheLastPost/TheLastPost.xml</link>
+    <animated_thumbnail></animated_thumbnail>
+    <thumbnail></thumbnail>
+    <animated_fanart></animated_fanart>
+    <fanart></fanart>
+</dir>
+<dir>
         <title>The Last Tycoon</title>
         <meta>
                 <content>tvshow</content>
@@ -227,6 +407,21 @@
         <fanart>https://www.thetvdb.com/banners/fanart/original/315364-1.jpg</fanart>
 </dir>
 <dir>
+    <name>The Man in the High Castle</name>
+    <meta>
+        <content>tvshow</content>
+        <imdb>tt1740299</imdb>
+        <tvdb>295829</tvdb>
+        <tvshowtitle>The Man in the High Castle</tvshowtitle>
+        <year>2015</year>
+    </meta>
+    <link>https://raw.githubusercontent.com/Tikkes/darkside-repo/master/xml/TheManintheHighCastle/TheManintheHighCastle.xml</link>
+    <animated_thumbnail></animated_thumbnail>
+    <thumbnail></thumbnail>
+    <animated_fanart></animated_fanart>
+    <fanart></fanart>
+</dir>
+<dir>
         <title>The Marvelous Mrs. Maisel</title>
         <meta>
                 <content>tvshow</content>
@@ -240,6 +435,21 @@
         <thumbnail>https://www.thetvdb.com/banners/posters/326791-3.jpg</thumbnail>
         <animated_fanart></animated_fanart>
         <fanart>https://www.thetvdb.com/banners/fanart/original/326791-3.jpg</fanart>
+</dir>
+<dir>
+    <name>The New Yorker Presents</name>
+    <meta>
+        <content>tvshow</content>
+        <imdb>tt4115864</imdb>
+        <tvdb>305947</tvdb>
+        <tvshowtitle>The New Yorker Presents</tvshowtitle>
+        <year>2016</year>
+    </meta>
+    <link>https://raw.githubusercontent.com/Tikkes/darkside-repo/master/xml/TheNewYorkerPresents/TheNewYorkerPresents.xml</link>
+    <animated_thumbnail></animated_thumbnail>
+    <thumbnail></thumbnail>
+    <animated_fanart></animated_fanart>
+    <fanart></fanart>
 </dir>
 <dir>
         <title>The Tick (2016)</title>
@@ -270,4 +480,34 @@
         <thumbnail>https://www.thetvdb.com/banners/posters/325720-2.jpg</thumbnail>
         <animated_fanart></animated_fanart>
         <fanart>https://www.thetvdb.com/banners/fanart/original/325720-1.jpg</fanart>
+</dir>
+<dir>
+    <name>You Are Wanted</name>
+    <meta>
+        <content>tvshow</content>
+        <imdb>tt5462886</imdb>
+        <tvdb>323033</tvdb>
+        <tvshowtitle>You Are Wanted</tvshowtitle>
+        <year>2017</year>
+    </meta>
+    <link>https://raw.githubusercontent.com/Tikkes/darkside-repo/master/xml/YouAreWanted/YouAreWanted.xml</link>
+    <animated_thumbnail></animated_thumbnail>
+    <thumbnail></thumbnail>
+    <animated_fanart></animated_fanart>
+    <fanart></fanart>
+</dir>
+<dir>
+    <name>Z: The Beginning of Everything</name>
+    <meta>
+        <content>tvshow</content>
+        <imdb>tt4878612</imdb>
+        <tvdb>313880</tvdb>
+        <tvshowtitle>Z: The Beginning of Everything</tvshowtitle>
+        <year>2015</year>
+    </meta>
+    <link>https://raw.githubusercontent.com/Tikkes/darkside-repo/master/xml/ZTheBeginningofEverything/ZTheBeginningofEverything.xml</link>
+    <animated_thumbnail></animated_thumbnail>
+    <thumbnail></thumbnail>
+    <animated_fanart></animated_fanart>
+    <fanart></fanart>
 </dir>

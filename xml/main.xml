@@ -85,39 +85,17 @@
      <fanart></fanart>
 </dir>
 <dir>
+     <name>TMDB Lists</name>
+     <link>https://raw.githubusercontent.com/Tikkes/darkside-repo/master/xml/pdstl.xml</link>
+     <animated_thumbnail></animated_thumbnail>
+     <thumbnail></thumbnail>
+     <animated_fanart></animated_fanart>
+     <fanart></fanart>
+</dir>
+<dir>
     <title>Kids Boxsets</title>
     <link>file://shared lists/kids_boxset.xml</link>
   </dir>
-<dir>
-  <title>TMDB Airing Today</title>
-  <tmdb>tv/today</tmdb>
-</dir>
-
-<dir>
-  <title>TMDB Animation Shows</title>
-  <tmdb>genre/shows/16</tmdb>
-</dir>
-
-<dir>
-  <title>TMDB Reality Shows</title>
-  <tmdb>genre/shows/10764</tmdb>
-</dir>
-<dir>
-  <title>TMDB Sci-Fi & Fantasy</title>
-  <tmdb>genre/shows/10765</tmdb>
-</dir>
-<dir>
-  <title>TMDB Kids</title>
-  <tmdb>genre/shows/10762</tmdb>
-</dir>
-<dir>
-  <title>TMDB Family</title>
-  <tmdb>genre/shows/10751</tmdb>
-</dir>
-<dir>
-  <title>Rotten Tomatoes: Best of 2017</title>
-  <trakt>https://api.trakt.tv/users/lish408/lists/rotten-tomatoes-best-of-2017/items</trakt>
-</dir>
 <dir>
         <name>In A Galaxy Far Far Away</name>
         <link>https://raw.githubusercontent.com/Tikkes/darkside-repo/master/xml/starwars.xml</link>

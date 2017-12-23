@@ -36,6 +36,11 @@
         <fanart></fanart>
 </dir>
 <dir>
+    <title>Networks</title>
+    <link>file://shared lists/networks.xml</link>
+	<thumbnail>https://i.imgur.com/8xnkiXy.png</thumbnail>
+  </dir>
+<dir>
         <name>AMAZON PRIME VIDEO (TV Series)</name>
         <link>https://raw.githubusercontent.com/Tikkes/darkside-repo/master/xml/apos.xml</link>
         <animated_thumbnail></animated_thumbnail>
@@ -89,11 +94,6 @@
   <title>Popular Shows</title>
   <trakt>https://api.trakt.tv/shows/popular</trakt>
 </dir>
-<dir>
-    <title>Networks</title>
-    <link>file://shared lists/networks.xml</link>
-	<thumbnail>https://i.imgur.com/8xnkiXy.png</thumbnail>
-  </dir>
 <dir>
     <title>Kids Boxsets</title>
     <link>file://shared lists/kids_boxset.xml</link>

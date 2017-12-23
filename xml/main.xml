@@ -16,7 +16,7 @@
         <name>Movies</name>
         <link>https://raw.githubusercontent.com/Tikkes/darkside-repo/master/xml/Latest-Movies.xml</link>
         <animated_thumbnail></animated_thumbnail>
-        <thumbnail>http://www.techweck.com/wp-content/uploads/2017/03/Movies_Logo_500x281.jpg</thumbnail>
+        <thumbnail>https://i.imgur.com/1fpQMxJ.png</thumbnail>
 		<summary>Latest Releases</summary>
         <animated_fanart></animated_fanart>
         <fanart>https://cdn-images-1.medium.com/max/1920/1*nQ0Eik4GJR9cEc7qE_8mfg.jpeg</fanart>
@@ -25,7 +25,7 @@
         <name>TV Shows</name>
         <link>https://raw.githubusercontent.com/Tikkes/darkside-repo/master/xml/TV-favs.xml</link>
         <animated_thumbnail></animated_thumbnail>
-        <thumbnail>https://i.imgur.com/tC4lWvx.png</thumbnail>
+        <thumbnail>https://i.imgur.com/zqPquS3.png</thumbnail>
 		<summary>GeekSpeak2TNG Favorite Tv Series</summary>
         <animated_fanart></animated_fanart>
         <fanart></fanart>
@@ -52,7 +52,7 @@
         <name>AMAZON PRIME VIDEO (TV Series)</name>
         <link>https://raw.githubusercontent.com/Tikkes/darkside-repo/master/xml/apos.xml</link>
         <animated_thumbnail></animated_thumbnail>
-        <thumbnail>https://i.imgur.com/UpoDxTY.png</thumbnail>
+        <thumbnail>https://i.imgur.com/PxcYjg4.png</thumbnail>
 		<summary>Amazon Original TV Series</summary>
         <animated_fanart></animated_fanart>
         <fanart>https://i.imgur.com/Ft3xnED.jpg</fanart>
@@ -70,7 +70,7 @@
         <name>NETFLIX ORIGINALS (Movies)</name>
         <link>https://raw.githubusercontent.com/Tikkes/darkside-repo/master/xml/nfom.xml</link>
         <animated_thumbnail></animated_thumbnail>
-        <thumbnail>https://i.imgur.com/lGG9h46.png</thumbnail>
+        <thumbnail>https://i.imgur.com/6zsBlwF.png</thumbnail>
 		<summary>Netflix Original Movies</summary>
         <animated_fanart></animated_fanart>
         <fanart>https://i.imgur.com/P0lHRGz.jpg</fanart>
@@ -79,7 +79,7 @@
         <name>NETFLIX ORIGINALS (TV Series)</name>
         <link>https://raw.githubusercontent.com/Tikkes/darkside-repo/master/xml/nfos.xml</link>
         <animated_thumbnail></animated_thumbnail>
-        <thumbnail>https://i.imgur.com/lGG9h46.png</thumbnail>
+        <thumbnail>https://i.imgur.com/6zsBlwF.png</thumbnail>
 		<summary>Netflix original tv series</summary>
         <animated_fanart></animated_fanart>
         <fanart>https://i.imgur.com/xKhtP3i.jpg</fanart>
@@ -120,6 +120,7 @@
 <dir>
     <title>Networks</title>
     <link>file://shared lists/networks.xml</link>
+	<thumbnail>https://i.imgur.com/8xnkiXy.png</thumbnail>
   </dir>
 <dir>
     <title>Kids Boxsets</title>

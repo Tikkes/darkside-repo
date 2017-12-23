@@ -1,24 +1,24 @@
 <dir>
-  <title>TMDB Popular</title>
+  <title>TMDB TV Popular</title>
   <tmdb>tv/popular</tmdb>
 </dir>
 
 <dir>
-  <title>TMDB Top Rated</title>
+  <title>TMDB TV Top Rated</title>
   <tmdb>tv/top_rated</tmdb>
 </dir>
 <dir>
-  <title>TMDB Airing Today</title>
+  <title>TMDB TV Airing Today</title>
   <tmdb>tv/today</tmdb>
 </dir>
 
 <dir>
-  <title>TMDB Animation Shows</title>
+  <title>TMDB TV Animation Shows</title>
   <tmdb>genre/shows/16</tmdb>
 </dir>
 
 <dir>
-  <title>TMDB Reality Shows</title>
+  <title>TMDB TV Reality Shows</title>
   <tmdb>genre/shows/10764</tmdb>
 </dir>
 <dir>
@@ -32,4 +32,18 @@
 <dir>
   <title>TMDB Family</title>
   <tmdb>genre/shows/10751</tmdb>
+</dir>
+<dir>
+  <title>TMDB Popular</title>
+  <tmdb>movies/popular</tmdb>
+</dir>
+
+<dir>
+  <title>TMDB Now Playing</title>
+  <tmdb>movies/now_playing</tmdb>
+</dir>
+
+<dir>
+  <title>TMDB Top Rated</title>
+  <tmdb>movies/top_rated</tmdb>
 </dir>

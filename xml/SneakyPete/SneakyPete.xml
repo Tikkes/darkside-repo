@@ -1,0 +1,55 @@
+
+################################################################################
+<poster>Tikkes</poster>
+<thumbnail></thumbnail>
+<fanart></fanart>
+################################################################################
+
+<dir>
+    <name>Sneaky Pete Season 0</name>
+    <meta>
+        <content>season</content>
+        <imdb>tt5011816</imdb>
+        <tvdb>300166</tvdb>
+        <tvshowtitle>Sneaky Pete</tvshowtitle>
+        <year>2017</year>
+        <season>0</season>
+    </meta>
+    <link>https://raw.githubusercontent.com/Tikkes/darkside-repo/master/xml/SneakyPete/SneakyPete00.xml</link>
+    <animated_thumbnail></animated_thumbnail>
+    <thumbnail></thumbnail>
+    <animated_fanart></animated_fanart>
+    <fanart></fanart>
+</dir>
+<dir>
+    <name>Sneaky Pete Season 1</name>
+    <meta>
+        <content>season</content>
+        <imdb>tt5011816</imdb>
+        <tvdb>300166</tvdb>
+        <tvshowtitle>Sneaky Pete</tvshowtitle>
+        <year>2017</year>
+        <season>1</season>
+    </meta>
+    <link>https://raw.githubusercontent.com/Tikkes/darkside-repo/master/xml/SneakyPete/SneakyPete01.xml</link>
+    <animated_thumbnail></animated_thumbnail>
+    <thumbnail></thumbnail>
+    <animated_fanart></animated_fanart>
+    <fanart></fanart>
+</dir>
+<dir>
+    <name>Sneaky Pete Season 2</name>
+    <meta>
+        <content>season</content>
+        <imdb>tt5011816</imdb>
+        <tvdb>300166</tvdb>
+        <tvshowtitle>Sneaky Pete</tvshowtitle>
+        <year>2017</year>
+        <season>2</season>
+    </meta>
+    <link>https://raw.githubusercontent.com/Tikkes/darkside-repo/master/xml/SneakyPete/SneakyPete02.xml</link>
+    <animated_thumbnail></animated_thumbnail>
+    <thumbnail></thumbnail>
+    <animated_fanart></animated_fanart>
+    <fanart></fanart>
+</dir>

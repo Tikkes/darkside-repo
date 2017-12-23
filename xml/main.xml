@@ -95,6 +95,10 @@
   <trakt>https://api.trakt.tv/shows/popular</trakt>
 </dir>
 <dir>
+<title>Animation</title>
+<trakt>https://api.trakt.tv/users/movistapp/lists/animation/items</trakt>
+</dir>
+<dir>
     <title>Kids Boxsets</title>
     <link>file://shared lists/kids_boxset.xml</link>
   </dir>

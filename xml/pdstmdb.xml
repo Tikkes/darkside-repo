@@ -33,7 +33,3 @@
   <title>TMDB Family</title>
   <tmdb>genre/shows/10751</tmdb>
 </dir>
-<dir>
-  <title>TMDB Movies Now Playing</title>
-  <tmdb>movie/now-playing</tmdb>
-</dir>

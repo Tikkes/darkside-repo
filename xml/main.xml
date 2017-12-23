@@ -2,6 +2,11 @@
 <poster>LaffinAtcha</poster>
 ##############################################################################################################################
 
+<plugin>
+<name>Project Death Star Settings</name>
+<link>plugin://plugin.video.deathstar/?action=openSettings</link>
+<thumbnail>https://i.imgur.com/wCz1Jck.png</thumbnail>
+</plugin>
 <dir>
   <title>Search TMDB</title>
   <tmdb>search</tmdb>
@@ -31,24 +36,6 @@
         <fanart></fanart>
 </dir>
 <dir>
-        <name>In A Galaxy Far Far Away</name>
-        <link>https://raw.githubusercontent.com/Tikkes/darkside-repo/master/xml/starwars.xml</link>
-        <animated_thumbnail>https://media.giphy.com/media/HVKS99ls9v04M/giphy.gif</animated_thumbnail>
-        <thumbnail>https://i.imgur.com/Al3RVmu.png</thumbnail>
-		<summary>Star Wars Library</summary>
-        <animated_fanart></animated_fanart>
-        <fanart>http://cdn.pcwallart.com/images/boba-fett-and-darth-vader-wallpaper-3.jpg</fanart>
-</dir>
-<dir>
-        <name>Hogwarts School of Witchcraft and Wizardry</name>
-        <link>https://raw.githubusercontent.com/Tikkes/darkside-repo/master/xml/harrypotter.xml</link>
-        <animated_thumbnail></animated_thumbnail>
-        <thumbnail>https://i.imgur.com/KMXRWXW.png</thumbnail>
-		<summary>Harry Potter Library</summary>
-        <animated_fanart></animated_fanart>
-        <fanart>https://i.imgur.com/dMKZ8Dd.jpg</fanart>
-</dir>
-<dir>
         <name>AMAZON PRIME VIDEO (TV Series)</name>
         <link>https://raw.githubusercontent.com/Tikkes/darkside-repo/master/xml/apos.xml</link>
         <animated_thumbnail></animated_thumbnail>
@@ -61,7 +48,7 @@
         <name>HULU ORIGINALS (TV Series)</name>
         <link>https://raw.githubusercontent.com/Tikkes/darkside-repo/master/xml/hots.xml</link>
         <animated_thumbnail></animated_thumbnail>
-        <thumbnail>https://i.imgur.com/7SDPsTc.png</thumbnail>
+        <thumbnail>https://i.imgur.com/kzEHnHs.png</thumbnail>
 		<summary>Hulu original tv series</summary>
         <animated_fanart></animated_fanart>
         <fanart>https://i.imgur.com/m9MuYAX.jpg</fanart>
@@ -84,21 +71,6 @@
         <animated_fanart></animated_fanart>
         <fanart>https://i.imgur.com/xKhtP3i.jpg</fanart>
 </dir>
-
-<dir>
-        <name>Star Trek Collection</name>
-        <link>https://raw.githubusercontent.com/Tikkes/darkside-repo/master/xml/stc.xml</link>
-        <animated_thumbnail></animated_thumbnail>
-        <thumbnail></thumbnail>
-		<summary>Star Trek tv series collection</summary>
-        <animated_fanart></animated_fanart>
-        <fanart></fanart>
-</dir>
-<plugin>
-<name>Project Death Star Settings</name>
-<link>plugin://plugin.video.deathstar/?action=openSettings</link>
-<thumbnail></thumbnail>
-</plugin>
 <dir>
   <title>Trending Movies</title>
   <trakt>https://api.trakt.tv/movies/trending</trakt>
@@ -156,4 +128,30 @@
   <title>Rotten Tomatoes: Best of 2017</title>
   <trakt>https://api.trakt.tv/users/lish408/lists/rotten-tomatoes-best-of-2017/items</trakt>
 </dir>
-
+<dir>
+        <name>In A Galaxy Far Far Away</name>
+        <link>https://raw.githubusercontent.com/Tikkes/darkside-repo/master/xml/starwars.xml</link>
+        <animated_thumbnail>https://media.giphy.com/media/HVKS99ls9v04M/giphy.gif</animated_thumbnail>
+        <thumbnail>https://i.imgur.com/Al3RVmu.png</thumbnail>
+		<summary>Star Wars Library</summary>
+        <animated_fanart></animated_fanart>
+        <fanart>http://cdn.pcwallart.com/images/boba-fett-and-darth-vader-wallpaper-3.jpg</fanart>
+</dir>
+<dir>
+        <name>Hogwarts School of Witchcraft and Wizardry</name>
+        <link>https://raw.githubusercontent.com/Tikkes/darkside-repo/master/xml/harrypotter.xml</link>
+        <animated_thumbnail></animated_thumbnail>
+        <thumbnail>https://i.imgur.com/KMXRWXW.png</thumbnail>
+		<summary>Harry Potter Library</summary>
+        <animated_fanart></animated_fanart>
+        <fanart>https://i.imgur.com/dMKZ8Dd.jpg</fanart>
+</dir>
+<dir>
+        <name>Star Trek Collection</name>
+        <link>https://raw.githubusercontent.com/Tikkes/darkside-repo/master/xml/stc.xml</link>
+        <animated_thumbnail></animated_thumbnail>
+        <thumbnail></thumbnail>
+		<summary>Star Trek tv series collection</summary>
+        <animated_fanart></animated_fanart>
+        <fanart></fanart>
+</dir>

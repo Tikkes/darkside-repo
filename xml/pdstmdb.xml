@@ -47,3 +47,12 @@
   <title>TMDB Top Rated</title>
   <tmdb>movies/top_rated</tmdb>
 </dir>
+<dir>
+    <title>Movie Genres</title>
+    <link>file://shared lists/genre_movies.xml</link>
+  </dir>
+  
+<dir>
+    <title>Movie Years</title>
+    <link>file://shared lists/movie_years.xml</link>
+  </dir>

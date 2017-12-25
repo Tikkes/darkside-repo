@@ -18,7 +18,7 @@
 	<thumbnail>https://i.imgur.com/o477myZ.png</thumbnail>
 </dir>
 <dir>
-        <name>Movies</name>
+        <name>MOVIES</name>
         <link>https://raw.githubusercontent.com/Tikkes/darkside-repo/master/xml/Latest-Movies.xml</link>
         <animated_thumbnail></animated_thumbnail>
         <thumbnail>https://i.imgur.com/1fpQMxJ.png</thumbnail>
@@ -27,7 +27,7 @@
         <fanart>https://cdn-images-1.medium.com/max/1920/1*nQ0Eik4GJR9cEc7qE_8mfg.jpeg</fanart>
 </dir>
 <dir>
-        <name>TV Shows</name>
+        <name>TV SHOWS</name>
         <link>https://raw.githubusercontent.com/Tikkes/darkside-repo/master/xml/TV-favs.xml</link>
         <animated_thumbnail></animated_thumbnail>
         <thumbnail>https://i.imgur.com/zqPquS3.png</thumbnail>
@@ -77,7 +77,7 @@
         <fanart>https://i.imgur.com/xKhtP3i.jpg</fanart>
 </dir>
 <dir>
-     <name>Trakt Lists</name>
+     <name>TRAKT Lists</name>
      <link>https://raw.githubusercontent.com/Tikkes/darkside-repo/master/xml/pdstl.xml</link>
      <animated_thumbnail></animated_thumbnail>
      <thumbnail>https://i.imgur.com/B1SwEC9.png</thumbnail>
@@ -118,8 +118,8 @@
         <name>Star Trek Collection</name>
         <link>https://raw.githubusercontent.com/Tikkes/darkside-repo/master/xml/stc.xml</link>
         <animated_thumbnail></animated_thumbnail>
-        <thumbnail></thumbnail>
+        <thumbnail>https://www.thetvdb.com/banners/posters/77526-3.jpg</thumbnail>
 		<summary>Star Trek tv series collection</summary>
         <animated_fanart></animated_fanart>
-        <fanart></fanart>
+        <fanart>https://i.imgur.com/m48nOl9.jpg</fanart>
 </dir>

@@ -12,7 +12,7 @@
   <tmdb>tv/today</tmdb>
 </dir>
 <dir>
-    <title>TMDB Tv Genres</title>
+    <title>TMDB TV Genres</title>
     <link>file://shared lists/genre_tv.xml</link>
   </dir>
 

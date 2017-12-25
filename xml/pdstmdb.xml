@@ -15,48 +15,26 @@
     <title>TMDB TV Genres</title>
     <link>file://shared lists/genre_tv.xml</link>
   </dir>
-
 <dir>
-  <title>TMDB TV Animation Shows</title>
-  <tmdb>genre/shows/16</tmdb>
-</dir>
-
-<dir>
-  <title>TMDB TV Reality Shows</title>
-  <tmdb>genre/shows/10764</tmdb>
-</dir>
-<dir>
-  <title>TMDB Sci-Fi & Fantasy</title>
-  <tmdb>genre/shows/10765</tmdb>
-</dir>
-<dir>
-  <title>TMDB Kids</title>
-  <tmdb>genre/shows/10762</tmdb>
-</dir>
-<dir>
-  <title>TMDB Family</title>
-  <tmdb>genre/shows/10751</tmdb>
-</dir>
-<dir>
-  <title>TMDB Popular</title>
+  <title>TMDB Movies Popular</title>
   <tmdb>movies/popular</tmdb>
 </dir>
 
 <dir>
-  <title>TMDB Now Playing</title>
+  <title>TMDB Movies Now Playing</title>
   <tmdb>movies/now_playing</tmdb>
 </dir>
 
 <dir>
-  <title>TMDB Top Rated</title>
+  <title>TMDB Movies Top Rated</title>
   <tmdb>movies/top_rated</tmdb>
 </dir>
 <dir>
-    <title>Movie Genres</title>
+    <title>TMBD Movie Genres</title>
     <link>file://shared lists/genre_movies.xml</link>
   </dir>
   
 <dir>
-    <title>Movie Years</title>
+    <title>TMBD Movie Years</title>
     <link>file://shared lists/movie-years.xml</link>
   </dir>

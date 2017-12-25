@@ -11,6 +11,10 @@
   <title>TMDB TV Airing Today</title>
   <tmdb>tv/today</tmdb>
 </dir>
+<dir>
+    <title>Tv Genres</title>
+    <link>file://shared lists/genres_tv.xml</link>
+  </dir>
 
 <dir>
   <title>TMDB TV Animation Shows</title>

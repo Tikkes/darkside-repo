@@ -5,6 +5,75 @@
 #####################################################################################################################################
 
 <item>
+        <title>Marshall (2017)</title>
+        <meta>
+                <content>movie</content>
+                <imdb>tt5301662</imdb>
+                <title>Marshall</title>
+                <year>2017</year>
+        </meta>
+        <link>
+                <sublink>search</sublink>
+                <sublink>searchsd</sublink>
+        </link>
+        <animated_thumbnail></animated_thumbnail>
+        <thumbnail>https://image.tmdb.org/t/p/original/2z9oNW3TE5H5woLozFwfxlRRc0b.jpg</thumbnail>
+        <animated_fanart></animated_fanart>
+        <fanart>https://image.tmdb.org/t/p/original/kIxqYXdVbWvU4jt6jYrataAUWmR.jpg</fanart>
+</item>
+<item>
+        <title>I, Tonya (2017)</title>
+        <meta>
+                <content>movie</content>
+                <imdb>tt5580036</imdb>
+                <title>I, Tonya</title>
+                <year>2017</year>
+        </meta>
+        <link>
+                <sublink>search</sublink>
+                <sublink>searchsd</sublink>
+        </link>
+        <animated_thumbnail></animated_thumbnail>
+        <thumbnail>https://image.tmdb.org/t/p/original/6gNXwSHxaksR1PjVZRqNapmkgj3.jpg</thumbnail>
+        <animated_fanart></animated_fanart>
+        <fanart>https://image.tmdb.org/t/p/original/gXIuss4Ajlex0E6iJPjkSTR8Qip.jpg</fanart>
+</item>
+
+<item>
+        <title>Last Flag Flying (2017)</title>
+        <meta>
+                <content>movie</content>
+                <imdb>tt6018306</imdb>
+                <title>Last Flag Flying</title>
+                <year>2017</year>
+        </meta>
+        <link>
+                <sublink>search</sublink>
+                <sublink>searchsd</sublink>
+        </link>
+        <animated_thumbnail></animated_thumbnail>
+        <thumbnail>https://image.tmdb.org/t/p/original/pizynKUzJ9YucGff1O1MYisY1WM.jpg</thumbnail>
+        <animated_fanart></animated_fanart>
+        <fanart>https://image.tmdb.org/t/p/original/xHPH0QvysNtrJA3HkFI0rtOKYm1.jpg</fanart>
+</item>
+<item>
+        <title>Paddington 2 (2017)</title>
+        <meta>
+                <content>movie</content>
+                <imdb>tt4468740</imdb>
+                <title>Paddington 2</title>
+                <year>2017</year>
+        </meta>
+        <link>
+                <sublink>search</sublink>
+                <sublink>searchsd</sublink>
+        </link>
+        <animated_thumbnail></animated_thumbnail>
+        <thumbnail>https://image.tmdb.org/t/p/original/bU5pSpQfXRmqDd6jthmP8iWJOjd.jpg</thumbnail>
+        <animated_fanart></animated_fanart>
+        <fanart>https://image.tmdb.org/t/p/original/vaFoWh0kBDrsqFVzgeWg7ayaBrr.jpg</fanart>
+</item>
+<item>
         <title>Ferdinand (2017)</title>
         <meta>
                 <content>movie</content>

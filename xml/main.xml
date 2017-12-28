@@ -133,6 +133,6 @@
         <fanart></fanart>
 </dir>
 <dir>
-<title>PDS Requests</title>
+<title>PDS requests</title>
 <trakt>https://api.trakt.tv/users/laffinatcha/lists/pds/items</trakt>
 </dir>

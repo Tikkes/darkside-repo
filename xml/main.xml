@@ -132,4 +132,7 @@
         <animated_fanart></animated_fanart>
         <fanart></fanart>
 </dir>
-
+<dir>
+<title>MOVIE/TV REQUESTS LIST</title>
+<trakt>https://api.trakt.tv/users/laffinatcha/lists/laffinatcha-s-list-for-pds</trakt>
+</dir>

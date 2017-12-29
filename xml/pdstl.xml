@@ -24,3 +24,7 @@
   <title>Rotten Tomatoes: Best of 2017</title>
   <trakt>https://api.trakt.tv/users/lish408/lists/rotten-tomatoes-best-of-2017/items</trakt>
 </dir>
+<dir>
+<title>The CW</title>
+<trakt>https://api.trakt.tv/users/sg0/lists/the-cw/items</trakt>
+</dir>

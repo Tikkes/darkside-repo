@@ -5,6 +5,40 @@
 #####################################################################################################################################
 
 <item>
+        <title>Downsizing (2017)</title>
+        <meta>
+                <content>movie</content>
+                <imdb>tt1389072</imdb>
+                <title>Downsizing</title>
+                <year>2017</year>
+        </meta>
+        <link>
+                <sublink>search</sublink>
+                <sublink>searchsd</sublink>
+        </link>
+        <animated_thumbnail></animated_thumbnail>
+        <thumbnail>https://image.tmdb.org/t/p/original/uLlmtN33rMuimRq6bu0OoNzCGGs.jpg</thumbnail>
+        <animated_fanart></animated_fanart>
+        <fanart>https://image.tmdb.org/t/p/original/5RzW9i3vFsXCPLqYwgNJV1QuSgk.jpg</fanart>
+</item>
+<item>
+        <title>Call Me by Your Name (2017)</title>
+        <meta>
+                <content>movie</content>
+                <imdb>tt5726616</imdb>
+                <title>Call Me by Your Name</title>
+                <year>2017</year>
+        </meta>
+        <link>
+                <sublink>search</sublink>
+                <sublink>searchsd</sublink>
+        </link>
+        <animated_thumbnail></animated_thumbnail>
+        <thumbnail>https://image.tmdb.org/t/p/original/tcNniniS4rfqrLH0oORikJfnIwY.jpg</thumbnail>
+        <animated_fanart></animated_fanart>
+        <fanart>https://image.tmdb.org/t/p/original/64OtTrXNyLwbqWBcd9JBsJmZb7w.jpg</fanart>
+</item>
+<item>
         <title>Marshall (2017)</title>
         <meta>
                 <content>movie</content>

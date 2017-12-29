@@ -38,3 +38,13 @@
     <title>TMBD Movie Years</title>
     <link>file://shared lists/movie-years.xml</link>
   </dir>
+<dir>
+  <title>The CW</title>
+  <tmdb>network/shows/71</tmdb>
+  <thumbnail></thumbnail>
+  <fantart></fantart>
+</dir>
+<dir>
+<title>The CW</title>
+<tmdb>network/71</tmdb>
+</dir>

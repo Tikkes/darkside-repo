@@ -136,7 +136,4 @@
 <title>Trakt Requests Test</title>
 <trakt>https://api.trakt.tv/users/laffinatcha/lists/pds/items</trakt>
 </dir>
-<dir>
-<title>TMBD Requests Test</title>
-<tmdb>list/43022</tmdb>
-</dir>
+

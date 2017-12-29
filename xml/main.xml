@@ -132,8 +132,5 @@
         <animated_fanart></animated_fanart>
         <fanart></fanart>
 </dir>
-<dir>
-<title>Trakt Requests Test</title>
-<trakt>https://api.trakt.tv/users/laffinatcha/lists/pds/items</trakt>
-</dir>
+
 

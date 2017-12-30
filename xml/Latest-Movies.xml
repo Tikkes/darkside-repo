@@ -5,6 +5,23 @@
 #####################################################################################################################################
 
 <item>
+        <title>The Florida Project (2017)</title>
+        <meta>
+                <content>movie</content>
+                <imdb>tt5649144</imdb>
+                <title>The Florida Project</title>
+                <year>2017</year>
+        </meta>
+        <link>
+                <sublink>search</sublink>
+                <sublink>searchsd</sublink>
+        </link>
+        <animated_thumbnail></animated_thumbnail>
+        <thumbnail>https://image.tmdb.org/t/p/original/bnSTP1PY2fDyat0eUa4QouuGV7F.jpg</thumbnail>
+        <animated_fanart></animated_fanart>
+        <fanart>https://image.tmdb.org/t/p/original/grkrB7yXn7Dj5kBhe4I7RX6uEH9.jpg</fanart>
+</item>
+<item>
         <title>Downsizing (2017)</title>
         <meta>
                 <content>movie</content>

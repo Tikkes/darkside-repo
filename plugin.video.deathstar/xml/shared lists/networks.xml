@@ -44,13 +44,6 @@
 </dir>
 
 <dir>
-  <title>BET</title>
-  <tmdb>network/shows/24</tmdb>
-  <thumbnail></thumbnail>
-  <fantart></fantart>
-</dir>
-
-<dir>
   <title>Bravo</title>
   <tmdb>network/shows/312</tmdb>
   <thumbnail></thumbnail>
@@ -130,13 +123,6 @@
 <dir>
   <title>Discovery</title>
   <tmdb>network/shows/64</tmdb>
-  <thumbnail></thumbnail>
-  <fantart></fantart>
-</dir>
-
-<dir>
-  <title>Discovery Kids</title>
-  <tmdb>network/shows/22</tmdb>
   <thumbnail></thumbnail>
   <fantart></fantart>
 </dir>
@@ -289,13 +275,6 @@
 </dir>
 
 <dir>
-  <title>Nick Jr</title>
-  <tmdb>network/shows/35</tmdb>
-  <thumbnail></thumbnail>
-  <fantart></fantart>
-</dir>
-
-<dir>
   <title>Oxygen</title>
   <tmdb>network/shows/132</tmdb>
   <thumbnail></thumbnail>
@@ -305,13 +284,6 @@
 <dir>
   <title>PBS</title>
   <tmdb>network/shows/14</tmdb>
-  <thumbnail></thumbnail>
-  <fantart></fantart>
-</dir>
-
-<dir>
-  <title>PBS Kids</title>
-  <tmdb>network/shows/122</tmdb>
   <thumbnail></thumbnail>
   <fantart></fantart>
 </dir>

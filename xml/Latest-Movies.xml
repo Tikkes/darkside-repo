@@ -5,6 +5,23 @@
 #####################################################################################################################################
 
 <item>
+        <title>The Disaster Artist (2017)</title>
+        <meta>
+                <content>movie</content>
+                <imdb>tt3521126</imdb>
+                <title>The Disaster Artist</title>
+                <year>2017</year>
+        </meta>
+        <link>
+                <sublink>search</sublink>
+                <sublink>searchsd</sublink>
+        </link>
+        <animated_thumbnail></animated_thumbnail>
+        <thumbnail>https://image.tmdb.org/t/p/original/uCH6FOFsDW6pfvbbmIIswuvuNtM.jpg</thumbnail>
+        <animated_fanart></animated_fanart>
+        <fanart>https://image.tmdb.org/t/p/original/bAI7aPHQcvSZXvt7L11kMJdS0Gm.jpg</fanart>
+</item>
+<item>
         <title>The Florida Project (2017)</title>
         <meta>
                 <content>movie</content>

@@ -18,3 +18,9 @@
   <thumbnail></thumbnail>
   <fantart></fantart>
 </dir>
+
+<plugin>
+<title></title>
+<link>plugin://plugin.video.youtube/channel/UC-9-kyTW8ZkZNDHQJ6FgpwQ/playlists/</link>
+<thumbnail></thumbnail>
+</plugin>

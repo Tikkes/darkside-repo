@@ -33,9 +33,17 @@
 
 
 <plugin>
-<title>NFL streams</title>
+<title>NFL streams (didnt work)</title>
 <link>plugin://plugin.video.reddit_viewer/?mode=listSubReddit&amp;type=nflstreams&amp;url=https%3a%2f%2fwww.reddit.com%2fr%2fnflstreams%2f.json%3f%26limit%3d50</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <content></content>
+</plugin>
+
+<plugin>
+<name>hockey test</name>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.sportshd.me/nhl/2017020595/h</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<summary></summary>
 </plugin>

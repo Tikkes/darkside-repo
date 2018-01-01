@@ -30,3 +30,12 @@
 <link>plugin://plugin.video.youtube/playlist/PLFgquLnL59altZg1f_Kr1kGUYE6j-NE0M/</link>
 <thumbnail></thumbnail>
 </plugin>
+
+
+<plugin>
+<title>Reddit Soccer Streams</title>
+<link>plugin://plugin.video.reddit_viewer/?mode=listSubReddit&amp;type=soccerstreams&amp;url=https%3a%2f%2fwww.reddit.com%2fr%2fsoccerstreams%2f.json%3f%26limit%3d50</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<content></content>
+</plugin>

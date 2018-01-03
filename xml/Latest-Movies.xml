@@ -3,11 +3,7 @@
 <thumbnail></thumbnail>
 <fanart></fanart>
 #####################################################################################################################################
-<plugin>
-<name>Search PDS Movies</name>
-<link>plugin://plugin.video.deathstar/?action=search</link>
-<thumbnail>https://i.imgur.com/Bu8JarK.png</thumbnail>
-</plugin>
+
 
 <item>
         <title>The Greatest Showman (2017)</title>

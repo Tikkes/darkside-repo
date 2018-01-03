@@ -7,6 +7,11 @@
 <link>plugin://plugin.video.deathstar/?action=openSettings</link>
 <thumbnail>https://i.imgur.com/wCz1Jck.png</thumbnail>
 </plugin>
+<plugin>
+<name>Search PDS</name>
+<link>plugin://plugin.video.deathstar/?action=search</link>
+<thumbnail></thumbnail>
+</plugin>
 <dir>
   <title>Search TMDB</title>
   <tmdb>search</tmdb>

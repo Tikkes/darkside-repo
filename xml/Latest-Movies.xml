@@ -4,7 +4,23 @@
 <fanart></fanart>
 #####################################################################################################################################
 
-
+<item>
+        <title>Wonder Wheel</title>
+        <meta>
+                <content>movie</content>
+                <imdb>tt5825380</imdb>
+                <title>Wonder Wheel</title>
+                <year>2017</year>
+        </meta>
+        <link>
+                <sublink>search</sublink>
+                <sublink>searchsd</sublink>
+        </link>
+        <animated_thumbnail></animated_thumbnail>
+        <thumbnail>https://image.tmdb.org/t/p/w640/fPXn8SW4pa4kJErAIAJLmb3Znns.jpg</thumbnail>
+		<animated_fanart></animated_fanart>
+        <fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/aIpIXxRglCjkjMbl7DgqkchjvQ3.jpg</fanart>
+</item>
 <item>
         <title>The Greatest Showman (2017)</title>
         <meta>

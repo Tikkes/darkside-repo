@@ -7,17 +7,61 @@
 ################################################################################
 
 <item>
-    <title>9-1-1 S01E01 - N/A</title>
+    <title>9-1-1 S01E01 - Pilot</title>
     <meta>
         <content>episode</content>
         <imdb>tt7235466</imdb>
         <tvdb>337907</tvdb>
         <tvshowtitle>9-1-1</tvshowtitle>
         <year>2018</year>
-        <title>N/A</title>
+        <title>Pilot</title>
         <premiered>2018-01-03</premiered>
         <season>1</season>
         <episode>1</episode>
+    </meta>
+    <link>
+        <sublink>search</sublink>
+        <sublink>searchsd</sublink>
+    </link>
+    <animated_thumbnail></animated_thumbnail>
+    <thumbnail></thumbnail>
+    <animated_fanart></animated_fanart>
+    <fanart></fanart>
+</item>
+<item>
+    <title>9-1-1 S01E02 - Let Go</title>
+    <meta>
+        <content>episode</content>
+        <imdb>tt7235466</imdb>
+        <tvdb>337907</tvdb>
+        <tvshowtitle>9-1-1</tvshowtitle>
+        <year>2018</year>
+        <title>Let Go</title>
+        <premiered>2018-01-10</premiered>
+        <season>1</season>
+        <episode>2</episode>
+    </meta>
+    <link>
+        <sublink>search</sublink>
+        <sublink>searchsd</sublink>
+    </link>
+    <animated_thumbnail></animated_thumbnail>
+    <thumbnail></thumbnail>
+    <animated_fanart></animated_fanart>
+    <fanart></fanart>
+</item>
+<item>
+    <title>9-1-1 S01E03 - Next Of Kin</title>
+    <meta>
+        <content>episode</content>
+        <imdb>tt7235466</imdb>
+        <tvdb>337907</tvdb>
+        <tvshowtitle>9-1-1</tvshowtitle>
+        <year>2018</year>
+        <title>Next Of Kin</title>
+        <premiered>2018-01-17</premiered>
+        <season>1</season>
+        <episode>3</episode>
     </meta>
     <link>
         <sublink>search</sublink>

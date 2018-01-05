@@ -31,3 +31,7 @@
 <thumbnail></thumbnail>
 </plugin>
 
+<dir>
+<title>logo</title>
+<tmdb>network/62</tmdb>
+</dir>

@@ -31,7 +31,3 @@
 <thumbnail></thumbnail>
 </plugin>
 
-<dir>
-<title>requests test</title>
-<trakt>https://api.trakt.tv/users/laffinatcha/lists/pds/items</trakt>
-</dir>

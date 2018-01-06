@@ -5,6 +5,125 @@
 #####################################################################################################################################
 
 <item>
+        <title>Wonder Wheel (2017)</title>
+        <meta>
+                <content>movie</content>
+                <imdb>tt5825380</imdb>
+                <title>Wonder Wheel</title>
+                <year>2017</year>
+        </meta>
+        <link>
+                <sublink>search</sublink>
+                <sublink>searchsd</sublink>
+        </link>
+        <animated_thumbnail></animated_thumbnail>
+        <thumbnail>https://image.tmdb.org/t/p/w640/fPXn8SW4pa4kJErAIAJLmb3Znns.jpg</thumbnail>
+		<animated_fanart></animated_fanart>
+        <fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/aIpIXxRglCjkjMbl7DgqkchjvQ3.jpg</fanart>
+</item>
+<item>
+        <title>The Greatest Showman (2017)</title>
+        <meta>
+                <content>movie</content>
+                <imdb>tt1485796</imdb>
+                <title>The Greatest Showman</title>
+                <year>2017</year>
+        </meta>
+        <link>
+                <sublink>search</sublink>
+                <sublink>searchsd</sublink>
+        </link>
+        <animated_thumbnail></animated_thumbnail>
+        <thumbnail>https://image.tmdb.org/t/p/original/dfhztJRiElqmYW4kpvjYe1gENsD.jpg</thumbnail>
+        <animated_fanart></animated_fanart>
+        <fanart>https://image.tmdb.org/t/p/original/mm2bP2C2KjleM817t35wDjrnhlC.jpg</fanart>
+</item>
+<item>
+        <title>Darkest Hour (2017)</title>
+        <meta>
+                <content>movie</content>
+                <imdb>tt4555426</imdb>
+                <title>Darkest Hour</title>
+                <year>2017</year>
+        </meta>
+        <link>
+                <sublink>search</sublink>
+                <sublink>searchsd</sublink>
+        </link>
+        <animated_thumbnail></animated_thumbnail>
+        <thumbnail>https://image.tmdb.org/t/p/original/67fPL6ZaiOeM4hYqpxqV9Py8psJ.jpg</thumbnail>
+        <animated_fanart></animated_fanart>
+        <fanart>https://image.tmdb.org/t/p/original/zXwFJMwvQcJFitP9GcHZvHAHGe8.jpg</fanart>
+</item>
+<item>
+        <title>Father Figures (2017)</title>
+        <meta>
+                <content>movie</content>
+                <imdb>tt1966359</imdb>
+                <title>Father Figures</title>
+                <year>2017</year>
+        </meta>
+        <link>
+                <sublink>search</sublink>
+                <sublink>searchsd</sublink>
+        </link>
+        <animated_thumbnail></animated_thumbnail>
+        <thumbnail>https://image.tmdb.org/t/p/original/bEHOthoB2UqCIiUzhnHnLMXbRuJ.jpg</thumbnail>
+        <animated_fanart></animated_fanart>
+        <fanart>https://image.tmdb.org/t/p/original/xfZZ0Dk2bOxOz1C8T8OQVRGGGIq.jpg</fanart>
+</item>
+<item>
+        <title>The Shape of Water (2017)</title>
+        <meta>
+                <content>movie</content>
+                <imdb>tt5580390</imdb>
+                <title>The Shape of Water</title>
+                <year>2017</year>
+        </meta>
+        <link>
+                <sublink>search</sublink>
+                <sublink>searchsd</sublink>
+        </link>
+        <animated_thumbnail></animated_thumbnail>
+        <thumbnail>https://image.tmdb.org/t/p/original/iLYLADGA5oKGM92Ns1j9CDgk3iI.jpg</thumbnail>
+        <animated_fanart></animated_fanart>
+        <fanart>https://image.tmdb.org/t/p/original/82CVGkxgTZGX6WoCsXsAwNE2g6Y.jpg</fanart>
+</item>
+<item>
+        <title>The Disaster Artist (2017)</title>
+        <meta>
+                <content>movie</content>
+                <imdb>tt3521126</imdb>
+                <title>The Disaster Artist</title>
+                <year>2017</year>
+        </meta>
+        <link>
+                <sublink>search</sublink>
+                <sublink>searchsd</sublink>
+        </link>
+        <animated_thumbnail></animated_thumbnail>
+        <thumbnail>https://image.tmdb.org/t/p/original/uCH6FOFsDW6pfvbbmIIswuvuNtM.jpg</thumbnail>
+        <animated_fanart></animated_fanart>
+        <fanart>https://image.tmdb.org/t/p/original/bAI7aPHQcvSZXvt7L11kMJdS0Gm.jpg</fanart>
+</item>
+<item>
+        <title>The Florida Project (2017)</title>
+        <meta>
+                <content>movie</content>
+                <imdb>tt5649144</imdb>
+                <title>The Florida Project</title>
+                <year>2017</year>
+        </meta>
+        <link>
+                <sublink>search</sublink>
+                <sublink>searchsd</sublink>
+        </link>
+        <animated_thumbnail></animated_thumbnail>
+        <thumbnail>https://image.tmdb.org/t/p/original/bnSTP1PY2fDyat0eUa4QouuGV7F.jpg</thumbnail>
+        <animated_fanart></animated_fanart>
+        <fanart>https://image.tmdb.org/t/p/original/grkrB7yXn7Dj5kBhe4I7RX6uEH9.jpg</fanart>
+</item>
+<item>
         <title>Downsizing (2017)</title>
         <meta>
                 <content>movie</content>

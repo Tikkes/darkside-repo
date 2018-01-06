@@ -4,3 +4,50 @@
 <thumbnail></thumbnail>
 </item>
 
+
+<dir>
+  <title>YTR</title>
+  <tmdb>network/shows/1436</tmdb>
+  <thumbnail></thumbnail>
+  <fantart></fantart>
+</dir>
+
+<dir>
+  <title>AS</title>
+  <tmdb>network/shows/80</tmdb>
+  <thumbnail></thumbnail>
+  <fantart></fantart>
+</dir>
+
+<plugin>
+<title>EDM</title>
+<link>plugin://plugin.video.youtube/playlist/PLFgquLnL59akYpPgfxzsw5jlPZ9R6HewT/</link>
+<thumbnail></thumbnail>
+</plugin>
+
+<plugin>
+<title>Pop List</title>
+<link>plugin://plugin.video.youtube/playlist/PLFgquLnL59altZg1f_Kr1kGUYE6j-NE0M/</link>
+<thumbnail></thumbnail>
+</plugin>
+
+<dir>
+<title>logo</title>
+  <tmdb>network/shows/62</tmdb>
+</dir>
+
+<dir>
+        <name>[COLORred]Music Choice Videos[/COLOR][COLORred][/COLOR] - 24/7 Commercial-Free Music Video Channels</name>
+        <link>https://raw.githubusercontent.com/Tikkes/darkside-repo/master/xml/musicchoicevideo.xml</link>
+        <thumbnail>https://cdn1.thr.com/sites/default/files/imagecache/landscape_928x523/2012/02/music-choice-mc_logo.jpg</thumbnail>
+        <fanart>http://www.slopemedia.org/wp-content/uploads/2017/03/wallhaven-84294.jpg</fanart>
+        <summary>75 commercial-free music channels, 25 music video channels</summary>
+</dir>
+
+<dir>
+        <name>[COLORred]Music Choice Channels[/COLOR][COLORred][/COLOR] - 24/7 Commercial-Free Music Channels</name>
+        <link>https://raw.githubusercontent.com/Tikkes/darkside-repo/master/xml/musicchoice.xml</link>
+        <thumbnail>https://cdn1.thr.com/sites/default/files/imagecache/landscape_928x523/2012/02/music-choice-mc_logo.jpg</thumbnail>
+        <fanart>http://www.slopemedia.org/wp-content/uploads/2017/03/wallhaven-84294.jpg</fanart>
+        <summary>75 commercial-free music channels, 25 music video channels</summary>
+</dir>

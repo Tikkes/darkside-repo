@@ -35,3 +35,11 @@
 <title>logo</title>
   <tmdb>network/shows/62</tmdb>
 </dir>
+
+<dir>
+        <name>[COLORred]Id10t Videos[/COLOR][COLORred][/COLOR] - 24/7 Commercial-Free Music Video Channels</name>
+        <link>http://yourdomain.ca/musicchoicevideo.xml</link>
+        <thumbnail>https://cdn1.thr.com/sites/default/files/imagecache/landscape_928x523/2012/02/music-choice-mc_logo.jpg</thumbnail>
+        <fanart>http://www.slopemedia.org/wp-content/uploads/2017/03/wallhaven-84294.jpg</fanart>
+        <summary>75 commercial-free music channels, 25 music video channels</summary>
+</dir>

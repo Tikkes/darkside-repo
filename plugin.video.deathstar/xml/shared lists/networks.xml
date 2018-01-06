@@ -226,13 +226,6 @@
 </dir>
 
 <dir>
-  <title>Logo</title>
-  <tmdb>network/shows/62</tmdb>
-  <thumbnail></thumbnail>
-  <fantart></fantart>
-</dir>
-
-<dir>
   <title>MTV</title>
   <tmdb>network/shows/33</tmdb>
   <thumbnail></thumbnail>
@@ -270,13 +263,6 @@
 <dir>
   <title>Nickelodeon</title>
   <tmdb>network/shows/13</tmdb>
-  <thumbnail></thumbnail>
-  <fantart></fantart>
-</dir>
-
-<dir>
-  <title>Oxygen</title>
-  <tmdb>network/shows/132</tmdb>
   <thumbnail></thumbnail>
   <fantart></fantart>
 </dir>

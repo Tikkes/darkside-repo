@@ -23,13 +23,13 @@
 <thumbnail></thumbnail>
 </item>
 
-    <dir>
-    <title>Nbc </title>
-    <thumbnail></thumbnail>
-    <m3u>http://live.field59.com/wjfw1/ngrp:wjfw1_all/playlist.m3u8</m3u>
-    <fanart></fanart>
-    <info> </info>
-    </dir>
+<plugin>
+<name></name>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.field59.com/wjfw1/ngrp:wjfw1_all/playlist.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<summary></summary>
+</plugin>
 
 
 

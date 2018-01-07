@@ -1,25 +1,25 @@
 
 <item>
-<title>NFL Titans vs Chiefs</title>
-<link>https://www.youtube.com/watch?v=1ZgPtdrAccg</link>
+<title>empty</title>
+<link></link>
 <thumbnail></thumbnail>
 </item>
 
 <item>
-<title>NFL Titans vs Chiefs yt link 2</title>
-<link>https://www.youtube.com/watch?v=nQw2lHpuldQ&feature=youtu.be</link>
+<title>empty</title>
+<link></link>
 <thumbnail></thumbnail>
 </item>
 
 <item>
-<title>NFL Titans vs Chiefs yt link 3</title>
-<link>https://www.youtube.com/watch?v=l5bfxty4M-4</link>
+<title>empty</title>
+<link></link>
 <thumbnail></thumbnail>
 </item>
 
 
 <plugin> 
-<title>[B][COLORlimegreen]Rams vs Falcons new link[/COLOR][/B]</title> 
+<title>[B][COLORlimegreen]NBC[/COLOR][/B]</title> 
 <link>
 <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.streamlive.to/view/57956/NBC-(HD)</sublink></link> 
 <thumbnail></thumbnail> 
@@ -27,14 +27,14 @@
 </plugin>
 
 <item> 
-<title>NBC Rams vs Falcons</title> 
+<title>NBC</title> 
 <link>http://live.field59.com/wjfw1/ngrp:wjfw1_all/playlist.m3u8</link> 
 <thumbnail></thumbnail> 
 <fanart></fanart> 
 <info></info> 
 </item>
 <item> 
-<title>NBC Rams vs Falcons link 3</title> 
+<title>NBCSN</title> 
 <link>http://sprtlive19.akamaized.net/hls/live/586430/nbc-sports0106151716/exp=1515373510~acl=%2Fhls%2Flive%2F586430*~data=hdntl~hmac=925f7ada2a17438b6876b066c432bb3b013db347f7870f84046ccf0133489e12/OTT19_VIDEO_0_5564000.m3u8</link> 
 <thumbnail></thumbnail> 
 <fanart></fanart> 

@@ -92,3 +92,11 @@
         <fanart>http://www.slopemedia.org/wp-content/uploads/2017/03/wallhaven-84294.jpg</fanart>
         <summary>75 commercial-free music channels, 25 music video channels</summary>
 </dir>
+
+<plugin> 
+<title>[B][COLORlimegreen]HBO[/COLOR][/B]</title> 
+<link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.streamlive.to/view/36674/HBO-(HD)</sublink></link> 
+<thumbnail></thumbnail> 
+<fanart></fanart> 
+</plugin>

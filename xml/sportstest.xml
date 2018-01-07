@@ -17,11 +17,14 @@
 <thumbnail></thumbnail>
 </item>
 
-<item>
-<title>NFL Rams vs Falcons YT link 1 (click after game starts)</title>
-<link>https://www.youtube.com/watch?v=XvCMjbHBivA&feature=youtu.be</link>
-<thumbnail></thumbnail>
-</item>
+
+<plugin> 
+<title>[B][COLORlimegreen]Rams vs Falcons new link[/COLOR][/B]</title> 
+<link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.streamlive.to/view/57956/NBC-(HD)</sublink></link> 
+<thumbnail></thumbnail> 
+<fanart></fanart> 
+</plugin>
 
 <item> 
 <title>NBC Rams vs Falcons</title> 

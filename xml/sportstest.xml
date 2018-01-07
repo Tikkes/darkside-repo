@@ -107,3 +107,10 @@
 <thumbnail></thumbnail> 
 <fanart></fanart> 
 </plugin>
+<plugin> 
+<title>[B][COLORlimegreen]Starz[/COLOR][/B]</title> 
+<link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.streamlive.to/view/73003/StarZ-(HD)</sublink></link> 
+<thumbnail></thumbnail> 
+<fanart></fanart> 
+</plugin>

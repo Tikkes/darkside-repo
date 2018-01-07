@@ -114,3 +114,27 @@
 <thumbnail></thumbnail> 
 <fanart></fanart> 
 </plugin>
+
+<plugin> 
+<title>[B][COLORlimegreen]ABC HD[/COLOR][/B]</title> 
+<link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://gomostream.com/channel/46476</sublink></link> 
+<thumbnail></thumbnail> 
+<fanart></fanart> 
+</plugin>
+
+<plugin> 
+<title>[B][COLORlimegreen][/COLOR][/B]</title> 
+<link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=</sublink></link> 
+<thumbnail></thumbnail> 
+<fanart></fanart> 
+</plugin>
+
+<plugin> 
+<title>[B][COLORlimegreen][/COLOR][/B]</title> 
+<link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=</sublink></link> 
+<thumbnail></thumbnail> 
+<fanart></fanart> 
+</plugin>

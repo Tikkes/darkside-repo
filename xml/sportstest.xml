@@ -24,7 +24,7 @@
 </item>
 
 <plugin>
-<name></name>
+<name>NBC test</name>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.field59.com/wjfw1/ngrp:wjfw1_all/playlist.m3u8</link>
 <thumbnail></thumbnail>
 <fanart></fanart>

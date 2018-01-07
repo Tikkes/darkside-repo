@@ -23,14 +23,21 @@
 <thumbnail></thumbnail>
 </item>
 
-<plugin>
-<name>NBC test</name>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.field59.com/wjfw1/ngrp:wjfw1_all/playlist.m3u8</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<summary></summary>
-</plugin>
+<item> 
+<title>NBC Rams vs Falcons</title> 
+<link>http://live.field59.com/wjfw1/ngrp:wjfw1_all/playlist.m3u8</link> 
+<thumbnail></thumbnail> 
+<fanart></fanart> 
+<info></info> 
+</item>
 
+<dir> 
+<title>M3U NAME</title> 
+<m3u>LINK</m3u> 
+<thumbnail></thumbnail> 
+<fanart></fanart> 
+<info></info> 
+</dir>
 
 
 <dir>

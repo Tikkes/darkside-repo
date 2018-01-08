@@ -1,4 +1,9 @@
 
+<dir>
+<title>test playboy list</title>
+<trakt>https://api.trakt.tv/users/aclo_networks/lists/tv-shows-playboy-tv/items</trakt>
+</dir>
+
 <item>
 <title>NFL Playoffs link1</title>
 <link>http://wslive2.welovesports.xyz/welovesports1.m3u8</link>

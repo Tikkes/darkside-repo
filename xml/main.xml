@@ -113,8 +113,8 @@
         <name>Sports Link Test Area</name>
         <link>https://raw.githubusercontent.com/Tikkes/darkside-repo/master/xml/sportstest.xml</link>
         <animated_thumbnail></animated_thumbnail>
-        <thumbnail>https://i.imgur.com/qqDlVcB.png</thumbnail>
-		<summary>https://i.imgur.com/v3q6WIw.png</summary>
+        <thumbnail>https://i.imgur.com/v3q6WIw.png</thumbnail>
+		<summary>Test stuff</summary>
         <animated_fanart></animated_fanart>
         <fanart></fanart>
 </dir>

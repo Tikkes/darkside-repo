@@ -21,7 +21,7 @@
      <name>MOOKDOG'S KILLER SCREENERS (Direct Links)</name>
      <link>https://raw.githubusercontent.com/Tikkes/darkside-repo/master/xml/screeners.xml</link>
      <animated_thumbnail></animated_thumbnail>
-     <thumbnail></thumbnail>
+     <thumbnail>https://i.imgur.com/qqDlVcB.png</thumbnail>
      <animated_fanart></animated_fanart>
      <fanart></fanart>
 </dir>
@@ -96,7 +96,7 @@
      <name>TMDB LISTS</name>
      <link>https://raw.githubusercontent.com/Tikkes/darkside-repo/master/xml/pdstmdb.xml</link>
      <animated_thumbnail></animated_thumbnail>
-     <thumbnail></thumbnail>
+     <thumbnail>https://i.imgur.com/qqDlVcB.png</thumbnail>
      <animated_fanart></animated_fanart>
      <fanart></fanart>
 </dir>
@@ -104,7 +104,7 @@
         <name>PDS Collections/Boxsets</name>
         <link>https://raw.githubusercontent.com/Tikkes/darkside-repo/master/xml/collections.xml</link>
         <animated_thumbnail></animated_thumbnail>
-        <thumbnail></thumbnail>
+        <thumbnail>https://i.imgur.com/qqDlVcB.png</thumbnail>
 		<summary>Collections</summary>
         <animated_fanart></animated_fanart>
         <fanart></fanart>
@@ -113,7 +113,7 @@
         <name>Sports Link Test Area</name>
         <link>https://raw.githubusercontent.com/Tikkes/darkside-repo/master/xml/sportstest.xml</link>
         <animated_thumbnail></animated_thumbnail>
-        <thumbnail></thumbnail>
+        <thumbnail>https://i.imgur.com/qqDlVcB.png</thumbnail>
 		<summary>Testing sports links</summary>
         <animated_fanart></animated_fanart>
         <fanart></fanart>

@@ -19,6 +19,15 @@
         <fanart>https://i.imgur.com/dMKZ8Dd.jpg</fanart>
 </dir>
 <dir>
+        <name>Lord Of The Rings Trilogy</name>
+        <link>https://raw.githubusercontent.com/Tikkes/darkside-repo/master/xml/lotr.xml</link>
+        <animated_thumbnail></animated_thumbnail>
+        <thumbnail></thumbnail>
+		<summary>LOTR</summary>
+        <animated_fanart></animated_fanart>
+        <fanart></fanart>
+</dir>
+<dir>
         <name>Star Trek Collection</name>
         <link>https://raw.githubusercontent.com/Tikkes/darkside-repo/master/xml/stc.xml</link>
         <animated_thumbnail></animated_thumbnail>

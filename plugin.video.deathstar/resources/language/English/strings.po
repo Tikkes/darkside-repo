@@ -1,6 +1,6 @@
-# Addon Name: Death Star
-# Addon id: plugin.video.deathstar
-# Addon Provider: Team LaffinAtcha
+# Addon Name: Jen Unleashed
+# Addon id: plugin.video.jen.unleased
+# Addon Provider: Team Jen
 msgid ""
 msgstr ""
 "Project-Id-Version: Jen\n"

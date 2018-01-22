@@ -3,7 +3,7 @@
 # Addon Provider: LaffinAtcha
 msgid ""
 msgstr ""
-"Project-Id-Version: 0.1.5\n"
+"Project-Id-Version: 0.1.6\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Language-Team: English\n"

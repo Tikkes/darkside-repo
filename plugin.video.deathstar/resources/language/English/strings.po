@@ -1,9 +1,9 @@
-# Addon Name: Jen Unleashed
-# Addon id: plugin.video.jen.unleased
-# Addon Provider: Team Jen
+# Addon Name: Project Death Star
+# Addon id: plugin.video.deathstar
+# Addon Provider: LaffinAtcha
 msgid ""
 msgstr ""
-"Project-Id-Version: Jen\n"
+"Project-Id-Version: 0.1.5\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Language-Team: English\n"

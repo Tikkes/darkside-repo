@@ -1,9 +1,9 @@
-# Addon Name: Project Death Star
+# Addon Name: Death Star
 # Addon id: plugin.video.deathstar
-# Addon Provider: LaffinAtcha
+# Addon Provider: Team LaffinAtcha
 msgid ""
 msgstr ""
-"Project-Id-Version: 0.1.6\n"
+"Project-Id-Version: Jen\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Language-Team: English\n"

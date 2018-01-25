@@ -28,7 +28,6 @@ __builtin__.trakt_client_id = "00f654ec74b92deeaa3184d83296107f36e10738ca028407b
 __builtin__.trakt_client_secret = "fa2320769ad374bf7a29916e4e87a11d8a4253b13a4bdec0528b651b66738279"  # trakt client secret
 __builtin__.search_db_location = ""  # location of search db
 
-
 import os
 import sys
 
@@ -187,6 +186,15 @@ def clear_cache():
     xbmc.log("running hook:", xbmc.LOGNOTICE)
     run_hook("clear_cache")
 
+@route(mode="RunScript", args=["url"])
+def run_script(url):
+    import xbmcgui
+    if url.startswith("special://"):
+        url = xbmc.translatePath(url)
+    hdr = xbmcaddon.Addon().getAddonInfo("name")
+    msg = "Are you sure?"
+    if xbmcgui.Dialog().yesno(hdr, msg):
+        xbmc.executebuiltin("RunScript({0})".format(url))
 
 def get_addon_url(mode, url=""):
     import urllib

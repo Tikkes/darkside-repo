@@ -17,14 +17,7 @@
   <trakt>search</trakt>
 	<thumbnail>https://i.imgur.com/o477myZ.png</thumbnail>
 </dir>
-<dir>
-     <name>[COLOR gold][B]PDS LIVE[/COLOR][/B]</name>
-     <link>https://raw.githubusercontent.com/Tikkes/darkside-repo/master/xml/live.xml</link>
-     <animated_thumbnail></animated_thumbnail>
-     <thumbnail>https://i.imgur.com/5ptmzJD.png</thumbnail>
-     <animated_fanart></animated_fanart>
-     <fanart></fanart>
-</dir>
+
 <dir>
      <name>[COLOR gold][B]PDS SCREENERS[/COLOR][/B] (Direct Links)</name>
      <link>https://raw.githubusercontent.com/Tikkes/darkside-repo/master/xml/screeners.xml</link>

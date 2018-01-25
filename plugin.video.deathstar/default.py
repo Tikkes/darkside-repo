@@ -159,6 +159,15 @@ def resolver_settings():
     xbmcaddon.Addon('script.module.urlresolver').openSettings()
 
 
+@route(mode="ClearTraktAccount")
+def clear_trakt_account():
+    import xbmcgui
+    if xbmcgui.Dialog().yesno(addon_name, "{0} Trakt {1}. {2}".format(_("Delete"), _("Settings").lower(), _("Are you sure?"))):
+        xbmcaddon.Addon().setSetting("TRAKT_EXPIRES_AT", "")
+        xbmcaddon.Addon().setSetting("TRAKT_ACCESS_TOKEN", "")
+        xbmcaddon.Addon().setSetting("TRAKT_REFRESH_TOKEN", "")
+
+
 @route(mode="message", args=["url"])
 def show_message(message):
     import xbmcgui
@@ -186,15 +195,6 @@ def clear_cache():
     xbmc.log("running hook:", xbmc.LOGNOTICE)
     run_hook("clear_cache")
 
-@route(mode="RunScript", args=["url"])
-def run_script(url):
-    import xbmcgui
-    if url.startswith("special://"):
-        url = xbmc.translatePath(url)
-    hdr = xbmcaddon.Addon().getAddonInfo("name")
-    msg = "Are you sure?"
-    if xbmcgui.Dialog().yesno(hdr, msg):
-        xbmc.executebuiltin("RunScript({0})".format(url))
 
 def get_addon_url(mode, url=""):
     import urllib

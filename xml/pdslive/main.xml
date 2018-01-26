@@ -3,8 +3,14 @@
 <dir>
   <title>Update Channel List</title>
   <link>plugin://plugin.video.pdslive/?mode=RunScript&url=special://home/addons/plugin.video.pdslive/resources/lib/plugins/live_tv/air_sports_channels.py</link>
-  <summary>Updates the Nan tv channels list</summary>
+  <summary>Updates the Nan sports channels list</summary>
 </dir>
+
+<dir>
+  <title>[COLOR=blue]Update Nan Tv Channel List[/COLOR]</title>
+  <link>plugin://plugin.video.pdslive/?mode=RunScript&url=special://home/addons/plugin.video.pdslive/resources/lib/plugins/live_tv/air_channels.py</link>
+  <summary>Updates the Nan tv channels list</summary>
+</dir> 
 
 <dir>
   <name>Nan Tv Channels</name>

@@ -1,30 +1,32 @@
 ###PDS LIVE MAIN.XML###
 <dir>
-  <title>[COLOR=blue]Update Nan Tv Channel List[/COLOR]</title>
+  <title>[COLOR=gold][B]A Collaborative Creation By Some BAMFs[/COLOR][/B]
+<dir>
+  <title>[COLOR=dodgerblue]Update PDS LIVE Tv Channel List[/COLOR] (Click Here 1st to update PDS LIVE TV list)</title>
   <link>plugin://plugin.video.pdslive/?mode=RunScript&url=special://home/addons/plugin.video.pdslive/resources/lib/plugins/live_tv/air_channels.py</link>
-  <summary>Updates the Nan tv channels list</summary>
+  <summary>Updates the tv channels list</summary>
 </dir> 
 
 <dir>
-  <name>Nan Tv Channels</name>
+  <name>[COLOR=gold][B]PDS LIVE TV[/COLOR][/B]</name>
   <link>file://nan_tv.xml</link>
   <summary></summary>
 </dir>
 
 <dir>
-  <title>Update Sports Channel List</title>
+  <title>[COLOR=dodgerblue]Update PDS LIVE Sports Channel List[/COLOR](Click Here 1st to update PDS LIVE SPORTS list)</title>
   <link>plugin://plugin.video.pdslive/?mode=RunScript&url=special://home/addons/plugin.video.pdslive/resources/lib/plugins/live_tv/air_sports_channels.py</link>
-  <summary>Updates the Nan sports channels list</summary>
+  <summary>Updates the sports channels list</summary>
 </dir>
 
 <dir>
-  <name>Nan Sports Channels</name>
+  <name>[COLOR=gold][B]PDS LIVE SPORTS[/COLOR][/B]</name>
   <link>file://nan_sports.xml</link>
   <summary></summary>
 </dir>
 
 <plugin>
-<name>PDS LIVE Settings</name>
+<name>[COLOR=dodgerblue]PDS LIVE Settings[/COLOR]</name>
 <link>plugin://plugin.video.pdslive/?action=openSettings</link>
 <thumbnail>https://i.imgur.com/wCz1Jck.png</thumbnail>
 </plugin>

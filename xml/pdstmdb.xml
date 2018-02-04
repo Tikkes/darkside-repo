@@ -1,4 +1,24 @@
 <dir>
+    <title>TV NETWORKS</title>
+    <link>file://shared lists/networks.xml</link>
+	<thumbnail>https://i.imgur.com/8xnkiXy.png</thumbnail>
+  </dir>
+
+<dir>
+  <title>Trending Shows</title>
+  <trakt>https://api.trakt.tv/shows/trending</trakt>
+</dir>
+
+<dir>
+  <title>Popular Shows</title>
+  <trakt>https://api.trakt.tv/shows/popular</trakt>
+</dir>
+<dir>
+<title>Animation</title>
+<trakt>https://api.trakt.tv/users/movistapp/lists/animation/items</trakt>
+</dir>
+
+<dir>
   <title>TMDB TV Popular</title>
   <tmdb>tv/popular</tmdb>
 </dir>
@@ -15,35 +35,6 @@
     <title>TMDB TV Genres</title>
     <link>file://shared lists/genre_tv.xml</link>
   </dir>
-<dir>
-  <title>TMDB Movies Popular</title>
-  <tmdb>movies/popular</tmdb>
-</dir>
-
-<dir>
-  <title>TMDB Movies Now Playing</title>
-  <tmdb>movies/now_playing</tmdb>
-</dir>
-
-<dir>
-  <title>TMDB Movies Top Rated</title>
-  <tmdb>movies/top_rated</tmdb>
-</dir>
-<dir>
-    <title>TMBD Movie Genres</title>
-    <link>file://shared lists/genre_movies.xml</link>
-  </dir>
-  
-<dir>
-    <title>TMBD Movie Years</title>
-    <link>file://shared lists/movie-years.xml</link>
-  </dir>
-<dir>
-  <title>The CW</title>
-  <tmdb>network/shows/71</tmdb>
-  <thumbnail></thumbnail>
-  <fantart></fantart>
-</dir>
 
 
 

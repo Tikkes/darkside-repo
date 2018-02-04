@@ -7,24 +7,28 @@
   <title>Popular Movies</title>
   <trakt>https://api.trakt.tv/movies/popular</trakt>
 </dir>
+
 <dir>
-  <title>Trending Shows</title>
-  <trakt>https://api.trakt.tv/shows/trending</trakt>
+  <title>TMDB Movies Popular</title>
+  <tmdb>movies/popular</tmdb>
 </dir>
 
 <dir>
-  <title>Popular Shows</title>
-  <trakt>https://api.trakt.tv/shows/popular</trakt>
+  <title>TMDB Movies Now Playing</title>
+  <tmdb>movies/now_playing</tmdb>
+</dir>
+
+<dir>
+  <title>TMDB Movies Top Rated</title>
+  <tmdb>movies/top_rated</tmdb>
 </dir>
 <dir>
-<title>Animation</title>
-<trakt>https://api.trakt.tv/users/movistapp/lists/animation/items</trakt>
-</dir>
+    <title>TMBD Movie Genres</title>
+    <link>file://shared lists/genre_movies.xml</link>
+  </dir>
+  
 <dir>
-  <title>Rotten Tomatoes: Best of 2017</title>
-  <trakt>https://api.trakt.tv/users/lish408/lists/rotten-tomatoes-best-of-2017/items</trakt>
-</dir>
-<dir>
-<title>The CW</title>
-<trakt>https://api.trakt.tv/users/sg0/lists/the-cw/items</trakt>
-</dir>
+    <title>TMBD Movie Years</title>
+    <link>file://shared lists/movie-years.xml</link>
+  </dir>
+

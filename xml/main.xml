@@ -19,8 +19,8 @@
 </dir>
 
 <dir>
-     <name>[COLOR gold][B]PDS NEW RELEASES[/COLOR][/B] (Direct Links)</name>
-     <link>https://raw.githubusercontent.com/Tikkes/darkside-repo/master/xml/newreleases.xml</link>
+     <name>[COLOR gold][B]PDS NEWEST RELEASES[/COLOR][/B] (Direct Links)</name>
+     <link>https://raw.githubusercontent.com/Tikkes/darkside-repo/master/xml/newestreleases.xml</link>
      <animated_thumbnail></animated_thumbnail>
      <thumbnail>https://i.imgur.com/v3q6WIw.png</thumbnail>
      <animated_fanart></animated_fanart>
@@ -28,97 +28,23 @@
 </dir>
 
 <dir>
-     <name>[COLOR gold][B]PDS CAMS[/COLOR][/B] (Direct Links)</name>
-     <link>https://raw.githubusercontent.com/Tikkes/darkside-repo/master/xml/cams.xml</link>
-     <animated_thumbnail></animated_thumbnail>
-     <thumbnail>https://i.imgur.com/v3q6WIw.png</thumbnail>
-     <animated_fanart></animated_fanart>
-     <fanart></fanart>
-</dir>
-
-<dir>
-     <name>[COLOR gold][B]PDS SCREENERS[/COLOR][/B] (Direct Links)</name>
-     <link>https://raw.githubusercontent.com/Tikkes/darkside-repo/master/xml/screeners.xml</link>
-     <animated_thumbnail></animated_thumbnail>
-     <thumbnail>https://i.imgur.com/KcQjR64.png</thumbnail>
-     <animated_fanart></animated_fanart>
-     <fanart></fanart>
-</dir>
-<dir>
-        <name>MOVIES</name>
-        <link>https://raw.githubusercontent.com/Tikkes/darkside-repo/master/xml/Latest-Movies.xml</link>
-        <animated_thumbnail></animated_thumbnail>
-        <thumbnail>https://i.imgur.com/1fpQMxJ.png</thumbnail>
-		<summary>Latest Releases</summary>
-        <animated_fanart></animated_fanart>
-        <fanart>https://cdn-images-1.medium.com/max/1920/1*nQ0Eik4GJR9cEc7qE_8mfg.jpeg</fanart>
-</dir>
-<dir>
-        <name>TV SHOWS</name>
-        <link>https://raw.githubusercontent.com/Tikkes/darkside-repo/master/xml/TV-favs.xml</link>
-        <animated_thumbnail></animated_thumbnail>
-        <thumbnail>https://i.imgur.com/zqPquS3.png</thumbnail>
-		<summary>GeekSpeak2TNG Favorite Tv Series</summary>
-        <animated_fanart></animated_fanart>
-        <fanart></fanart>
-</dir>
-<dir>
-    <title>TV NETWORKS</title>
-    <link>file://shared lists/networks.xml</link>
-	<thumbnail>https://i.imgur.com/8xnkiXy.png</thumbnail>
-  </dir>
-<dir>
-        <name>AMAZON PRIME VIDEO (TV Series)</name>
-        <link>https://raw.githubusercontent.com/Tikkes/darkside-repo/master/xml/apos.xml</link>
-        <animated_thumbnail></animated_thumbnail>
-        <thumbnail>https://i.imgur.com/PxcYjg4.png</thumbnail>
-		<summary>Amazon Original TV Series</summary>
-        <animated_fanart></animated_fanart>
-        <fanart>https://i.imgur.com/Ft3xnED.jpg</fanart>
-</dir>
-<dir>
-        <name>HULU ORIGINALS (TV Series)</name>
-        <link>https://raw.githubusercontent.com/Tikkes/darkside-repo/master/xml/hots.xml</link>
-        <animated_thumbnail></animated_thumbnail>
-        <thumbnail>https://i.imgur.com/kzEHnHs.png</thumbnail>
-		<summary>Hulu original tv series</summary>
-        <animated_fanart></animated_fanart>
-        <fanart>https://i.imgur.com/m9MuYAX.jpg</fanart>
-</dir>
-<dir>
-        <name>NETFLIX ORIGINALS (Movies)</name>
-        <link>https://raw.githubusercontent.com/Tikkes/darkside-repo/master/xml/nfom.xml</link>
-        <animated_thumbnail></animated_thumbnail>
-        <thumbnail>https://i.imgur.com/6zsBlwF.png</thumbnail>
-		<summary>Netflix Original Movies</summary>
-        <animated_fanart></animated_fanart>
-        <fanart>https://i.imgur.com/P0lHRGz.jpg</fanart>
-</dir>
-<dir>
-        <name>NETFLIX ORIGINALS (TV Series)</name>
-        <link>https://raw.githubusercontent.com/Tikkes/darkside-repo/master/xml/nfos.xml</link>
-        <animated_thumbnail></animated_thumbnail>
-        <thumbnail>https://i.imgur.com/6zsBlwF.png</thumbnail>
-		<summary>Netflix original tv series</summary>
-        <animated_fanart></animated_fanart>
-        <fanart>https://i.imgur.com/xKhtP3i.jpg</fanart>
-</dir>
-<dir>
-     <name>TRAKT LISTS</name>
+     <name>PDS MOVIES</name>
      <link>https://raw.githubusercontent.com/Tikkes/darkside-repo/master/xml/pdstl.xml</link>
      <animated_thumbnail></animated_thumbnail>
-     <thumbnail>https://i.imgur.com/B1SwEC9.png</thumbnail>
+     <thumbnail>https://i.imgur.com/1fpQMxJ.png</thumbnail>
      <animated_fanart></animated_fanart>
      <fanart></fanart>
 </dir>
+
 <dir>
-     <name>TMDB LISTS</name>
+     <name>PDS TV SHOWS</name>
      <link>https://raw.githubusercontent.com/Tikkes/darkside-repo/master/xml/pdstmdb.xml</link>
      <animated_thumbnail></animated_thumbnail>
-     <thumbnail>https://i.imgur.com/LVpOq2m.png</thumbnail>
+     <thumbnail>https://i.imgur.com/zqPquS3.png</thumbnail>
      <animated_fanart></animated_fanart>
      <fanart></fanart>
 </dir>
+
 <dir>
         <name>PDS Collections/Boxsets</name>
         <link>https://raw.githubusercontent.com/Tikkes/darkside-repo/master/xml/collections.xml</link>
@@ -129,7 +55,7 @@
         <fanart></fanart>
 </dir>
 <dir>
-        <name>Sports Link Test Area</name>
+        <name>Test Area</name>
         <link>https://raw.githubusercontent.com/Tikkes/darkside-repo/master/xml/sportstest.xml</link>
         <animated_thumbnail></animated_thumbnail>
         <thumbnail>https://i.imgur.com/wqqbo94.png</thumbnail>

@@ -26,6 +26,26 @@
     </extension>
 </addon>
 
+<addon id="plugin.video.globalvision"
+       name="GVE"
+       version="1.0"
+       provider-name="Winks TV">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+	<import addon="script.module.requests" />
+  </requires>
+  <extension point="xbmc.python.pluginsource"
+            library="default.py">
+        <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en">Global Vision Ent.</summary>
+    <language>en</language>
+    <description lang="en">Global Vision Ent. The worlds largest supplier in cable.</description>
+     <platform>all</platform>
+  </extension>
+</addon>
+
 <addon id="plugin.video.pdslive" name="PDS LIVE" version="0.0.1" provider-name="LaffinAtcha">
     <requires>
         <import addon="xbmc.python" version="2.19.0" />

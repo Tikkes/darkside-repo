@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <addons>
-<addon id="plugin.video.deathstar" name="Project Death Star" version="0.2.3" provider-name="LaffinAtcha | Jen | Tikkes">
+<addon id="plugin.video.deathstar" name="Project Death Star" version="0.2.4" provider-name="LaffinAtcha | Jen | Tikkes">
     <requires>
         <import addon="xbmc.python" version="2.19.0" />
         <import addon="script.module.nanscrapers" version="0.5.5" />
@@ -10,7 +10,7 @@
         <import addon="script.module.addon.common" version="2.0.0" />
         <import addon="script.module.xmltodict" version="0.9.0" />
         <!--<import addon="script.module.web-pdb" version="1.0"/>-->
-        <import addon="script.module.urlresolver" version="1.2.0" />
+        <import addon="script.module.resolveurl"/>
     </requires>
     <extension point="xbmc.python.pluginsource" library="default.py">
         <provides>video</provides>

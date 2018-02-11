@@ -19,7 +19,12 @@
 </dir>
 
 <dir>
-     <name>[COLOR gold][B]PDS NEWEST RELEASES[/COLOR][/B] (Direct Links)</name>
+    <title>[COLOR gold][B]PDS NEWEST RELEASES[/COLOR][/B](Direct Links)</title>
+    <Airtable>newest_releases/page1</Airtable>
+    </dir>
+
+<dir>
+     <name>[COLOR gold][B]PDS NEWEST RELEASES[/COLOR][/B](Direct Links)</name>
      <link>https://raw.githubusercontent.com/Tikkes/darkside-repo/master/xml/newestreleases.xml</link>
      <animated_thumbnail></animated_thumbnail>
      <thumbnail>https://i.imgur.com/v3q6WIw.png</thumbnail>

@@ -3,7 +3,7 @@
 ##############################################################################################################################
 
 <plugin>
-<name>Project Death Star Settings</name>
+<name>[COLOR gold][B]Project Death Star Settings[/COLOR][/B]</name>
 <link>plugin://plugin.video.deathstar/?action=openSettings</link>
 <thumbnail>https://i.imgur.com/wCz1Jck.png</thumbnail>
 </plugin>

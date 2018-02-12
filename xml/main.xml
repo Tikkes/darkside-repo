@@ -25,6 +25,15 @@
     </dir>
 
 <dir>
+     <name>[COLOR dodgerblue][B]PDS LIVE[/COLOR][/B]</name>
+     <link>https://raw.githubusercontent.com/Tikkes/darkside-repo/master/xml/live.xml</link>
+     <animated_thumbnail></animated_thumbnail>
+     <thumbnail>https://i.imgur.com/1fpQMxJ.png</thumbnail>
+     <animated_fanart></animated_fanart>
+     <fanart></fanart>
+</dir>
+
+<dir>
      <name>PDS MOVIES</name>
      <link>https://raw.githubusercontent.com/Tikkes/darkside-repo/master/xml/pdstl.xml</link>
      <animated_thumbnail></animated_thumbnail>

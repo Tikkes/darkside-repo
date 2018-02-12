@@ -1,17 +1,11 @@
-<dir>
-  <name>Nan Tv Channels</name>
-  <link>file://nan_tv.xml</link>
-  <summary></summary>
-</dir>
 
-<dir>
-  <name>Nan Sports Channels</name>
-  <link>file://nan_sports.xml</link>
-  <summary></summary>
-</dir>
+    <dir>
+    <title>[COLOR dodgerblue][B]PDS LIVE TV CHANNELS[/COLOR][/B]</title>
+    <Airtable>tv_channels</Airtable>
+    </dir>
 
-<dir>
-  <title>Update Channel List</title>
-  <link>plugin://plugin.video.deathstar/?mode=RunScript&url=special://home/addons/plugin.video.deathstar/resources/lib/plugins/live_tv/air_sports_channels.py</link>
-  <summary>Updates the Nan tv channels list</summary>
-</dir>
+    <dir>
+    <title>[COLOR dodgerblue][B]PDS LIVE SPORTS CHANNELS[/COLOR][/B]</title>
+    <Airtable>sports_channels</Airtable>
+    </dir>
+

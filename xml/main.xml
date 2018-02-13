@@ -1,9 +1,7 @@
 ##############################################################################################################################
 <poster>LaffinAtcha</poster>
 ##############################################################################################################################
-<item>
-<fanart>https://i.imgur.com/kJw9BTO.jpg</fanart>
-</item>	
+
 <plugin>
 <name>[COLOR gold][B]Project Death Star Settings[/COLOR][/B]</name>
 <link>plugin://plugin.video.deathstar/?action=openSettings</link>

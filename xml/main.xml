@@ -3,20 +3,10 @@
 ##############################################################################################################################
 
 <plugin>
-<name>Project Death Star Settings</name>
+<name>[COLOR gold][B]Project Death Star Settings[/COLOR][/B]</name>
 <link>plugin://plugin.video.deathstar/?action=openSettings</link>
 <thumbnail>https://i.imgur.com/wCz1Jck.png</thumbnail>
 </plugin>
-<dir>
-  <title>Search TMDB</title>
-  <tmdb>search</tmdb>
-	<thumbnail>https://i.imgur.com/pDrYx51.png</thumbnail>
-</dir>
-<dir>
-  <title>Search TRAKT</title>
-  <trakt>search</trakt>
-	<thumbnail>https://i.imgur.com/o477myZ.png</thumbnail>
-</dir>
 
 <dir>
     <title>[COLOR dodgerblue][B]PDS NEWEST RELEASES[/COLOR][/B](Direct Links)</title>
@@ -25,7 +15,16 @@
     </dir>
 
 <dir>
-     <name>PDS MOVIES</name>
+     <name>[COLOR gold][B]PDS LIVE[/COLOR][/B]</name>
+     <link>https://raw.githubusercontent.com/Tikkes/darkside-repo/master/xml/live.xml</link>
+     <animated_thumbnail></animated_thumbnail>
+     <thumbnail>https://i.imgur.com/5ptmzJD.png</thumbnail>
+     <animated_fanart></animated_fanart>
+     <fanart></fanart>
+</dir>
+
+<dir>
+     <name>[COLOR dodgerblue][B]PDS MOVIES[/COLOR][/B]</name>
      <link>https://raw.githubusercontent.com/Tikkes/darkside-repo/master/xml/pdstl.xml</link>
      <animated_thumbnail></animated_thumbnail>
      <thumbnail>https://i.imgur.com/1fpQMxJ.png</thumbnail>
@@ -34,7 +33,7 @@
 </dir>
 
 <dir>
-     <name>PDS TV SHOWS</name>
+     <name>[COLOR gold][B]PDS TV SHOWS[/COLOR][/B]</name>
      <link>https://raw.githubusercontent.com/Tikkes/darkside-repo/master/xml/pdstmdb.xml</link>
      <animated_thumbnail></animated_thumbnail>
      <thumbnail>https://i.imgur.com/zqPquS3.png</thumbnail>
@@ -43,7 +42,7 @@
 </dir>
 
 <dir>
-        <name>PDS Collections/Boxsets</name>
+        <name>[COLOR dodgerblue][B]PDS Collections/Boxsets[/COLOR][/B]</name>
         <link>https://raw.githubusercontent.com/Tikkes/darkside-repo/master/xml/collections.xml</link>
         <animated_thumbnail></animated_thumbnail>
         <thumbnail>https://i.imgur.com/v3q6WIw.png</thumbnail>
@@ -51,14 +50,41 @@
         <animated_fanart></animated_fanart>
         <fanart></fanart>
 </dir>
+
 <dir>
-        <name>Test Area</name>
+        <name>[COLOR gold][B]Music Choice Videos[/COLOR][/B](24/7 Music Video Channels)</name>
+        <link>https://raw.githubusercontent.com/Tikkes/darkside-repo/master/xml/musicchoicevideo.xml</link>
+        <thumbnail>https://cdn1.thr.com/sites/default/files/imagecache/landscape_928x523/2012/02/music-choice-mc_logo.jpg</thumbnail>
+        <fanart>http://www.slopemedia.org/wp-content/uploads/2017/03/wallhaven-84294.jpg</fanart>
+        <summary>75 commercial-free music channels, 25 music video channels</summary>
+</dir>
+
+<dir>
+        <name>[COLOR dodgerblue][B]Music Choice Channels[/COLOR][/B](24/7 Music Channels)</name>
+        <link>https://raw.githubusercontent.com/Tikkes/darkside-repo/master/xml/musicchoice.xml</link>
+        <thumbnail>https://cdn1.thr.com/sites/default/files/imagecache/landscape_928x523/2012/02/music-choice-mc_logo.jpg</thumbnail>
+        <fanart>http://www.slopemedia.org/wp-content/uploads/2017/03/wallhaven-84294.jpg</fanart>
+        <summary>75 commercial-free music channels, 25 music video channels</summary>
+</dir>
+<dir>
+        <name>[COLOR gold][B]Test Area[/COLOR][/B]</name>
         <link>https://raw.githubusercontent.com/Tikkes/darkside-repo/master/xml/sportstest.xml</link>
         <animated_thumbnail></animated_thumbnail>
         <thumbnail>https://i.imgur.com/wqqbo94.png</thumbnail>
 		<summary>Test stuff</summary>
         <animated_fanart></animated_fanart>
         <fanart></fanart>
+</dir>
+
+<dir>
+  <title>[COLOR dodgerblue][B]Search TMDB[/COLOR][/B]</title>
+  <tmdb>search</tmdb>
+	<thumbnail>https://i.imgur.com/pDrYx51.png</thumbnail>
+</dir>
+<dir>
+  <title>[COLOR gold][B]Search TRAKT[/COLOR][/B]</title>
+  <trakt>search</trakt>
+	<thumbnail>https://i.imgur.com/o477myZ.png</thumbnail>
 </dir>
 
 

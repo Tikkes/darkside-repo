@@ -55,7 +55,7 @@
         <name>[COLOR gold][B]Music Choice Videos[/COLOR][/B](24/7 Music Video Channels)</name>
         <link>https://raw.githubusercontent.com/Tikkes/darkside-repo/master/xml/musicchoicevideo.xml</link>
         <thumbnail>https://cdn1.thr.com/sites/default/files/imagecache/landscape_928x523/2012/02/music-choice-mc_logo.jpg</thumbnail>
-        <fanart>http://www.slopemedia.org/wp-content/uploads/2017/03/wallhaven-84294.jpg</fanart>
+        <fanart></fanart>
         <summary>75 commercial-free music channels, 25 music video channels</summary>
 </dir>
 
@@ -63,7 +63,7 @@
         <name>[COLOR dodgerblue][B]Music Choice Channels[/COLOR][/B](24/7 Music Channels)</name>
         <link>https://raw.githubusercontent.com/Tikkes/darkside-repo/master/xml/musicchoice.xml</link>
         <thumbnail>https://cdn1.thr.com/sites/default/files/imagecache/landscape_928x523/2012/02/music-choice-mc_logo.jpg</thumbnail>
-        <fanart>http://www.slopemedia.org/wp-content/uploads/2017/03/wallhaven-84294.jpg</fanart>
+        <fanart></fanart>
         <summary>75 commercial-free music channels, 25 music video channels</summary>
 </dir>
 <dir>

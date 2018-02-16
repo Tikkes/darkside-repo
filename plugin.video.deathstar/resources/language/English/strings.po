@@ -1,6 +1,6 @@
-# Addon Name: Death Star
+# Addon Name: PDS
 # Addon id: plugin.video.deathstar
-# Addon Provider: Team LaffinAtcha
+# Addon Provider: Beautiful Monkey
 msgid ""
 msgstr ""
 "Project-Id-Version: Jen\n"

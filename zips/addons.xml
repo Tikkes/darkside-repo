@@ -169,4 +169,22 @@
 		<genre>movies,tvshows</genre>
 	</extension>
 </addon>
+
+<addon id="repository.lubesoxx" name="LubeSoxx" version="0.0.1" provider-name="LaffinAtcha">
+	<extension point="xbmc.addon.repository" name="LubeSoxx Repository">
+		<dir>
+			<info compressed="false">https://raw.githubusercontent.com/noobsandnerds/modules4all/master/zips/addons.xml</info>
+			<checksum>https://raw.githubusercontent.com/noobsandnerds/modules4all/master/zips/addons.xml.md5</checksum>
+			<datadir zip="true">https://raw.githubusercontent.com/noobsandnerds/modules4all/master/zips/</datadir>
+		</dir>
+		<info compressed="false">https://raw.githubusercontent.com/LaffinAtcha/repository.lubesoxx/master/zips/addons.xml</info>
+		<checksum>https://raw.githubusercontent.com/LaffinAtcha/repository.lubesoxx/master/zips/addons.xml.md5</checksum>
+		<datadir zip="true">https://raw.githubusercontent.com/LaffinAtcha/repository.lubesoxx/master/zips/</datadir>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary lang="en">LubeSoxx Repo</summary>
+		<description lang="en">LS Repo</description>
+		<genre></genre>
+	</extension>
+</addon>
 </addons>

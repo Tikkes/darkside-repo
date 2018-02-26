@@ -9,3 +9,8 @@
     <Airtable>sports_channels</Airtable>
     </dir>
 
+    <dir>
+    <title>[COLOR dodgerblue][B]PDS M3U Lists[/COLOR][/B]</title>
+    <Airtable>m3u_lists</Airtable>
+    </dir>
+

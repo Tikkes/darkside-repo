@@ -9,13 +9,13 @@
 </plugin>
 
 <dir>
-    <title>[COLOR dodgerblue][B]PDS NEWEST RELEASES[/COLOR][/B](Direct Links)</title>
+    <title>[COLOR dodgerblue][B]PDS NEWEST RELEASES[/COLOR][/B](Direct Links)(RD Required)</title>
     <Airtable>newest_releases/page1</Airtable>
 	 <thumbnail>https://i.imgur.com/v3q6WIw.png</thumbnail>
     </dir>
 
 <dir>
-     <name>[COLOR gold][B]PDS LIVE[/COLOR][/B]</name>
+     <name>[COLOR gold][B]PDS LIVE[/COLOR][/B](SportsDevil Required)</name>
      <link>https://raw.githubusercontent.com/Tikkes/darkside-repo/master/xml/live.xml</link>
      <animated_thumbnail></animated_thumbnail>
      <thumbnail>https://i.imgur.com/5ptmzJD.png</thumbnail>
@@ -68,14 +68,21 @@
 </dir>
 
 <dir>
-  <title>[COLOR dodgerblue][B]Search TMDB[/COLOR][/B]</title>
+  <title>[COLOR gold][B]Search TMDB[/COLOR][/B]</title>
   <tmdb>search</tmdb>
 	<thumbnail>https://i.imgur.com/pDrYx51.png</thumbnail>
 </dir>
 <dir>
-  <title>[COLOR gold][B]Search TRAKT[/COLOR][/B]</title>
+  <title>[COLOR dodgerblue][B]Search TRAKT[/COLOR][/B]</title>
   <trakt>search</trakt>
 	<thumbnail>https://i.imgur.com/o477myZ.png</thumbnail>
 </dir>
+
+	<plugin>
+<name>[COLOR gold][B](Re)Authorized Real-Debrid[/COLOR][/B]</name>
+<link>plugin://script.module.resolveurl/?mode=auth_rd</link>
+<thumbnail>http://koditips.com/wp-content/uploads/real-debrid-addon.png</thumbnail>
+<fanart></fanart>
+</plugin>
 
 

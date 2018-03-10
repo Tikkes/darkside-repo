@@ -1,7 +1,23 @@
 ##############################################################################################################################
 <poster>LaffinAtcha</poster>
 ##############################################################################################################################
-
+<item>
+<title>The Last Jedi Bluray 1080p RD Links</title>
+<meta>
+<content>movie</content>
+<imdb>tt2527336</imdb>
+<title>The last Jedi</title>
+<year>2017</year>
+<genre></genre>
+</meta>
+<link>
+<sublink>http://uptobox.com/q23ucfkozcc1</sublink>
+<sublink>https://1fichier.com/?vernfen6ie(RD Link)</sublink>
+<sublink>search</sublink>
+</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/7/7f/Star_Wars_The_Last_Jedi.jpg</thumbnail>
+<fanart>http://hd.wallpaperswide.com/thumbs/star_wars_the_last_jedi-t2.jpg</fanart>
+</item>
 <plugin>
 <name>[COLOR gold][B]Project Death Star Settings[/COLOR][/B]</name>
 <link>plugin://plugin.video.deathstar/?action=openSettings</link>
@@ -9,13 +25,13 @@
 </plugin>
 
 <dir>
-    <title>[COLOR dodgerblue][B]PDS NEWEST RELEASES[/COLOR][/B](Direct Links)</title>
+    <title>[COLOR dodgerblue][B]PDS NEWEST RELEASES[/COLOR][/B](Direct Links)(RD Required)</title>
     <Airtable>newest_releases/page1</Airtable>
 	 <thumbnail>https://i.imgur.com/v3q6WIw.png</thumbnail>
     </dir>
 
 <dir>
-     <name>[COLOR gold][B]PDS LIVE[/COLOR][/B]</name>
+     <name>[COLOR gold][B]PDS LIVE[/COLOR][/B](SportsDevil Required)</name>
      <link>https://raw.githubusercontent.com/Tikkes/darkside-repo/master/xml/live.xml</link>
      <animated_thumbnail></animated_thumbnail>
      <thumbnail>https://i.imgur.com/5ptmzJD.png</thumbnail>
@@ -68,14 +84,23 @@
 </dir>
 
 <dir>
-  <title>[COLOR dodgerblue][B]Search TMDB[/COLOR][/B]</title>
+  <title>[COLOR gold][B]Search TMDB[/COLOR][/B]</title>
   <tmdb>search</tmdb>
 	<thumbnail>https://i.imgur.com/pDrYx51.png</thumbnail>
 </dir>
 <dir>
-  <title>[COLOR gold][B]Search TRAKT[/COLOR][/B]</title>
+  <title>[COLOR dodgerblue][B]Search TRAKT[/COLOR][/B]</title>
   <trakt>search</trakt>
 	<thumbnail>https://i.imgur.com/o477myZ.png</thumbnail>
 </dir>
+
+	<plugin>
+<name>[COLOR gold][B](Re)Authorized Real-Debrid[/COLOR][/B]</name>
+<link>plugin://script.module.resolveurl/?mode=auth_rd</link>
+<thumbnail>http://koditips.com/wp-content/uploads/real-debrid-addon.png</thumbnail>
+<fanart></fanart>
+</plugin>
+
+
 
 

@@ -32,6 +32,27 @@
      <fanart></fanart>
 </dir>
 
+<item>
+<title>[COLOR blue]MLB Network[/COLOR]</title>
+<link>http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.m3u8</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/a/ac/MLBNetworkLogo.svg/465px-MLBNetworkLogo.svg.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue]MLB Network 2[/COLOR]</title>
+<link>http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_2/master_wired.m3u8</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/a/ac/MLBNetworkLogo.svg/465px-MLBNetworkLogo.svg.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+    <title>[COLOR blue]MLB Network 3[/COLOR]</title>
+    <link>http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.m3u8</link>
+    <thumbnail></thumbnail>
+    <fanart><fanart>
+</item>
+
 <item> 
 <title>[COLOR blue]WWE Network[/COLOR]</title> 
 <link>http://hlslive-akc.med1.net.wwe.com/ls01/wwe/LINEAR/WWE_ALL_DAY_NO_ARCHIVE_VIDEO_MEGA_SLAM_WWE_Mega_Linear_20180308_1520528818632/3000K/3000_slide.m3u8|Cookie=mediaAuth_v2=e3a8cff5910f220164a55042ac35b339b24eed30da31ce6771d298b82b6b9aa3f7556d49990e99d6cc2dfa499773d6ef2a039fe9567afde978f366eff5ba14519bc10121b97b49b0baeba29c2edf52fa847cc2e6b3aadc9362e291efd3744008d5d35037eb6d0df07abcd2a837f291114f1bd4273feac76914170b6c224e3bc02f2da16196d554312e752d3a79f3cc8da5551b3a0dea662c3529b5361ce46165cb161b02c85b506ed0e30314d49ffdaa3983e1040d5cb84c30218061a105dd7c67faacd97136472e7c2d6a959e67dbe47692ebab4bfbe43579350f36de868f2ec4b84b02dff54f6b0f53d8c94b65ada32983ad32ccb63d0b462e93a1a68ae2aa65e95d5d4637efef3b56da96240b761276d7cec1f65b1d0222560d3d24144e3dc723e27b9d40e058bacc34dddfcd64a45fc599341909c402bf4b3d87efc75170e62e628cea90323d141bdfb9eb4a8465ef51bfa3929e873d90c06aef761cc49c35e80051d24bb28cf59d10ed61ca11166ff89821ac7416f025ccfa8a73c689819b6e6b093f3eaeec1cc50ab6ccdfd9d3914387d71ae45715fab15ec5d20c1fb62cb9c52cd20fd978ff3224c207004b030c0f24452fd493dcf69aaefb1ee920eca878b4afc6be197cb97671ebae987edb0381bc8c628ece73aa2c220a1e6c9bc63f3144e36b5b7bb626a12101c12a4abf30018269015e6070</link> 

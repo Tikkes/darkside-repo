@@ -53,45 +53,7 @@
     <fanart><fanart>
 </item>
 	    
-<item>
-<title>[COLOR blue]Mar 17 UFC Werdum VS Volkov Prelim[/COLOR]</title>
-<link>http://nlds209.cdnak.neulion.com/nlds/ufce/affiliate/as/live/affiliate_hd_android.m3u8?hdnea=expires%3D1521160797%7Eaccess%3D%2Fnlds%2Fufce%2Faffiliate%2Fas%2Flive%2F*%7Emd5%3D805d2a4f5e69ef817c01fb730f16eb3e&nltid=ufc&nltdt=8&nltnt=1&uid=1649376|User-Agent=Mozilla/5.0 (Linux; Android 6.0.1; D6603 Build/23.5.A.0.570; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/56.0.2924.87 Mobile Safari/537.36 android mobile ufc 7.0310</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-<item>
-<title>[COLOR blue]Mar 17 UFC Werdum VS Volkov[/COLOR]</title>
-<link>http://nlds235.cdnak.neulion.com/nlds/ufc/camera0/as/live/camera0_hd_4500_ced.m3u8?hdnea=expires%3D1521161010%7Eaccess%3D%2Fnlds%2Fufc%2Fcamera0%2Fas%2Flive%2F*%7Emd5%3Dfb4838131a9766021005652ad7f30e52&nltid=ufc&nltdt=8&nltnt=1&uid=1649376|User-Agent=Mozilla/5.0 (Linux; Android 6.0.1; D6603 Build/23.5.A.0.570; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/56.0.2924.87 Mobile Safari/537.36 android mobile ufc 7.0310</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-<item>
-<title>[COLOR blue]Mar17 UFC Werdum VS Volkov Post Fight[/COLOR]</title>
-<link>http://nlds211.cdnak.neulion.com/nlds/ufce/press/as/live/press_4500_ced?hdnea=expires%3D1521161123%7Eaccess%3D%2Fnlds%2Fufce%2Fpress%2Fas%2Flive%2F*%7Emd5%3Df8b6cea56f7e6f533e73e5510a3b14d9&nltid=ufc&nltdt=8&nltnt=1&uid=1649376|User-Agent=Mozilla/5.0 (Linux; Android 6.0.1; D6603 Build/23.5.A.0.570; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/56.0.2924.87 Mobile Safari/537.36 android mobile ufc 7.0310</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-	    	    
-<item>
-    <title>UFC </title>
-    <link>http://d1kjuynapd7aps.cloudfront.net/live.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.186 Safari/537.36</link>
-    <thumbnail></thumbnail>
-    <fanart></fanart>
-</item>
-	    
-<item> 
-<title>[COLOR blue]WWE Network[/COLOR]</title> 
-<link>http://hlslive-akc.med1.net.wwe.com/ls01/wwe/LINEAR/WWE_ALL_DAY_NO_ARCHIVE_VIDEO_MEGA_SLAM_WWE_Mega_Linear_20180308_1520528818632/3000K/3000_slide.m3u8|Cookie=mediaAuth_v2=e3a8cff5910f220164a55042ac35b339b24eed30da31ce6771d298b82b6b9aa3f7556d49990e99d6cc2dfa499773d6ef2a039fe9567afde978f366eff5ba14519bc10121b97b49b0baeba29c2edf52fa847cc2e6b3aadc9362e291efd3744008d5d35037eb6d0df07abcd2a837f291114f1bd4273feac76914170b6c224e3bc02f2da16196d554312e752d3a79f3cc8da5551b3a0dea662c3529b5361ce46165cb161b02c85b506ed0e30314d49ffdaa3983e1040d5cb84c30218061a105dd7c67faacd97136472e7c2d6a959e67dbe47692ebab4bfbe43579350f36de868f2ec4b84b02dff54f6b0f53d8c94b65ada32983ad32ccb63d0b462e93a1a68ae2aa65e95d5d4637efef3b56da96240b761276d7cec1f65b1d0222560d3d24144e3dc723e27b9d40e058bacc34dddfcd64a45fc599341909c402bf4b3d87efc75170e62e628cea90323d141bdfb9eb4a8465ef51bfa3929e873d90c06aef761cc49c35e80051d24bb28cf59d10ed61ca11166ff89821ac7416f025ccfa8a73c689819b6e6b093f3eaeec1cc50ab6ccdfd9d3914387d71ae45715fab15ec5d20c1fb62cb9c52cd20fd978ff3224c207004b030c0f24452fd493dcf69aaefb1ee920eca878b4afc6be197cb97671ebae987edb0381bc8c628ece73aa2c220a1e6c9bc63f3144e36b5b7bb626a12101c12a4abf30018269015e6070</link> 
-<thumbnail>http://www.wwe.com/f/styles/wwe_large/public/all/2017/01/new_WWENetwork--12226c4d9b2f0aa5bfa7374022b27dab.jpg</thumbnail> 
-<fanart></fanart> 
-</item>
 
-<item> 
-<title>[COLOR blue]WWE Network[/COLOR]</title> 
-<link>http://hlslive-akc.med1.net.wwe.com/ls01/wwe/LINEAR/WWE_ALL_DAY_NO_ARCHIVE_VIDEO_MEGA_SLAM_WWE_Mega_Linear_20180308_1520528818632/4500K/4500_slide.m3u8|Cookie=mediaAuth_v2=e3a8cff5910f220164a55042ac35b339b24eed30da31ce6771d298b82b6b9aa3f7556d49990e99d6cc2dfa499773d6ef2a039fe9567afde978f366eff5ba14519bc10121b97b49b0baeba29c2edf52fa847cc2e6b3aadc9362e291efd3744008d5d35037eb6d0df07abcd2a837f291114f1bd4273feac76914170b6c224e3bc02f2da16196d554312e752d3a79f3cc8da5551b3a0dea662c3529b5361ce46165cb161b02c85b506ed0e30314d49ffdaa3983e1040d5cb84c30218061a105dd7c67faacd97136472e7c2d6a959e67dbe47692ebab4bfbe43579350f36de868f2ec4b84b02dff54f6b0f53d8c94b65ada32983ad32ccb63d0b462e93a1a68ae2aa65e95d5d4637efef3b56da96240b761276d7cec1f65b1d0222560d3d24144e3dc723e27b9d40e058bacc34dddfcd64a45fc599341909c402bf4b3d87efc75170e62e628cea90323d141bdfb9eb4a8465ef51bfa3929e873d90c06aef761cc49c35e80051d24bb28cf59d10ed61ca11166ff89821ac7416f025ccfa8a73c689819b6e6b093f3eaeec1cc50ab6ccdfd9d3914387d71ae45715fab15ec5d20c1fb62cb9c52cd20fd978ff3224c207004b030c0f24452fd493dcf69aaefb1ee920eca878b4afc6be197cb97671ebae987edb0381bc8c628ece73aa2c220a1e6c9bc63f3144e36b5b7bb626a12101c12a4abf30018269015e6070</link> 
-<thumbnail>http://www.wwe.com/f/styles/wwe_large/public/all/2017/01/new_WWENetwork--12226c4d9b2f0aa5bfa7374022b27dab.jpg</thumbnail> 
-<fanart></fanart> 
-</item>
 
 <plugin>
 <name>[COLOR gold][B]Project Death Star Settings[/COLOR][/B]</name>

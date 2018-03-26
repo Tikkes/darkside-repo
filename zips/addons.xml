@@ -1,94 +1,94 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <addons>
 <addon id="plugin.video.deathstar" name="Project Death Star" version="0.3.6" provider-name="Beautiful Monkey">
-    <requires>
-        <import addon="xbmc.python" version="2.19.0" />
-        <import addon="script.module.universalscrapers" version="1.0.0" />
-        <import addon="script.module.python.koding.aio" version="0.9.6.6" />
-        <import addon="script.module.beautifulsoup" version="3.2.1" />
-        <import addon="script.module.requests" version="2.9.1" />
-        <import addon="script.module.addon.common" version="2.0.0" />
-        <import addon="script.module.xmltodict" version="0.9.0" />
-        <!--<import addon="script.module.web-pdb" version="1.0"/>-->
-        <import addon="script.module.resolveurl" />
-    </requires>
-    <extension point="xbmc.python.pluginsource" library="default.py">
-        <provides>audio video</provides>
-    </extension>
-    <extension point="xbmc.service" library="service.py" start="[login|startup]" />
-    <extension point="xbmc.addon.metadata">
-      <summary lang="en">Project Death Star</summary>
-      <description lang="en">My Happy Place</description>
-      <disclaimer lang="en">The author of this addon do not host any of the content which is found and have no affiliation with any of the content providers. This addon simply searches websites for content. Use at your own risk!</disclaimer>
-      <disclaimer lang="he">מחבר ההרחבה זה אינו מארח את התוכן שיתכן ויימצא ואין לו זיקה לאף אחד מספקי התוכן. הרחבה רק מחפשת תוכן שקיים באתרי אינטרנט. השימוש בהרחבה הוא על אחריותך בלבד!</disclaimer>
-      <platform>all</platform>
-        <website></website>
-        <video_guide></video_guide>
-    </extension>
+	<requires>
+		<import addon="xbmc.python" version="2.19.0" />
+		<import addon="script.module.universalscrapers" version="1.0.0" />
+		<import addon="script.module.python.koding.aio" version="0.9.6.6" />
+		<import addon="script.module.beautifulsoup" version="3.2.1" />
+		<import addon="script.module.requests" version="2.9.1" />
+		<import addon="script.module.addon.common" version="2.0.0" />
+		<import addon="script.module.xmltodict" version="0.9.0" />
+		<!--<import addon="script.module.web-pdb" version="1.0"/>-->
+		<import addon="script.module.resolveurl" />
+	</requires>
+	<extension point="xbmc.python.pluginsource" library="default.py">
+		<provides>audio video</provides>
+	</extension>
+	<extension point="xbmc.service" library="service.py" start="[login|startup]" />
+	<extension point="xbmc.addon.metadata">
+	  <summary lang="en">Project Death Star</summary>
+	  <description lang="en">My Happy Place</description>
+	  <disclaimer lang="en">The author of this addon do not host any of the content which is found and have no affiliation with any of the content providers. This addon simply searches websites for content. Use at your own risk!</disclaimer>
+	  <disclaimer lang="he">מחבר ההרחבה זה אינו מארח את התוכן שיתכן ויימצא ואין לו זיקה לאף אחד מספקי התוכן. הרחבה רק מחפשת תוכן שקיים באתרי אינטרנט. השימוש בהרחבה הוא על אחריותך בלבד!</disclaimer>
+	  <platform>all</platform>
+		<website></website>
+		<video_guide></video_guide>
+	</extension>
 </addon>
 
 <addon id="plugin.video.globalvision"
-       name="GVE"
-       version="1.0"
-       provider-name="Winks TV">
+	   name="GVE"
+	   version="1.0"
+	   provider-name="Winks TV">
   <requires>
-    <import addon="xbmc.python" version="2.1.0"/>
+	<import addon="xbmc.python" version="2.1.0"/>
 	<import addon="script.module.requests" />
   </requires>
   <extension point="xbmc.python.pluginsource"
-            library="default.py">
-        <provides>video</provides>
+			library="default.py">
+		<provides>video</provides>
   </extension>
   <extension point="xbmc.addon.metadata">
-    <summary lang="en">Global Vision Ent.</summary>
-    <language>en</language>
-    <description lang="en">Global Vision Ent. The worlds largest supplier in cable.</description>
-     <platform>all</platform>
+	<summary lang="en">Global Vision Ent.</summary>
+	<language>en</language>
+	<description lang="en">Global Vision Ent. The worlds largest supplier in cable.</description>
+	 <platform>all</platform>
   </extension>
 </addon>
 
 <addon id="plugin.video.live.streamspro"
-       name="LiveStreamsPro"
-       version="2.8.1"
-       provider-name="Shani">
+	   name="LiveStreamsPro"
+	   version="2.8.1"
+	   provider-name="Shani">
   <requires>
-    <import addon="xbmc.python" version="2.1.0"/>
-    <import addon="script.module.beautifulsoup" version="3.2.1"/>
-    <import addon="script.module.simple.downloader" version="0.9.4"/>
-    <import addon="script.module.beautifulsoup4" />
-    <import addon="script.module.requests" />
-    <import addon="script.module.httplib2" />
-    <import addon="script.module.liveresolver" version="0.1.24" optional="true"/>
-    <import addon="script.module.youtube.dl" optional="true"/>
-    <import addon="plugin.video.youtube" optional="true" />
-    <import addon="script.module.urlresolver" optional="true"/>
-    <import addon="script.module.simplejson" />
-     <import addon="script.module.livestreamer" optional="true"/>
-     <import addon="script.module.pyamf" optional="true"/>
+	<import addon="xbmc.python" version="2.1.0"/>
+	<import addon="script.module.beautifulsoup" version="3.2.1"/>
+	<import addon="script.module.simple.downloader" version="0.9.4"/>
+	<import addon="script.module.beautifulsoup4" />
+	<import addon="script.module.requests" />
+	<import addon="script.module.httplib2" />
+	<import addon="script.module.liveresolver" version="0.1.24" optional="true"/>
+	<import addon="script.module.youtube.dl" optional="true"/>
+	<import addon="plugin.video.youtube" optional="true" />
+	<import addon="script.module.urlresolver" optional="true"/>
+	<import addon="script.module.simplejson" />
+	 <import addon="script.module.livestreamer" optional="true"/>
+	 <import addon="script.module.pyamf" optional="true"/>
   </requires>
   <extension point="xbmc.python.pluginsource" library="default.py">
-    <provides>video</provides>
+	<provides>video</provides>
   </extension>
 
 
   <extension point="xbmc.addon.metadata">
-    <summary>livestreamspro- shamelessly forked from livestreams but added many thinks</summary>
-    <description>
-        In addition to what livestreams allowed you to do, you can now,
-        1. call regex in regex,
-        2. multiple regex in page, regex in session, also htmlunescape responses
-        3. create session from one regex and pass onto next in line
-        4. save sessions to a file and open again later
-        5. write python code in .py file, put in the profile directory and then call from your regex.
-        6. use epoctime, guid and unpack as functions already defined.
-        7. Use it to post values to the pages to get the proper responses
-        8. support many headers, like origin, X-Requested-With
-        9. you can now append cookies in response and then read in regex using includeheaders
-        10. You can now link to another web url via your xml using externallink
-        11. support for google captcha, now you can show and then post the text
+	<summary>livestreamspro- shamelessly forked from livestreams but added many thinks</summary>
+	<description>
+		In addition to what livestreams allowed you to do, you can now,
+		1. call regex in regex,
+		2. multiple regex in page, regex in session, also htmlunescape responses
+		3. create session from one regex and pass onto next in line
+		4. save sessions to a file and open again later
+		5. write python code in .py file, put in the profile directory and then call from your regex.
+		6. use epoctime, guid and unpack as functions already defined.
+		7. Use it to post values to the pages to get the proper responses
+		8. support many headers, like origin, X-Requested-With
+		9. you can now append cookies in response and then read in regex using includeheaders
+		10. You can now link to another web url via your xml using externallink
+		11. support for google captcha, now you can show and then post the text
 
-    </description>
-    <platform>all</platform>
+	</description>
+	<platform>all</platform>
   </extension>
 </addon>
 
@@ -107,45 +107,45 @@
    <import addon="plugin.video.f4mTester" />
   </requires>
   <extension
-    point="xbmc.python.pluginsource"
-    library="default.py">
+	point="xbmc.python.pluginsource"
+	library="default.py">
    <provides>video</provides>
   </extension>
   <extension point="xbmc.service" library="service/streamlink_proxy.py" start="startup" />
   <extension point="xbmc.addon.metadata">
-    <summary lang="en">SportsDevil addon</summary>
-    <description lang="en">Play videos of different ad-financed sports streaming sites.</description>
-    <disclaimer lang="en">SportsDevil does not provide any streams of its own; stream quality, content and copyright are responsibility of the ad-financed source web site. For updates - check the readme.</disclaimer>
-    <license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
-    <platform>all</platform>
+	<summary lang="en">SportsDevil addon</summary>
+	<description lang="en">Play videos of different ad-financed sports streaming sites.</description>
+	<disclaimer lang="en">SportsDevil does not provide any streams of its own; stream quality, content and copyright are responsibility of the ad-financed source web site. For updates - check the readme.</disclaimer>
+	<license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
+	<platform>all</platform>
   </extension>
 </addon>
 
 <addon id="plugin.video.youtube" name="YouTube" version="6.0.0~beta1" provider-name="bromix">
-    <requires>
-        <import addon="xbmc.python" version="2.20.0"/>
-        <import addon="script.module.six"/>
-        <import addon="script.module.requests" version="2.12.4"/>
-    </requires>
-    <extension point="xbmc.python.pluginsource" library="resources/lib/default.py">
-        <provides>video</provides>
-    </extension>
-    <extension point="xbmc.service" library="resources/lib/startup.py" start="startup"/>
-    <extension point="xbmc.python.module" library="resources/lib/"/>
-    <extension point="xbmc.addon.metadata">
-        <news>
+	<requires>
+		<import addon="xbmc.python" version="2.20.0"/>
+		<import addon="script.module.six"/>
+		<import addon="script.module.requests" version="2.12.4"/>
+	</requires>
+	<extension point="xbmc.python.pluginsource" library="resources/lib/default.py">
+		<provides>video</provides>
+	</extension>
+	<extension point="xbmc.service" library="resources/lib/startup.py" start="startup"/>
+	<extension point="xbmc.python.module" library="resources/lib/"/>
+	<extension point="xbmc.addon.metadata">
+		<news>
 [add] Python 3 compat.
 [add] Settings -> Maintenance -> Delete temporary files
 [add] Settings -> General -> Rate video after watching
 [add] Settings -> API -> Enable API configuration page
-        - when enabled, visit http://ipaddress:port/api to configure API keys from a web browser
-        - port is configured in Settings - HTTP Server - Port
+		- when enabled, visit http://ipaddress:port/api to configure API keys from a web browser
+		- port is configured in Settings - HTTP Server - Port
 [add] Storing personal api keys in api_keys.json, restore keys from json on settings loss
 [add] Storing login tokens in access_manager.json, restore tokens from json on settings loss
 [add] youtube_registration module, register developer keys and use them by appending an addon_id=:addon_id parameter to youtube add-on plugin urls
 [add] screensaver=true parameter to /play route - no suggested videos, no post play events, don't ask for quality
 [add] play route for channel live streams
-        - plugin://plugin.video.youtube/play/?channel_id=UCLA_DiR1FfKNvjuUpBHmylQ&amp;live=1
+		- plugin://plugin.video.youtube/play/?channel_id=UCLA_DiR1FfKNvjuUpBHmylQ&amp;live=1
 [fix] Signature deciphering
 [fix] context menu after playback
 [fix] alternative player, do not append headers
@@ -156,62 +156,61 @@
 [upd] French strings [bubuleur]
 [upd] Greek strings [twilight0]
 [upd] Spanish strings [roliverosc]
-        </news>
-        <assets>
-            <icon>icon.png</icon>
-            <fanart>fanart.jpg</fanart>
-        </assets>
-        <summary lang="en_gb">Plugin for YouTube</summary>
-        <description lang="en_gb">YouTube is one of the biggest video-sharing websites of the world.</description>
-        <disclaimer lang="en_gb">This plugin is not endorsed by Google</disclaimer>
-        <summary lang="he_il">תוסף עבור YouTube</summary>
-        <description lang="he_il">YouTube הוא אחד מאתרי שיתוף הווידאו הגדולים בעולם.</description>
-        <summary lang="de_de">Plugin für YouTube</summary>
-        <description lang="de_de">YouTube ist eines der größten Video-Sharing-Websites der Welt.</description>
-        <summary lang="pl_pl">Wtyczka YouTube</summary>
-        <description lang="pl_pl">YouTube jest jednym z największych na świecie serwisów udostępniania wideo.</description>
-        <summary lang="hu_hu">YouTube kiegészítő</summary>
-        <description lang="hu_hu">A YouTube világ egyik legnagyobb videómegosztó weboldala.</description>
-        <summary lang="es_es">Plugin para YouTube</summary>
-        <description lang="es_es">YouTube es uno de los mayores sitios web de intercambio de vídeos del mundo.</description>
-        <disclaimer lang="es_es">Este add-on no esta respaldado por Google</disclaimer>
-        <summary lang="ru_ru">Видеодополнение YouTube</summary>
-        <description lang="ru_ru">Данное дополнение позволяет находить и смотреть видео на всеми любимом сайте.</description>
-        <summary lang="fr_fr">Plugin pour YouTube</summary>
-        <description lang="fr_fr">YouTube est l'un des plus grands sites de partage vidéos du monde.</description>
-        <summary lang="zh_cn">YouTube附加元件</summary>
-        <description lang="zh_cn">「Youtube」是全世界最大的影片分享網站</description>
-        <summary lang="bg_bg">Добавка за YouTube</summary>
-        <description lang="bg_bg">YouTube е един от най-големите уеб сайтове за споделяне на видео в целия свят.</description>
-        <summary lang="el_gr">Πρόσθετο YouTube</summary>
-        <description lang="el_gr">Το YouTube είναι μία από τις μεγαλύτερες ιστοσελίδες διαμοιρασμού βίντεο στον κόσμο.</description>
-        <disclaimer lang="el_gr">Η παρούσα μικροεφαρμογή δεν έχει υϊοθετηθεί από την Google</disclaimer>
-        <summary lang="nb_no">Tillegg for YouTube</summary>
-        <description lang="nb_no">YouTube er en av verdens største nettsider for videodeling.</description>
-        <language></language>
-        <platform>all</platform>
-        <license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
-        <forum>https://forum.kodi.tv/showthread.php?tid=325740</forum>
-        <website>https://www.youtube.com</website>
-        <email>ytplugin at datanet dot ws</email>
-        <source>https://github.com/jdf76/plugin.video.youtube</source>
-        <size>1776578</size>
-    </extension>
+		</news>
+		<assets>
+			<icon>icon.png</icon>
+			<fanart>fanart.jpg</fanart>
+		</assets>
+		<summary lang="en_gb">Plugin for YouTube</summary>
+		<description lang="en_gb">YouTube is one of the biggest video-sharing websites of the world.</description>
+		<disclaimer lang="en_gb">This plugin is not endorsed by Google</disclaimer>
+		<summary lang="he_il">תוסף עבור YouTube</summary>
+		<description lang="he_il">YouTube הוא אחד מאתרי שיתוף הווידאו הגדולים בעולם.</description>
+		<summary lang="de_de">Plugin für YouTube</summary>
+		<description lang="de_de">YouTube ist eines der größten Video-Sharing-Websites der Welt.</description>
+		<summary lang="pl_pl">Wtyczka YouTube</summary>
+		<description lang="pl_pl">YouTube jest jednym z największych na świecie serwisów udostępniania wideo.</description>
+		<summary lang="hu_hu">YouTube kiegészítő</summary>
+		<description lang="hu_hu">A YouTube világ egyik legnagyobb videómegosztó weboldala.</description>
+		<summary lang="es_es">Plugin para YouTube</summary>
+		<description lang="es_es">YouTube es uno de los mayores sitios web de intercambio de vídeos del mundo.</description>
+		<disclaimer lang="es_es">Este add-on no esta respaldado por Google</disclaimer>
+		<summary lang="ru_ru">Видеодополнение YouTube</summary>
+		<description lang="ru_ru">Данное дополнение позволяет находить и смотреть видео на всеми любимом сайте.</description>
+		<summary lang="fr_fr">Plugin pour YouTube</summary>
+		<description lang="fr_fr">YouTube est l'un des plus grands sites de partage vidéos du monde.</description>
+		<summary lang="zh_cn">YouTube附加元件</summary>
+		<description lang="zh_cn">「Youtube」是全世界最大的影片分享網站</description>
+		<summary lang="bg_bg">Добавка за YouTube</summary>
+		<description lang="bg_bg">YouTube е един от най-големите уеб сайтове за споделяне на видео в целия свят.</description>
+		<summary lang="el_gr">Πρόσθετο YouTube</summary>
+		<description lang="el_gr">Το YouTube είναι μία από τις μεγαλύτερες ιστοσελίδες διαμοιρασμού βίντεο στον κόσμο.</description>
+		<disclaimer lang="el_gr">Η παρούσα μικροεφαρμογή δεν έχει υϊοθετηθεί από την Google</disclaimer>
+		<summary lang="nb_no">Tillegg for YouTube</summary>
+		<description lang="nb_no">YouTube er en av verdens største nettsider for videodeling.</description>
+		<language></language>
+		<platform>all</platform>
+		<license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
+		<forum>https://forum.kodi.tv/showthread.php?tid=325740</forum>
+		<website>https://www.youtube.com</website>
+		<email>ytplugin at datanet dot ws</email>
+		<source>https://github.com/jdf76/plugin.video.youtube</source>
+		<size>1776578</size>
+	</extension>
 </addon>
 
-<addon id="repository.darkside" name="The Dark Side Repository" version="0.0.4" provider-name="laffinatcha - tikkes">
+<addon id="repository.darkside" name="The Dark Side Repository" version="0.0.5" provider-name="laffinatcha - tikkes">
 	<extension point="xbmc.addon.repository" name="The Dark Side Repository">
 		<dir>
-                <info compressed="false">https://raw.githubusercontent.com/teamuniversal/scrapers/master/_modules4all/zips/addons.xml</info>
-                <checksum>https://raw.githubusercontent.com/teamuniversal/scrapers/master/_modules4all/zips/addons.xml.md5</checksum>
-                <datadir zip="true">https://raw.githubusercontent.com/teamuniversal/scrapers/master/_modules4all/zips/</datadir>
-        </dir>
-
-		<info compressed="false">https://raw.githubusercontent.com/Tikkes/darkside-repo/master/zips/addons.xml</info>
-		<checksum>https://raw.githubusercontent.com/Tikkes/darkside-repo/master/zips/addons.xml.md5</checksum>
-		<datadir zip="true">https://raw.githubusercontent.com/Tikkes/darkside-repo/master/zips/</datadir>
-
-
+			<info compressed="false">https://raw.githubusercontent.com/teamuniversal/scrapers/master/_modules4all/zips/addons.xml</info>
+			<checksum>https://raw.githubusercontent.com/teamuniversal/scrapers/master/_modules4all/zips/addons.xml.md5</checksum>
+			<datadir zip="true">https://raw.githubusercontent.com/teamuniversal/scrapers/master/_modules4all/zips/</datadir>
+		</dir>
+		<dir>
+			<info compressed="false">https://raw.githubusercontent.com/Tikkes/darkside-repo/master/zips/addons.xml</info>
+			<checksum>https://raw.githubusercontent.com/Tikkes/darkside-repo/master/zips/addons.xml.md5</checksum>
+			<datadir zip="true">https://raw.githubusercontent.com/Tikkes/darkside-repo/master/zips/</datadir>
+		</dir>
 	</extension>
 	<extension point="xbmc.addon.metadata">
 		<summary lang="en">The Dark Side Repository</summary>
@@ -220,16 +219,18 @@
 	</extension>
 </addon>
 
-<addon id="repository.lubesoxx" name="[COLOR hotpink][B]LubeSoxx[/COLOR][/B]" version="0.0.3" provider-name="[COLOR limegreen][I]LaffinAtcha[/COLOR][/I]">
+<addon id="repository.lubesoxx" name="[COLOR hotpink][B]LubeSoxx[/COLOR][/B]" version="0.0.4" provider-name="[COLOR limegreen][I]LaffinAtcha[/COLOR][/I]">
 	<extension point="xbmc.addon.repository" name="LubeSoxx Repository">
-    <dir>
-      <info compressed="false">https://raw.githubusercontent.com/teamuniversal/scrapers/master/_modules4all/zips/addons.xml</info>
-      <checksum>https://raw.githubusercontent.com/teamuniversal/scrapers/master/_modules4all/zips/addons.xml.md5</checksum>
-      <datadir zip="true">https://raw.githubusercontent.com/teamuniversal/scrapers/master/_modules4all/zips/</datadir>
-    </dir>
+	<dir>
+	  <info compressed="false">https://raw.githubusercontent.com/teamuniversal/scrapers/master/_modules4all/zips/addons.xml</info>
+	  <checksum>https://raw.githubusercontent.com/teamuniversal/scrapers/master/_modules4all/zips/addons.xml.md5</checksum>
+	  <datadir zip="true">https://raw.githubusercontent.com/teamuniversal/scrapers/master/_modules4all/zips/</datadir>
+	</dir>
+	<dir>
 		<info compressed="false">https://raw.githubusercontent.com/LaffinAtcha/repository.lubesoxx/master/zips/addons.xml</info>
 		<checksum>https://raw.githubusercontent.com/LaffinAtcha/repository.lubesoxx/master/zips/addons.xml.md5</checksum>
 		<datadir zip="true">https://raw.githubusercontent.com/LaffinAtcha/repository.lubesoxx/master/zips/</datadir>
+	</dir>
 	</extension>
 	<extension point="xbmc.addon.metadata">
 		<summary lang="en">LubeSoxx Repo</summary>
@@ -241,14 +242,15 @@
 <addon id="repository.ouroboros" name="Ouroboros Repository" version="0.0.3" provider-name="TheBeautifulMonkey">
 	<extension point="xbmc.addon.repository" name="Ouroboros Repository">
 		<dir>
-                <info compressed="false">https://raw.githubusercontent.com/teamuniversal/scrapers/master/_modules4all/zips/addons.xml</info>
-                <checksum>https://raw.githubusercontent.com/teamuniversal/scrapers/master/_modules4all/zips/addons.xml.md5</checksum>
-                <datadir zip="true">https://raw.githubusercontent.com/teamuniversal/scrapers/master/_modules4all/zips/</datadir>
-        </dir>
-
-		<info compressed="false">https://raw.githubusercontent.com/TheBeautifulMonkey/repository.ouroboros/master/zips/addons.xml</info>
-		<checksum>https://raw.githubusercontent.com/TheBeautifulMonkey/repository.ouroboros/master/zips/addons.xml.md5</checksum>
-		<datadir zip="true">https://raw.githubusercontent.com/TheBeautifulMonkey/repository.ouroboros/master/zips/</datadir>
+			<info compressed="false">https://raw.githubusercontent.com/teamuniversal/scrapers/master/_modules4all/zips/addons.xml</info>
+			<checksum>https://raw.githubusercontent.com/teamuniversal/scrapers/master/_modules4all/zips/addons.xml.md5</checksum>
+			<datadir zip="true">https://raw.githubusercontent.com/teamuniversal/scrapers/master/_modules4all/zips/</datadir>
+		</dir>
+		<dir>
+			<info compressed="false">https://raw.githubusercontent.com/TheBeautifulMonkey/repository.ouroboros/master/zips/addons.xml</info>
+			<checksum>https://raw.githubusercontent.com/TheBeautifulMonkey/repository.ouroboros/master/zips/addons.xml.md5</checksum>
+			<datadir zip="true">https://raw.githubusercontent.com/TheBeautifulMonkey/repository.ouroboros/master/zips/</datadir>
+		</dir>
 	</extension>
 	<extension point="xbmc.addon.metadata">
 		<summary lang="en">ouroboros</summary>
@@ -259,45 +261,45 @@
 
 <addon id="script.common.plugin.cache" name="Common plugin cache" provider-name="TheCollective" version="2.5.10">
   <requires>
-    <import addon="xbmc.python" version="2.24.0" />
+	<import addon="xbmc.python" version="2.24.0" />
   </requires>
   <extension library="default.py" point="xbmc.service" start="startup">
   </extension>
   <extension point="xbmc.addon.metadata">
-    <platform>all</platform>
-    <summary lang="en">Common caching api for xbmc plugins.</summary>
+	<platform>all</platform>
+	<summary lang="en">Common caching api for xbmc plugins.</summary>
   </extension>
   <extension library="lib" point="xbmc.python.module" />
 </addon>
 
 <addon id="script.module.simple.downloader" name="Simple Downloader for xbmc plugins" provider-name="TheCollective" version="1.9.5">
   <requires>
-    <import addon="xbmc.python" version="2.1.0" />
-    <import addon="script.common.plugin.cache" version="2.5.0" />
-    <import addon="script.module.parsedom" version="2.5.1" />
+	<import addon="xbmc.python" version="2.1.0" />
+	<import addon="script.common.plugin.cache" version="2.5.0" />
+	<import addon="script.module.parsedom" version="2.5.1" />
   </requires>
   <extension library="default.py" point="xbmc.service" />
   <extension point="xbmc.addon.metadata">
-    <platform>all</platform>
-    <summary lang="en">Simple downloader for xbmc plugins.</summary>
+	<platform>all</platform>
+	<summary lang="en">Simple downloader for xbmc plugins.</summary>
   </extension>
   <extension library="lib" point="xbmc.python.module" />
 </addon>
 
 <addon id="script.module.streamlink.plugins" name="Streamlink Plugins" version="1.0.3" provider-name="Twilight0">
   <requires>
-    <import addon="xbmc.python" version="2.1.0"/>
-    <import addon="script.module.requests" version="2.12.4"/>
+	<import addon="xbmc.python" version="2.1.0"/>
+	<import addon="script.module.requests" version="2.12.4"/>
   </requires>
   <extension point="xbmc.service"/>
   <extension point="xbmc.addon.metadata">
-    <summary>Streamlink Plugins</summary>
-    <description>Copy your custom streamlink plugins in this Kodi plugin.</description>
-    <platform>all</platform>
-    <license>GNU GPL, version 2</license>
-    <source>https://github.com/Twilight0/script.module.streamlink.plugins</source>
-    <!--<website></website>-->
-    <!--<language></language>-->
+	<summary>Streamlink Plugins</summary>
+	<description>Copy your custom streamlink plugins in this Kodi plugin.</description>
+	<platform>all</platform>
+	<license>GNU GPL, version 2</license>
+	<source>https://github.com/Twilight0/script.module.streamlink.plugins</source>
+	<!--<website></website>-->
+	<!--<language></language>-->
   </extension>
 </addon>
 

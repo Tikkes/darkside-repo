@@ -119,6 +119,16 @@
         <fanart></fanart>
         <summary>75 commercial-free music channels, 25 music video channels</summary>
 </dir>
+	    
+<dir>
+    <title>Search Artist</title>
+    <lastfm>search/artist</lastfm>
+</dir>
+
+<dir>
+    <title>Search Album</title>
+    <lastfm>search/album</lastfm>
+</dir>
 
 <dir>
   <title>[COLOR gold][B]Search TMDB[/COLOR][/B]</title>

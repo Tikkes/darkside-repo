@@ -58,6 +58,11 @@
     <title>YouTube</title>
     <tvmaze>web_channel/21</tvmaze>
     </dir>
+
+	<dir>
+    <title>YouTube Red</title>
+    <tvmaze>web_channel/43</tvmaze>
+    </dir>
 	
 	<dir>
     <title>Unites States Networks</title>

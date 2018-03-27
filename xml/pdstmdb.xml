@@ -55,17 +55,20 @@
 </dir>
 
     <dir>
-    <title>YouTube</title>
-    <tvmaze>web_channel/21</tvmaze>
+    <title>netflix test</title>
+    <tvmaze>web_channel/1</tvmaze>
     </dir>
 
+
+
+
 	<dir>
-    <title>YouTube Red</title>
+    <title>YouTube Red test</title>
     <tvmaze>web_channel/43</tvmaze>
     </dir>
 	
 	<dir>
-    <title>Unites States Networks</title>
+    <title>Unites States Networks test</title>
     <tvmaze>country/United States/1</tvmaze>
     </dir>
 

@@ -23,15 +23,6 @@
 <fanart>http://hd.wallpaperswide.com/thumbs/star_wars_the_last_jedi-t2.jpg</fanart>
 </item>
 
-<dir>
-     <name>[COLOR blue][B]4K[/COLOR][/B]</name>
-     <link>https://raw.githubusercontent.com/Tikkes/darkside-repo/master/xml/4k.xml</link>
-     <animated_thumbnail></animated_thumbnail>
-     <thumbnail>https://i.imgur.com/1fpQMxJ.png</thumbnail>
-     <animated_fanart></animated_fanart>
-     <fanart></fanart>
-</dir>
-
 <item>
 <title>[COLOR blue]MLB Network[/COLOR]</title>
 <link>http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.m3u8</link>
@@ -53,6 +44,12 @@
     <fanart><fanart>
 </item>
 	    
+<item>
+<title>[COLOR lime] UFC 223 Prelims[/COLOR]</title>
+<link>http://nlds235.cdnak.neulion.com/nlds/ufc/camera0/as/live/camera0_hd_4500_ced.m3u8?hdnea=expires%3D1523127680%7Eaccess%3D%2Fnlds%2Fufcp%2Fcamera0%2Fas%2Flive%2F*%7Emd5%3D05e8aefd499354f490c509837d66aab0&nltid=ufc&nltdt=8&nltnt=1&uid=1159795|User-Agent=Mozilla/5.0 (Linux; Android 6.0.1; D6603 Build/23.5.A.0.570; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/56.0.2924.87 Mobile Safari/537.36 android mobile ufc 7.0310</link>
+<thumbnail>https://45arm52stre82jmdyv22v8ez-wpengine.netdna-ssl.com/wp-content/uploads/2018/03/UFC-223-Poster-696x675.jpg</thumbnail>
+<fanart>http://static1.squarespace.com/static/549ded09e4b0510339ae4f06/59c5b3a6f09ca4eb6e3690f2/5abbf9f7f950b7364ceb0014/1522269312884/223.jpg</fanart>
+</item>
 
 
 <plugin>

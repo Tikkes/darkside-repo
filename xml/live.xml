@@ -4,6 +4,11 @@
     </dir>
 
     <dir>
+    <title>[COLOR dodgerblue][B]PDS 24-7 CHANNELS[/COLOR][/B]</title>
+    <Airtable>247</Airtable>
+    </dir>
+
+    <dir>
     <title>[COLOR dodgerblue][B]PDS LIVE TV CHANNELS[/COLOR][/B]</title>
     <Airtable>tv_channels</Airtable>
     </dir>
